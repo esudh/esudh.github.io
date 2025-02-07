@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
+toc_label: "About the ESU"
+toc_sticky: true
+toc_icon: "calendar"
 ---
 
 ## The Name
