@@ -1,9 +1,15 @@
 main:
   - title: "About ESU"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Application"
+    url: /application/
+  - title: "Participation"
+    url: /application/  
+  - title: "News"
+    url: /news/
+  - title: "Besançon"
+    url: /besancon/
   - title: "Tags"
     url: /tags/
+  - title: "Archive"
+    url: /archive/
