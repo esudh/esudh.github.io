@@ -1,6 +1,6 @@
-title: "Besançon"
-layout: "Besançon"
+---
 permalink: /Besançon/
+title: "Besançon"
 author_profile: true
 toc_label: "Besançon"
 toc_sticky: true
