@@ -1,7 +1,7 @@
 ---
 permalink: /Besançon/
 title: "Besançon"
-author_profile: true
+toc: true
 toc_label: "Besançon"
 toc_sticky: true
 toc_icon: "calendar"
