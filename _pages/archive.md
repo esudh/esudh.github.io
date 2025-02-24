@@ -13,4 +13,7 @@ toc_icon: "calendar"
 https://web.archive.org/web/20220808160733/https://esu.fdhl.info/workshops/
 
 ## 2022
-https://web.archive.org/web/20220808160733/https://esu.fdhl.info/workshops/
+[Workshops](https://web.archive.org/web/20220808160733/https://esu.fdhl.info/workshops/), Lectures, Projects, Posters
+
+## 2021
+ Workshops, Lectures, Projects, Posters

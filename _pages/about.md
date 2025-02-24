@@ -7,7 +7,7 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 
-## The Name
+## The Name of the European Summer University "Culture and Technology"
 
 Culture and technology should not be understood as referring to computer science applied to cultural studies. The central concern are the Humanities, which are concerned with culture in the broadest sense. Those fields within the Humanities that integrate technologies and computing in their research and which are at least potentially in dialogue with the questions posed by the Digital Humanities are our privileged addressees.
 
