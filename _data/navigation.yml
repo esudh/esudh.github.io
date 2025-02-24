@@ -5,8 +5,6 @@ main:
     url: /application/
   - title: "Participation"
     url: /application/  
-  - title: "News"
-    url: /news/
   - title: "Besançon"
     url: /besancon/
   - title: "Tags"
