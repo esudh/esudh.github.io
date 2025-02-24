@@ -6,7 +6,8 @@ toc_label: "Besançon"
 toc_sticky: true
 toc_icon: "calendar"
 ---
-## The ESU 2025 will be located within the premises of the faculty of Humanities of the university Marie et Louis Pasteur (ex-university of Franche-Comté) in the center of Besançon.
+
+The ESU 2025 will be located within the premises of the faculty of Humanities of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/) (ex-university of Franche-Comté) in the center of Besançon.
 
 ## Coming to Besançon
 It is possible to reach Besançon by train, by bus, by car and by plane. 
