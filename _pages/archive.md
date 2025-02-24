@@ -8,7 +8,7 @@ toc_icon: "calendar"
 ---
 
 ## 2024
-[Workshops](https://web.archive.org/web/20241013033951/https://esu-ct.conference.ubbcluj.ro/programme/#workshops*){:target="_blank"}, [Lectures](https://web.archive.org/web/20250221073017/https://esu-ct.conference.ubbcluj.ro/lectures/){:target="_blank"}, [Projects]()
+[Workshops](https://web.archive.org/web/20241013033951/https://esu-ct.conference.ubbcluj.ro/programme/#workshops*){:target="_blank"}, [Lectures](https://web.archive.org/web/20250221073017/https://esu-ct.conference.ubbcluj.ro/lectures/){:target="_blank"}, [Projects](https://web.archive.org/web/20240909091007/https://esu-ct.conference.ubbcluj.ro/project-presentations/){:target="_blank"}
 
 ## 2023
 [Workshops](https://web.archive.org/web/20230829114737/https://digihubb.centre.ubbcluj.ro/workshops/){:target="_blank"}
