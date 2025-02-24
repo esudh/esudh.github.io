@@ -7,9 +7,9 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 
-## The European Summer University "Culture and Technology"
+## The European Summer University in Digital Humanities "Culture and Technology"
 
-Culture and technology should not be understood as referring to computer science applied to cultural studies. The central concern are the Humanities, which are concerned with culture in the broadest sense. Those fields within the Humanities that integrate technologies and computing in their research and which are at least potentially in dialogue with the questions posed by the Digital Humanities are our privileged addressees.
+"Culture and technology" should not be understood as referring to computer science applied to cultural studies. The central concern are the Humanities, which are concerned with culture in the broadest sense. Those fields within the Humanities that integrate technologies and computing in their research and which are at least potentially in dialogue with the questions posed by the Digital Humanities are our privileged addressees.
 
 The school was originally conceived as „European“ in order to emphasise the object of promoting and developing the Digital Humanities within a European context. The applications of participation submitted for the 2. Summer School demonstrated clearly, however, that the Summer School was already acknowledged as an institution in Europe, qua an established European institution.
 
