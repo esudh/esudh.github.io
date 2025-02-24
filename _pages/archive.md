@@ -1,8 +1,8 @@
 ---
 permalink: /archive/
-title: "archive"
+title: "Archive"
 toc: true
-toc_label: "archive"
+toc_label: "Archive"
 toc_sticky: true
 toc_icon: "calendar"
 ---
