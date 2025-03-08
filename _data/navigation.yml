@@ -5,8 +5,6 @@ main:
     url: /esubesancon/
   - title: "Workshops and Lectures"
     url: /Workshops and Lectures/ 
-  - title: "Doing DH in Besançon"
-    url: /DHBesancon/
   - title: "Application"
     url: /application/
   - title: "ESU Archive"
