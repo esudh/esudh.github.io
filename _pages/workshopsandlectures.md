@@ -78,7 +78,7 @@ To enrich the learning experience, this workshop will aim to incorporate:
 - Machine learning-assisted metadata extraction, including OCR (Transkribus), Google Vision API, and Named Entity Recognition (NER) 
 - Sustainability and long-term digital archive maintenance strategies
 
-[Top](https://esudh.github.io/Workshops%20and%20Lectures/)
+[Top](https://esudh.github.io/WorkshopsandLectures/)
 
 ### Digital Curation and Cultural Heritage (Carol Chiodo, The Claremont Colleges, USA)
 The workshop will last one week, from July 22 to July 26.
@@ -92,7 +92,7 @@ This workshop comprises two parts:
 •	Week 2: XML-TEI document structuring and rendering deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations. This is a hands-on, medium-high level course. 
 BRIEF BIO: https://alexbia.umh.es/bio-eng/brief-cv/
 
-[Top](https://esudh.github.io/Workshops%20and%20Lectures/)
+[Top](https://esudh.github.io/WorkshopsandLectures/)
 
 ### Humanities Data and Mapping Environments (David Wrisley, New York University, Abu Dhabi, UAE and Voica Pușcașiu, Babeș-Bolyai University, Romania, tbc)
 This spatial humanities workshop will introduce participants to different ways of thinking about humanities data, their curation within projects, and their use in digital mapping environments. The workshop will not be a traditional course in Geographic Information Systems (GIS), although we will use open source GIS and web mapping along the way. The workshop is designed for the total beginner who would like (1) to explore how a spatial dimension can enrich humanities and interdisciplinary research projects and (2) to learn some fundamental skills for collecting and organizing data in order to be able to integrate such methods into their research workflows. Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research.
@@ -108,10 +108,10 @@ A Zotero library of supplementary readings will be provided by the instructors.
 Instructor bios:
 David Joseph Wrisley (NYU Abu Dhabi) is Professor of Digital Humanities at NYU Abu Dhabi. His research interests include comparative approaches to medieval literature in European languages and Arabic, digital spatial approaches to corpora, neural methods for handwritten text recognition across writing systems and open knowledge community building. He is interested in the emergence of digital humanities in non-Western, non-English cultures, in particular the contemporary MENA setting.
 
-[Top](https://esudh.github.io/Workshops%20and%20Lectures/)
+[Top](https://esudh.github.io/WorkshopsandLectures/)
 
 ## Lectures
 
 The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. The list and the schedules will soon be published. 
 
-[Top](https://esudh.github.io/Workshops%20and%20Lectures/)
+[Top](https://esudh.github.io/WorkshopsandLectures/)
