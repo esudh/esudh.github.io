@@ -38,7 +38,7 @@ The city of Besançon, ca. 120 000 inhabitants and more than 25 000 students, of
 ## What to do, what to see
 
 For us, organizers, welcoming the ESU also means welcoming scholars from all over the world to our territory. Throughout the two weeks of your stay in Besançon, we will try to give a snapshot of Besançon and its surroundings as well of our traditional food. 
-We will come back to you in a few weeks with a more detailed program of meals and visits. Meanwhile, have a look to [Besançon](https://www.besancon-tourisme.com/en/destination/) and the [region](https://www.bourgognefranchecomte.com/)
+We will come back to you in a few weeks with a more detailed program of meals and visits. Meanwhile, have a look at [Besançon](https://www.besancon-tourisme.com/en/destination/) and the surrounding [region](https://www.bourgognefranchecomte.com/)
 
 [Top](https://esudh.github.io/esubesancon/)
 
