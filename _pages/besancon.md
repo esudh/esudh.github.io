@@ -13,15 +13,17 @@ The ESU 2025 will be located within the premises of the [faculty of Humanities] 
 
 ## Coming to Besançon
 
-Besançon https://www.besancon-tourisme.com/en/destination/ is located in the east of France, halfway between Lyons and Strasbourg, close to Switzerland and relatively close to Germany and Italy. It is possible to reach Besançon by train, by bus, by car and by plane. The closest airports are Basel-Mulhouse Euroairport, Paris (Charles de Gaulle and Orly) and Lyon Saint-Exupéry. It takes 3 to 5 hours to reach Besançon from these airports. 
+[Besançon] (https://www.besancon-tourisme.com/en/destination/) is located in the east of France, halfway between Lyons and Strasbourg, close to Switzerland and relatively close to Germany and Italy. It is possible to reach Besançon by train, by bus, by car and by plane. The closest airports are Basel-Mulhouse Euroairport, Paris (Charles de Gaulle and Orly) and Lyon Saint-Exupéry. It takes 3 to 5 hours to reach Besançon from these airports. 
 
 ## Accommodation 
 
 The city of Besançon, ca. 120 000 inhabitants and more than 25 000 students, offers several possibilities of relatively cheap accommodation. For the ESU 2025, several options are available: 
-1°) the first one is Bed n’ Crous Besançon (24 Euros / night, breakfast excluded) https://www.bedandcrous.com/en/residences/besancon proposed by our partner the Crous Bourgogne Franche-Comté
-2°) the second one is the Centre International de Séjour (45,60 Euros/night for a single room during weekdays, 40,90 Euros/night during weekends for a single room, including breakfast ; 28,60 Euros/night/person for a double room during weekdays, 23,90 Euros during weekends, including breakfast)
-https://www.cis-besancon.com/chambre-sejour 	
-3°) we will provide, in a few weeks, a list of hotels with which the university Marie and Louis Pasteur is working and that will offer a reduced rate for ESU participants.
+
+- 1°) the first one is Bed n’ Crous Besançon (24 Euros / night, breakfast excluded) proposed by our partner the [Crous Bourgogne Franche-Comté] (https://www.bedandcrous.com/en/residences/besancon)
+
+- 2°) the second one is the [Centre International de Séjour] (https://www.cis-besancon.com/chambre-sejour) (45,60 Euros/night for a single room during weekdays, 40,90 Euros/night during weekends for a single room, including breakfast ; 28,60 Euros/night/person for a double room during weekdays, 23,90 Euros during weekends, including breakfast)
+	
+- 3°) we will provide, in a few weeks, a list of hotels with which the university Marie and Louis Pasteur is working and that will offer a reduced rate for ESU participants.
 
 ## What to do, what to see
 
