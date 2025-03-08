@@ -1,5 +1,5 @@
 ---
-permalink: /ESU Archive/
+permalink: /esuarchive/
 title: "ESU Archive"
 toc: true
 toc_label: "ESU Archive"

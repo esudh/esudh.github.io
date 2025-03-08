@@ -9,11 +9,19 @@ toc_icon: "calendar"
 
 ## ESU 2025 in Besançon, France
 
-The ESU 2025 will be located within the premises of the [faculty of Humanities](http://slhs.univ-fcomte.fr/) of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/){:target="_blank"} (formerly known as the Université de Franche-Comté, created in 1423) in the heart of Besançon, France.
+The ESU 2025 will be located within the premises of the [faculty of Humanities](http://slhs.univ-fcomte.fr/) of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/){:target="_blank"} (formerly known as the Université de Franche-Comté, created in 1423) in the heart of Besançon. 
+The ESU is organized in Besançon with the help of the teams of two masters in Digital Humanities ("mention Humanités Numériques”), the master [Rare Book and Digital Humanities](https://rare-book-and-digital-humanities.ubfc.fr/) and the master [Valorisation Numérique du Patrimoine Culturel Africain de l’Antiquité à nos Jours (VANUPAAJ)](https://formations.auf.org/home/formation/master-m2-humanites-numeriques-specialite-valorisation-numerique-du-patrimoine-africain-de-lantiquite-a-nos-jours-vanupaaj/) in partnership with the Cheikh Anta Diop University in Dakar (Senegal) and the [Afrosciences platform](https://afrosciences-antiquity.com/)  with the support of the [Agence Universitaire de la Francophonie](https://www.auf.org/)
+
+### French for DH
+As mentioned earlier, our main goal as organizers is that participants and instructors make the most of their stay in Besançon. In partnership with our [Centre de Linguistique Appliquée](https://cla.univ-fcomte.fr/home/) which has a tradition of more 70 years in teaching French for non-native speakers, we will propose a program of French classes along with the ESU (before and after). We will come back to you with more information in the next weeks, if you are already interested, please do not hesitate to contact us. 
+
+[Top](https://esudh.github.io/esubesancon/)
 
 ## Coming to Besançon
 
 [Besançon](https://www.besancon-tourisme.com/en/destination/) is located in the east of France, halfway between Lyons and Strasbourg, close to Switzerland and relatively close to Germany and Italy. It is possible to reach Besançon by train, by bus, by car and by plane. The closest airports are Basel-Mulhouse Euroairport, Paris (Charles de Gaulle and Orly) and Lyon Saint-Exupéry. It takes 3 to 5 hours to reach Besançon from these airports. 
+
+[Top](https://esudh.github.io/esubesancon/)
 
 ## Accommodation 
 
@@ -25,8 +33,12 @@ The city of Besançon, ca. 120 000 inhabitants and more than 25 000 students, of
 	
 - 3°) we will provide, in a few weeks, a list of hotels with which the university Marie and Louis Pasteur is working and that will offer a reduced rate for ESU participants.
 
+[Top](https://esudh.github.io/esubesancon/)
+
 ## What to do, what to see
 
 For us, organizers, welcoming the ESU also means welcoming scholars from all over the world to our territory. Throughout the two weeks of your stay in Besançon, we will try to give a snapshot of Besançon and its surroundings as well of our traditional food. 
 We will come back to you in a few weeks with a more detailed program of meals and visits. Meanwhile, have a look to [Besançon](https://www.besancon-tourisme.com/en/destination/) and the [region](https://www.bourgognefranchecomte.com/)
+
+[Top](https://esudh.github.io/esubesancon/)
 
