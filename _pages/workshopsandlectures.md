@@ -6,10 +6,9 @@ toc_label: "Workshops and Lectures"
 toc_sticky: true
 toc_icon: "calendar"
 ---
-Workshops and lectures shape the two weeks of ESU and are the cornerstone of our work
 
 ## Workshops
-You will find below a first list of workshops, more will be coming, not only in English but also in French with the programm and the instructors. 
+You will find below a first list of workshops, with the program and the instructors. More workshops will be presented in the following weeks, not only in English.  
 
 ### AI and Image Analysis (Lauren Tilton, University of Richmond, USA)
 The workshop will last one week, from July 28 to August 1.
