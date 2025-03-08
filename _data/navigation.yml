@@ -3,11 +3,11 @@ main:
     url: /about/
   - title: "Application"
     url: /application/
-  - title: "Participation"
-    url: /application/  
-  - title: "Besançon"
-    url: /besancon/
+  - title: "Workshops and Lectures"
+    url: /Workshops and Lectures/  
+  - title: "The ESU in Besançon"
+    url: /esubesancon/
   - title: "Tags"
     url: /tags/
-  - title: "Archive"
-    url: /archive/
+  - title: "ESU Archive"
+    url: /esuarchive/
