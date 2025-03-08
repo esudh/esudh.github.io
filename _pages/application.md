@@ -7,7 +7,7 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 ## Call for Application
-The call for application will open on March 17th up to May 18th. 
+The call for application will open on March 17 and will end on May 18. 
 
 ## Important dates
 Selected applicants will receive a confirmation by the end of May.
