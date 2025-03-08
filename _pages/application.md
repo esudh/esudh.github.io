@@ -26,4 +26,5 @@ The fees vary according to the different status of the participants:
 - Young scholars (employed)*	700 €
 - Faculty / staff	1100 €
 - Staff of a commercial organisation / institutions	1600 €
+
 *For example, students pursuing a doctoral or postdoctoral degree who are hired on non-tenure-track positions or receive scholarships to found their research.	
