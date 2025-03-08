@@ -1,8 +1,8 @@
 ---
-permalink: /archive/
+permalink: /ESU Archive/
 title: "ESU Archive"
 toc: true
-toc_label: "Archive"
+toc_label: "ESU Archive"
 toc_sticky: true
 toc_icon: "calendar"
 ---
