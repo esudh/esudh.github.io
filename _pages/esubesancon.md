@@ -1,8 +1,8 @@
 ---
-permalink: /besancon/
-title: "Besançon"
+permalink: /esubesancon/
+title: "The ESU in Besançon"
 toc: true
-toc_label: "Besançon"
+toc_label: "The ESU in Besançon"
 toc_sticky: true
 toc_icon: "calendar"
 ---
