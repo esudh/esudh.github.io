@@ -9,7 +9,7 @@ toc_icon: "calendar"
 
 ## ESU 2025 in Besançon, France
 
-The ESU 2025 will be located within the premises of the [faculty of Humanities](http://slhs.univ-fcomte.fr/) of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/){:target="_blank"} (formerly known as the Université de Franche-Comté) in the center of Besançon, France.
+The ESU 2025 will be located within the premises of the [faculty of Humanities](http://slhs.univ-fcomte.fr/) of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/){:target="_blank"} (formerly known as the Université de Franche-Comté, created in 1423) in the heart of Besançon, France.
 
 ## Coming to Besançon
 
