@@ -9,3 +9,4 @@ The European Summer University in Digital Humanities "Culture and Technology" wi
 Learn more about the ESU [here](https://esudh.github.io/about/){:target="_blank"}.
 
 The applications will open on 17 March. We will all be very happy to welcome you in Besançon! Check back for more details! 
+Do not hesitate to contact us at esudh2025@univ-fcomte.fr !
