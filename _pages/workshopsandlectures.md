@@ -8,10 +8,10 @@ toc_icon: "calendar"
 ---
 
 ## Workshops
-You will find below a first list of workshops, with the program and the instructors. More workshops will be presented in the following weeks, not only in English.  
+You will find below a first list of workshops, with the program and the instructors. More workshops will be presented in the following weeks, not only in English. Most of the workshops are planned to last the two weeks of the ESU (this year from 21 July to 2 August), some workshops will last one week (the dates will be specified in the workshop description).
 
 ### AI and Image Analysis (Lauren Tilton, University of Richmond, USA)
-The workshop will last one week, from July 28 to August 1.
+The workshop will last one week, from July 28 to August 1 (week 2).
 More description to come soon.
 
 ### Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives (Yael Netzer, Hebrew University, Israel)
@@ -80,7 +80,7 @@ To enrich the learning experience, this workshop will aim to incorporate:
 [Top](https://esudh.github.io/WorkshopsandLectures/)
 
 ### Digital Curation and Cultural Heritage (Carol Chiodo, The Claremont Colleges, USA)
-The workshop will last one week, from July 22 to July 26.
+The workshop will last one week, from July 22 to July 26 (week 1).
 More description to come soon.
 
 ### Digital XML-TEI Content Creation and Processing Aided by AI Tools (Alex Bia, University of Elche, Spain)
