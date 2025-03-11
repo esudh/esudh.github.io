@@ -19,7 +19,7 @@ As mentioned earlier, our main goal as organizers is that participants and instr
 
 ## Coming to Besançon
 
-[Besançon](https://www.besancon-tourisme.com/en/destination/) is located in the east of France, halfway between Lyons and Strasbourg, close to Switzerland and relatively close to Germany and Italy. It is possible to reach Besançon by train, by bus, by car and by plane. The closest airports are Basel-Mulhouse Euroairport, Paris (Charles de Gaulle and Orly) and Lyon Saint-Exupéry. It takes 3 to 5 hours to reach Besançon from these airports. 
+[Besançon](https://www.besancon-tourisme.com/en/destination/) is located in the east of France, halfway between Lyons and Strasbourg, close to Switzerland and relatively close to Germany and Italy. It is possible to reach Besançon by train, by bus, by car and by plane. The closest airports are Basel-Mulhouse Euroairport, Paris (Charles de Gaulle and Orly) and Lyon Saint-Exupéry. It takes 3 hours to reach Besançon from these airports. 
 
 [Top](https://esudh.github.io/esubesancon/)
 
