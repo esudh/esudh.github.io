@@ -12,7 +12,7 @@ You will find below a first list of workshops, with the program and the instruct
 
 ### AI and Image Analysis (Lauren Tilton, University of Richmond, USA)
 The workshop will last one week, from July 28 to August 1 (week 2).
-More description to come soon.
+What is an image? How do computers view images? How can we use AI to analyze images? The workshop will address these three questions through a combination of theory, methods, and practical skills. We will focus on (1) understanding image files such as digitized manuscripts and artworks, (2) organizing image data in connection with metadata such as author and provenance data, and (3) analyzing features in images using AI such as objects and people. We will build from more basic concepts such as color to more complex methods including multimodal large language models (MLLMs).  A primary aim of this course is for participants to better understand what is possible through computational image analysis and how the approaches can further their interests.  The course is designed for participants who are new or familiar with image analysis. No programming skills are required.
 
 ### Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives (Yael Netzer, Hebrew University, Israel)
 •	The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive. This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools. 
