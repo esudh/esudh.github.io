@@ -16,11 +16,13 @@ Preference will be given to students and scholars of the Humanities and Social S
 Students and scholars of Engineering and Computer Sciences are expected to describe their specialities and interests in such a way that also non specialists can follow, and to support their expectations from the summer university with good arguments.
 
 Applicants who would like to present a project during one of the project presentation sessions or during the poster session should upload a seperate file with the description of the project (500-700 words) in English when they apply for a place at the Summer University via ConfTool. The presentation of a project is not a prerequisite for a successful application.
+
 [Top](https://esudh.github.io/application/)
 
 ## DARIAH scholarships
 For this 2025 edition of the European Summer University in Digital Humanities, we are pleased to announce that we have established a partnership with [DARIAH](https://www.dariah.eu/), the pan-European Digital Research Infrastructure for the Arts and Humanities. DARIAH will offer 12 scholarships of 450 Euros each to cover the costs of applicants coming to Besançon. 
 To apply to the scholarship, applicants will be asked to specify in the cover letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. 
+
 [Top](https://esudh.github.io/application/)
 
 ## Important dates
