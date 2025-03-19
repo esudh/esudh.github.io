@@ -20,7 +20,7 @@ Applicants who would like to present a project during one of the project present
 ## DARIAH scholarships
 For this 2025 edition of the European Summer University in Digital Humanities, we are pleased to announce that we have established a partnership with [DARIAH](https://www.dariah.eu/), the pan-European Digital Research Infrastructure for the Arts and Humanities. DARIAH will offer 12 scholarships of 450 Euros each to cover the costs of applicants coming to Besançon. 
 To apply to the scholarship, applicants will be asked to specify in the cover letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. 
-
+[Top](https://esudh.github.io/application/)
 
 ## Important dates
 Selected applicants will receive a confirmation by the end of May.
@@ -41,3 +41,5 @@ The fees vary according to the different status of the participants:
 - Staff of a commercial organisation / institutions	1600 €
 
 *For example, students pursuing a doctoral or postdoctoral degree who are hired on non-tenure-track positions or receive scholarships to found their research.	
+
+[Top](https://esudh.github.io/application/)
