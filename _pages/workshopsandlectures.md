@@ -93,6 +93,15 @@ BRIEF BIO: https://alexbia.umh.es/bio-eng/brief-cv/
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
 
+
+### Distant Reading in R. Analyse the text & visualize the data (Artjoms Šeļa, Czech Academy of Sciences and Giovanni Pietro Vitali, University of Versailles Saint-Quentin-en-Yvelines)
+Distant reading is one of the most well-known methodological approaches in digital humanities, formalized by Franco Moretti in the article Conjectures on World Literature (2000). It benefits greatly from computational tools. For this reason, we are proposing a course based on the use of R, one of the most popular programming languages in the scientific community today.
+The philosophy of the course is to analyze text and visualize data, and its structure follows this dichotomy. The objective is to introduce participants to different methodological perspectives and provide practical tools they can use in their own research. The course offers a compact introduction to natural language processing, computational text analysis, machine learning, graph theory, and geospatial humanities.
+By the end of the two-week course, participants will be able to use R and RStudio to apply textual and spatial analysis. An important component of the course is data visualization,, an area in which R excels, offering a comprehensive framework for creating graphs, maps, and trees. The final part of the course will focus on open-source programs like Gephi, GIMP, and Inkscape, which allow users to manipulate and rework vector and graphical files.
+The course is suitable for beginners who want to start their digital humanities training with a complete overview of the most common tools used for distant reading.
+
+[Top](https://esudh.github.io/WorkshopsandLectures/)
+
 ### Humanities Data and Mapping Environments (David Wrisley, New York University, Abu Dhabi, UAE and Voica Pușcașiu, Babeș-Bolyai University, Romania, tbc)
 This spatial humanities workshop will introduce participants to different ways of thinking about humanities data, their curation within projects, and their use in digital mapping environments. The workshop will not be a traditional course in Geographic Information Systems (GIS), although we will use open source GIS and web mapping along the way. The workshop is designed for the total beginner who would like (1) to explore how a spatial dimension can enrich humanities and interdisciplinary research projects and (2) to learn some fundamental skills for collecting and organizing data in order to be able to integrate such methods into their research workflows. Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research.
 The workshop lasts a total of 36 hours, two weeks of 18 contact hours each.
@@ -108,6 +117,7 @@ Instructor bios:
 David Joseph Wrisley (NYU Abu Dhabi) is Professor of Digital Humanities at NYU Abu Dhabi. His research interests include comparative approaches to medieval literature in European languages and Arabic, digital spatial approaches to corpora, neural methods for handwritten text recognition across writing systems and open knowledge community building. He is interested in the emergence of digital humanities in non-Western, non-English cultures, in particular the contemporary MENA setting.
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
+
 
 ## Lectures
 
