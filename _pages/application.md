@@ -7,9 +7,9 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 ## Call for Application
-The call for application will open on March 24 and will end on May 18. When applying, a curriculum vitae and a letter of motivation (500-700 words) is to be uploaded as one PDF-file. In their motivation letter applicants should a) indicate their research interests, b) specify the workshop(s) of their choice c) justify their choice by explaining their hopes and expectations and d) specify whether they apply for the DARIAH scholarship or not. Applicants also need to declare that an allocated place will be taken up.
+The call for application will open on March 24 and will end on May 18 using [ConfTool](https://www.conftool.org/esudh2025/). When applying, a curriculum vitae and a letter of motivation (500-700 words) is to be uploaded as one PDF-file. In their motivation letter applicants should a) indicate their research interests, b) specify the workshop(s) of their choice c) justify their choice by explaining their hopes and expectations. If you decide to apply for the DARIAH scholarship, please explain why in a specific letter. Applicants also need to declare that an allocated place will be taken up.
 
-As the selection of participants is made by the Scientific Committee together with the experts who lead the workshops, the CV and the letter of motivation is to be presented in English. As the Summer University is supposed to be multilingual the curriculum needs to contain information about the  knowledge of languages.
+As the selection of participants is made by the Scientific Committee together with the experts who lead the workshops, the CV and the letter of motivation are to be presented in English. As the Summer University is supposed to be multilingual the curriculum needs to contain information about the knowledge of languages.
 
 Preference will be given to students and scholars of the Humanities and Social Sciences who are planning, or are already involved with, a technology-based research project  and describe this project in a qualified way in their motivation letter.
 
@@ -21,7 +21,7 @@ Applicants who would like to present a project during one of the project present
 
 ## DARIAH scholarships
 For this 2025 edition of the European Summer University in Digital Humanities, we are pleased to announce that we have established a partnership with [DARIAH](https://www.dariah.eu/), the pan-European Digital Research Infrastructure for the Arts and Humanities. DARIAH will offer 12 scholarships of 450 Euros each to cover the costs of applicants coming to Besançon. 
-To apply to the scholarship, applicants will be asked to specify in the cover letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. 
+To apply to the scholarship, applicants will be asked to specify in a specific letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. 
 
 [Top](https://esudh.github.io/application/)
 
