@@ -118,6 +118,8 @@ David Joseph Wrisley (NYU Abu Dhabi) is Professor of Digital Humanities at NYU A
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
 
+### Text analysis/prompt engineering on historical data (Isuri Anuradha, Lancaster University)
+This workshop is sponsored by [CLARIN](https://www.clarin.eu/)
 
 ## Lectures
 
