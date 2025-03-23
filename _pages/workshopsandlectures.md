@@ -121,6 +121,9 @@ David Joseph Wrisley (NYU Abu Dhabi) is Professor of Digital Humanities at NYU A
 ### Text analysis/prompt engineering on historical data (Isuri Anuradha, Lancaster University/CLARIN)
 This workshop is sponsored by [CLARIN](https://www.clarin.eu/) and will last for one week. More information to come soon.
 
+### Edition "géographique" numérique (Digital Text Edition and Mapping, Rudy Chaulet, University Marie and Louis Pasteur)
+This workshop, in French, will last for one week (week 2). More description to come soon.
+
 ## Lectures
 
 The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. The list and the schedules will soon be published. 
