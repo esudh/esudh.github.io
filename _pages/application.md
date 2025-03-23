@@ -29,10 +29,9 @@ To apply to the scholarship, applicants will be asked to specify in a specific l
 Selected applicants will receive a confirmation by the end of May.
 More information on payment possibilities will be published in May.
 
-## Fees and Scholarships
-The fees include tuition (workshops and lectures), teaching material, delegate bag, certificate of attendance, and coffee breaks. You can enjoy free lunches at the university restaurant during the week. The communal cinners in the schedule are also free. However, you have to pay for drinks and extra servings / dishes yourself.
+## Fees 
+The fees include tuition (workshops and lectures), teaching material, delegate bag, certificate of attendance, and coffee breaks. You can enjoy free lunches at the university restaurant during the week. The communal dinners in the schedule are also free. However, you have to pay for drinks and extra servings / dishes yourself.
 Fees do not cover travel, accommodation and other subsistence costs.
-Thanks to our partners, we will be able to give scholarships to participants of ESU. These scholarships will partially cover the various costs. 
 
 The fees vary according to the different status of the participants:
 - Master and PhD students with no employment & no scholarship, from Université Marie et Louis Pasteur and official partner universities (Stars EU Alliance, Erasmus and Inter-University Agreements)	400 €
