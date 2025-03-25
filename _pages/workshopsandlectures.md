@@ -20,9 +20,11 @@ We will build from more basic concepts such as color to more complex methods inc
 
 ### Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives (Yael Netzer, Hebrew University, Israel)
 
-- The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive. This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools. 
-- Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools. 
-- No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
+The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive. This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools. 
+
+Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools. 
+
+No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
 
 First Week – Reading and Working with Data / Collections in OpenRefine 
 
