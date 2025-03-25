@@ -12,7 +12,11 @@ You will find below a first list of workshops, with the program and the instruct
 
 ### AI and Image Analysis (Lauren Tilton, University of Richmond, USA)
 The workshop will last one week, from July 28 to August 1 (week 2).
-What is an image? How do computers view images? How can we use AI to analyze images? The workshop will address these three questions through a combination of theory, methods, and practical skills. We will focus on (1) understanding image files such as digitized manuscripts and artworks, (2) organizing image data in connection with metadata such as author and provenance data, and (3) analyzing features in images using AI such as objects and people. We will build from more basic concepts such as color to more complex methods including multimodal large language models (MLLMs).  A primary aim of this course is for participants to better understand what is possible through computational image analysis and how the approaches can further their interests.  The course is designed for participants who are new or familiar with image analysis. No programming skills are required.
+What is an image? How do computers view images? How can we use AI to analyze images? The workshop will address these three questions through a combination of theory, methods, and practical skills. We will focus on
+1. understanding image files such as digitized manuscripts and artworks, 
+2. organizing image data in connection with metadata such as author and provenance data, and 
+3. analyzing features in images using AI such as objects and people. 
+We will build from more basic concepts such as color to more complex methods including multimodal large language models (MLLMs).  A primary aim of this course is for participants to better understand what is possible through computational image analysis and how the approaches can further their interests.  The course is designed for participants who are new or familiar with image analysis. No programming skills are required.
 
 ### Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives (Yael Netzer, Hebrew University, Israel)
 
@@ -22,8 +26,8 @@ What is an image? How do computers view images? How can we use AI to analyze ima
 
 First Week – Reading and Working with Data / Collections in OpenRefine 
 
-- Digital data in various formats is at the heart of humanities research. Often, datasets are large, messy, or structured in unfamiliar ways. This week, students will learn to inspect, clean, and enrich digital catalogues using OpenRefine, as well as how to enhance datasets with Linked Open Data (LOD) from sources such as the Library of Congress, VIAF, and Wikidata. 
-- By the end of this week, students will be proficient in: 
+Digital data in various formats is at the heart of humanities research. Often, datasets are large, messy, or structured in unfamiliar ways. This week, students will learn to inspect, clean, and enrich digital catalogues using OpenRefine, as well as how to enhance datasets with Linked Open Data (LOD) from sources such as the Library of Congress, VIAF, and Wikidata. 
+By the end of this week, students will be proficient in: 
 - Understanding different file formats (CSV, TSV, Spreadsheets, JSON, XML TEI) 
 - Using regular expressions for data manipulation (with some skill and aid from chatGPT) 
 - Writing expressions with GREL (OpenRefine's scripting language) 
@@ -33,16 +37,16 @@ First Week – Reading and Working with Data / Collections in OpenRefine
 
 Schedule: 
 
-Class 1: Introduction, loading a file, faceting, and exploring data 
-Class 2: Regular expressions and working with dates 
-Class 3: Clustering techniques for data cleaning 
-Class 4: Fetching external data using REST APIs (GeoNames example) 
-Hands-On Session: Practicing administrative tasks (changing working directory, memory allocation) 
-Class 5: Reconciliation and enriching data with Wikidata 
-Class 6: Handling JSON and XML file formats 
-Class 7: Web scraping techniques and automation 
-Class 8: From text to map – Geospatial representations in OpenRefine 
-Class 9: Summary and discussion 
+- Class 1: Introduction, loading a file, faceting, and exploring data 
+- Class 2: Regular expressions and working with dates 
+- Class 3: Clustering techniques for data cleaning 
+- Class 4: Fetching external data using REST APIs (GeoNames example) 
+- Hands-On Session: Practicing administrative tasks (changing working directory, memory allocation) 
+- Class 5: Reconciliation and enriching data with Wikidata 
+- Class 6: Handling JSON and XML file formats 
+- Class 7: Web scraping techniques and automation 
+- Class 8: From text to map – Geospatial representations in OpenRefine 
+- Class 9: Summary and discussion 
 
 Second Week – Building a Digital Archive: Archives of the Present 
 
@@ -64,17 +68,17 @@ By the end of this week, students will be proficient in:
 
 Schedule: 
 
-Class 1: Theory of archives – an introduction 
-Class 2: Digital archives – examples and reviewing participant collections 
-Class 3: Modeling the domain 
-Class 4:Metadata – methods of description, challenges, and dilemmas 
-Class 5: Introduction to Omeka-S – setting up and structuring an archive 
-Class 6: Using Tropy – basic features and integration with Omeka
-Hands-On Session: Working on participant collections 
-Class 7: Archives of the present – Capturing and preserving digital traces 
-Class 8: Linking and integrating with external resources and authority files 
-Class 9: Publishing – designing Omeka pages for public access 
-Class 10: Summary and reflections 
+- Class 1: Theory of archives – an introduction 
+- Class 2: Digital archives – examples and reviewing participant collections 
+- Class 3: Modeling the domain 
+- Class 4: Metadata – methods of description, challenges, and dilemmas 
+- Class 5: Introduction to Omeka-S – setting up and structuring an archive 
+- Class 6: Using Tropy – basic features and integration with Omeka
+- Hands-On Session: Working on participant collections 
+- Class 7: Archives of the present – Capturing and preserving digital traces 
+- Class 8: Linking and integrating with external resources and authority files 
+- Class 9: Publishing – designing Omeka pages for public access 
+- Class 10: Summary and reflections 
  
 To enrich the learning experience, this workshop will aim to incorporate: 
 - Case studies of successful digital archive projects 
@@ -117,9 +121,8 @@ This spatial humanities workshop will introduce participants to different ways o
 - to explore how a spatial dimension can enrich humanities and interdisciplinary research projects and
 - to learn some fundamental skills for collecting and organizing data in order to be able to integrate such methods into their research workflows. 
 
-Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research.
+Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research. The workshop lasts a total of 36 hours, two weeks of 18 contact hours each.
 
-The workshop lasts a total of 36 hours, two weeks of 18 contact hours each.
 The central goals of the workshop are fourfold:
 - to learn where we might obtain spatial data relevant to our research interests, or capture data from analog sources through digitization,
 - to explore modeling data for a research project having a spatial dimension,
@@ -131,7 +134,6 @@ In the first part of the course we conduct a critical review of a range of spati
 In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps. We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling. Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps. Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.
 
 A Zotero library of supplementary readings will be provided by the instructors. 
-
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
 
