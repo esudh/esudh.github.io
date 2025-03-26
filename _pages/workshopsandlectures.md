@@ -16,6 +16,7 @@ What is an image? How do computers view images? How can we use AI to analyze ima
 1. understanding image files such as digitized manuscripts and artworks, 
 2. organizing image data in connection with metadata such as author and provenance data, and 
 3. analyzing features in images using AI such as objects and people. 
+
 We will build from more basic concepts such as color to more complex methods including multimodal large language models (MLLMs).  A primary aim of this course is for participants to better understand what is possible through computational image analysis and how the approaches can further their interests.  The course is designed for participants who are new or familiar with image analysis. No programming skills are required.
 
 ### Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives (Yael Netzer, Hebrew University, Israel)
