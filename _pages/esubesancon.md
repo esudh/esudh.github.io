@@ -13,13 +13,15 @@ The ESU 2025 will be located within the premises of the [faculty of Humanities](
 The ESU is organized in Besançon with the help of the teams of two masters in Digital Humanities ("mention Humanités Numériques”), the master [Rare Book and Digital Humanities](https://rare-book-and-digital-humanities.ubfc.fr/) and the master [Valorisation Numérique du Patrimoine Culturel Africain de l’Antiquité à nos Jours (VANUPAAJ)](https://formations.auf.org/home/formation/master-m2-humanites-numeriques-specialite-valorisation-numerique-du-patrimoine-africain-de-lantiquite-a-nos-jours-vanupaaj/) with the support of the [Agence Universitaire de la Francophonie](https://www.auf.org/)
 
 ### French for DH
-As mentioned earlier, our main goal as organizers is that participants and instructors make the most of their stay in Besançon. In partnership with our [Centre de Linguistique Appliquée](https://cla.univ-fcomte.fr/home/) which has a tradition of more 70 years in teaching French for non-native speakers, we will propose a program of French classes along with the ESU (before and after). After the ESU, you will have to possibility to study French for 2 to 4 weeks during the month of August at our CLA. We will come back to you with more information in the next weeks, if you are already interested, please do not hesitate to contact us. 
+As mentioned earlier, our main goal as organizers is that participants and instructors make the most of their stay in Besançon. In partnership with our [Centre de Linguistique Appliquée](https://cla.univ-fcomte.fr/home/) which has a tradition of more 70 years in teaching French for non-native speakers, we will propose a program of French classes along with the ESU. After the ESU, you will have to possibility to study French for 2 to 4 weeks during the month of August at our CLA and to benefit from university accommodation. 
+The 2-week program will take place between Monday 4 August and Thursday 14 August for a cost of 486 Euros. The 4-week program will take place from Monday 4 August to Friday 29 August for a cost of 989,40 Euros. For more information, do not hesitate to contact us esudh2025@univ-fcomte.fr or to contact Lucie Guy from our Centre de Linguistique Appliquée lucie.guy@univ-fcomte.fr 
 
 [Top](https://esudh.github.io/esubesancon/)
 
 ## Coming to Besançon
 
-[Besançon](https://www.besancon-tourisme.com/en/destination/) is located in the east of France, halfway between Lyons and Strasbourg, close to Switzerland and relatively close to Germany and Italy. It is possible to reach Besançon by train, by bus, by car and by plane. The closest airports are Basel-Mulhouse Euroairport, Paris (Charles de Gaulle and Orly) and Lyon Saint-Exupéry. It takes 3 hours to reach Besançon from these airports. 
+[Besançon](https://www.besancon-tourisme.com/en/destination/) is located in the east of France, halfway between Lyons and Strasbourg, close to Switzerland and relatively close to Germany and Italy. It is po
+ssible to reach Besançon by train, by bus, by car and by plane. The closest airports are Basel-Mulhouse Euroairport, Paris (Charles de Gaulle and Orly) and Lyon Saint-Exupéry. It takes 3 hours to reach Besançon from these airports. 
 
 [Top](https://esudh.github.io/esubesancon/)
 
