@@ -141,7 +141,7 @@ A Zotero library of supplementary readings will be provided by the instructors.
 [Top](https://esudh.github.io/WorkshopsandLectures/)
 
 ### Text analysis/prompt engineering on historical data (Isuri Anuradha, Lancaster University/CLARIN)
-This workshop is sponsored by [CLARIN](https://www.clarin.eu/) and will last for one week. More information to come soon.
+This workshop will last for one week. More information to come soon.
 
 ### Edition "géographique" numérique (Digital Text Edition and Mapping, Rudy Chaulet, University Marie and Louis Pasteur)
 This workshop, in French, will last for one week (week 2). More description to come soon.
