@@ -5,7 +5,12 @@ main:
     url: /esubesancon/
   - title: "Workshops and Lectures"
     url: /WorkshopsandLectures/ 
+  - title: "Instructors"
+    url: /instructors/
   - title: "Application"
     url: /application/
+  - title: "Committees and organizing team"
+    url: /committeesandteams/
   - title: "ESU Archive"
     url: /esuarchive/
+  

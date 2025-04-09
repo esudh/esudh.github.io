@@ -140,8 +140,12 @@ A Zotero library of supplementary readings will be provided by the instructors.
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
 
-### Text analysis/prompt engineering on historical data (Isuri Anuradha, Lancaster University/CLARIN)
-This workshop will last for one week. More information to come soon.
+### Text analysis/prompt engineering on historical data (Isuri Anuradha, Lancaster University/CLARIN Trainer's network)
+To be held during the second week of ESU.
+This workshop will discuss the fundamental techniques for text analysis and prompt engineering in the context of historical data. Rather than a traditional course in Natural Language Processing (NLP), the session will focus on hands-on sessions for practical analysis of historical texts using LLMs. This workshop aims to provide a comprehensive understanding and practical skills in designing effective prompt engineering techniques, enabling participants to access and analyse historical data more efficiently and creatively.
+Over five sessions, participants will explore the fundamentals of AI-driven text analysis, focusing on prompt engineering techniques tailored for domain-specific historical texts. The workshop will cover key applications such as entity recognition, relationship extraction and sentiment analysis, equipping attendees with practical skills for processing and interpreting historical narratives. Hands-on sessions will be conducted using Python, with discussions tailored for beginners and those with moderate technical experience.
+
+
 
 ### Edition "géographique" numérique (Digital Text Edition and Mapping, Rudy Chaulet, University Marie and Louis Pasteur)
 This workshop, in French, will last for one week (week 2). More description to come soon.
