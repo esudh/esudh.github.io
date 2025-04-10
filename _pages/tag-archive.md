@@ -1,8 +1,7 @@
 ---
-title: "Instructors"
 permalink: /instructors/
-layout: tags
-author_profile: true
+title: "Instructors"
+toc: true
 toc_label: "Instructors"
 toc_sticky: true
 toc_icon: "calendar"
