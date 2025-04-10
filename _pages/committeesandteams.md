@@ -31,7 +31,13 @@ Lauren Tilton (University of Richmond, USA)
 Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)
 David Wrisley (NYU Abu Dhabi, UAE)
 
-### Local team
+### Local organizing team
+Rudy Chaulet
+Benjamin Goldlust
+Dulce Yocelin Moreno Hernandez
+Myriam Schoen
+Frédéric Spagnoli
+
 
 ### Scientific Committee
 
