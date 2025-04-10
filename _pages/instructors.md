@@ -28,6 +28,9 @@ He is a long-time member of the DH community (since 1999) and has been elected m
 [Top](https://esudh.github.io/instructors/)
 
 ### Chaulet Rudy (University Marie and Louis Pasteur, France)
+Emeritus professor of Spanish history, founder of the Master Rare Book and Digital
+Humanities, Vice-rector for International Relations between 2008 and 2012.
+https://cv.hal.science/rudy-chaulet
 
 ### Chiodo Carol (The Claremont Colleges, USA)
 Before joining Claremont, she was the Librarian for Collections and Digital Scholarship in the Americas, Europe and Oceania Division at Harvard University Library. She has taught courses and workshops on cultural heritage and emerging technologies at a number of universities in the U.S. and abroad, including Yale, Princeton, University of Franche-Comté, University of Leipzig, NYU Abu Dhabi, Jagiellonian University, and Babeş-Bolyai University.
