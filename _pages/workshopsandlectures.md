@@ -8,7 +8,7 @@ toc_icon: "calendar"
 ---
 
 ## Workshops
-You will find below a first list of workshops, with the program and the instructors. More workshops will be presented in the following weeks, not only in English. Most of the workshops are planned to last the two weeks of the ESU (this year from 21 July to 2 August), some workshops will last one week (the dates will be specified in the workshop description).
+You will find below the list of workshops, with the program and the dates. Most of the workshops are planned to last the two weeks of the ESU (this year from 21 July to 2 August), some workshops will last one week (the dates will be specified in the workshop description).
 
 ### AI and Image Analysis (Lauren Tilton, University of Richmond, USA)
 The workshop will last one week, from July 28 to August 1 (week 2).
@@ -104,7 +104,6 @@ This workshop comprises two parts:
 - Week 1: Introduction to XML-based technologies for text encoding deals with producing digital text documents using XML vocabularies like TEI and HTML, as well as related technologies (ePub, Markdown, etc.). This is a hands-on, introductory-level course. We will also introduce AI tools like ChatGPT to be used as an aid in document processing.
 - Week 2: XML-TEI document structuring and rendering deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations. This is a hands-on, medium-high level course. 
 
-BRIEF BIO: https://alexbia.umh.es/bio-eng/brief-cv/
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
 
@@ -145,13 +144,11 @@ To be held during the second week of ESU.
 This workshop will discuss the fundamental techniques for text analysis and prompt engineering in the context of historical data. Rather than a traditional course in Natural Language Processing (NLP), the session will focus on hands-on sessions for practical analysis of historical texts using LLMs. This workshop aims to provide a comprehensive understanding and practical skills in designing effective prompt engineering techniques, enabling participants to access and analyse historical data more efficiently and creatively.
 Over five sessions, participants will explore the fundamentals of AI-driven text analysis, focusing on prompt engineering techniques tailored for domain-specific historical texts. The workshop will cover key applications such as entity recognition, relationship extraction and sentiment analysis, equipping attendees with practical skills for processing and interpreting historical narratives. Hands-on sessions will be conducted using Python, with discussions tailored for beginners and those with moderate technical experience.
 
-
-
 ### Edition "géographique" numérique (Digital Text Edition and Mapping, Rudy Chaulet, University Marie and Louis Pasteur)
 This workshop, in French, will last for one week (week 2). More description to come soon.
 
 ## Lectures
 
-The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. The list and the schedules will soon be published. 
+The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. Represents from Clarin Trainers Network as well as from Humanistica have already confirmed their presence.  
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
