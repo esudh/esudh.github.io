@@ -14,29 +14,29 @@ A scientific committee, combining members of the "local team" as well as worksho
 
 ### ESU Steering Committee
 Co-chairs: 
-Alexandra Cotoc (Babeş-Bolyai University, Romania)
+Alexandra Cotoc (Babeş-Bolyai University, Romania) ; 
 Alejandro Bia (Miguel Hernández University, Spain)
 
 Other members of the ESU Steering Committee:
-Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)
-Markus Jochim (Ludwig Maximilian University Munich, Germany)
-Anna Kryvenko (Institute of Contemporary History, Slovenia)
-Jeremi Ochab (Jagiellonian University, Poland)
-Kristina Pahor De Maiti (Institute of Contemporary History, Slovenia)
-Voica Pușcașiu (Babeş-Bolyai University, Romania)
-Simone Rebora (University of Verona, Italy)
-Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)
-Ray Siemens (University of Victoria, Canada)
-Lauren Tilton (University of Richmond, USA)
-Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)
-David Wrisley (NYU Abu Dhabi, UAE)
+Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU); 
+Markus Jochim (Ludwig Maximilian University Munich, Germany); 
+Anna Kryvenko (Institute of Contemporary History, Slovenia); 
+Jeremi Ochab (Jagiellonian University, Poland); 
+Kristina Pahor De Maiti (Institute of Contemporary History, Slovenia); 
+Voica Pușcașiu (Babeş-Bolyai University, Romania); 
+Simone Rebora (University of Verona, Italy); 
+Artjoms Šeļa (Czech Academy of Sciences, Czech Republic); 
+Ray Siemens (University of Victoria, Canada); 
+Lauren Tilton (University of Richmond, USA); 
+Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France);
+David Wrisley (NYU Abu Dhabi, UAE).
 
 ### Local organizing team
-Rudy Chaulet
-Benjamin Goldlust
-Dulce Yocelin Moreno Hernandez
-Myriam Schoen
-Frédéric Spagnoli
+Rudy Chaulet; 
+Benjamin Goldlust; 
+Dulce Yocelin Moreno Hernandez; 
+Myriam Schoen; 
+Frédéric Spagnoli.
 
 
 ### Scientific Committee
