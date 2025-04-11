@@ -13,7 +13,7 @@ A "local team" is dealing with all the organizational aspects of the ESU in Besa
 A scientific committee, combining members of the "local team" as well as workshop instructors will be dealing with the evaluation of all received applications. 
 
 ### ESU Steering Committee
-Co-chairs: 
+Co-chairs:<br> 
 Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
 Alejandro Bia (Miguel Hernández University, Spain)
 
