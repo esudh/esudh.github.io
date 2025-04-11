@@ -153,6 +153,6 @@ This workshop, in French, will last for one week (week 2). More description to c
 
 ## Lectures
 
-The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. Represents from Clarin Trainers Network as well as from Humanistica have already confirmed their presence.  
+The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. Representatives from Clarin Trainers' Network as well as from Humanistica have already confirmed their presence.  
 
 [Top](https://esudh.github.io/WorkshopsandLectures/)
