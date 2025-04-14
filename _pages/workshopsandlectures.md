@@ -8,7 +8,7 @@ toc_icon: "calendar"
 ---
 
 ## Workshops
-You will find below the list of workshops, with the program and the dates. Most of the workshops are planned to last the two weeks of the ESU (this year from 21 July to 2 August), some workshops will last one week (the dates will be specified in the workshop description).
+You will find below the list of workshops, with the program and the dates. Most of the workshops are planned to last the two weeks of the ESU (this year from 21 July to 2 August), some workshops will last one week (the dates will be specified in the workshop description). One workshop "Edition "géographique" numérique" will be offered in French.
 
 ### AI and Image Analysis (Lauren Tilton, University of Richmond, USA)
 The workshop will last one week, from July 28 to August 1 (week 2).
@@ -149,7 +149,13 @@ This workshop will discuss the fundamental techniques for text analysis and prom
 Over five sessions, participants will explore the fundamentals of AI-driven text analysis, focusing on prompt engineering techniques tailored for domain-specific historical texts. The workshop will cover key applications such as entity recognition, relationship extraction and sentiment analysis, equipping attendees with practical skills for processing and interpreting historical narratives. Hands-on sessions will be conducted using Python, with discussions tailored for beginners and those with moderate technical experience.
 
 ### Edition "géographique" numérique (Digital Text Edition and Mapping, Rudy Chaulet, University Marie and Louis Pasteur)
-This workshop, in French, will last for one week (week 2). More description to come soon.
+This workshop, in French, will last for one week (week 2). 
+L’atelier aura lieu du 28 juillet au 1er août (semaine 2).
+La réflexion et le travail auront une orientation à la fois théorique et pratique.
+On y posera quelques principes d’édition numérique en français de récits de voyage, puis on réfléchira à la proposition suivante : "Pour une édition géographique" : comment passer de l'édition en format page (livre papier, pdf), au format "carte", en examinant plusieurs exemples existants et en envisagent d'autres possibilités, en particulier avec le logiciel uMap, pour lequel un apprentissage rapide sera donné. Le but sera de donner une édition cartographique intégrale et non pas des extraits d’œuvres comme cela se rencontre la plupart du temps. A partir de ces réflexions et de diverses expérimentations, on réalisera un travail à la fois individuel et collectif de "mise en carte" intégrale d'un récit de voyage dont le texte sera fourni.
+On envisagera aussi les possibilités d'automatisation des tâches de "l'édition cartographique".
+Aucune compétence en programmation n'est requise.
+
 
 ## Lectures
 
