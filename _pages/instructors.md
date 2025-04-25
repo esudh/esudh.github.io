@@ -47,6 +47,11 @@ She works at Dicta, the Israeli Center for Text Analysis and is also a partner i
 
 [Top](https://esudh.github.io/instructors/)
 
+### Pușcașiu Voica (Babeș-Bolyai University Cluj-Napoca, Romania)
+Voica Pușcașiu is a Lecturer in Modern and Contemporary Art History at Babeș-Bolyai University Cluj-Napoca and is determined to broaden the classical curricula towards methods belonging to the Digital Humanities. Her main research interests are sociological approaches to art in public spaces and conceptualizing through data visualization, particularly digital interactive cartography.
+
+[Top](https://esudh.github.io/instructors/)
+
 ### Šeļa Artjoms (Czech Academy of Sciences, Czech Republic)
 Artjoms Šeļa is an Assistant Professor at the Department of Methodology at IJP PAN and member of the Computational Stylistics Group. He works in computational literary studies, with a primary focus on history and morphology of European verse; his interests include study of historical change in culture, statistical modeling and digital-born manuscripts. Currently involved in the CLS INFRA project as a researcher. He taught multiple workshops and university courses on computational text analysis and digital humanities.
 
