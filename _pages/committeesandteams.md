@@ -40,6 +40,20 @@ Frédéric Spagnoli
 
 
 ### Scientific Committee
+Isuri Anuradha (Lancaster University/CLARIN Trainer's network)
+Alejandro Bia (Miguel Hernández University, Spain)<br>
+Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br>
+Rudy Chaulet (University Marie and Louis Pasteur, France)<br>
+Carol Chiodo (The Claremont Colleges, USA)<br> 
+Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
+Yael Netzer (Hebrew University, Israel)<br> 
+Voica Pușcașiu (Babeş-Bolyai University, Romania)<br> 
+Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br>
+Frédéric Spagnoli (University Marie and Louis Pasteur, France) 
+Lauren Tilton (University of Richmond, USA)<br> 
+Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)<br>
+David Wrisley (NYU Abu Dhabi, UAE)
+
 
 
 
