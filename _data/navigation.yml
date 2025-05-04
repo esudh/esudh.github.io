@@ -9,6 +9,8 @@ main:
     url: /instructors/
   - title: "Application"
     url: /application/
+  - title: "Scholarships and funding possibilities"
+    url: /ScholarshipsandFunding/
   - title: "Committees and organizing team"
     url: /committeesandteams/
   - title: "ESU Archive"
