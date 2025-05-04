@@ -1,6 +1,8 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
-layout: posts
-author_profile: true
+permalink: /ScholarshipsandFunding/
+title: "Scholarships and funding possibilities"
+toc: true
+toc_label: "Scholarships and funding possibilities"
+toc_sticky: true
+toc_icon: "calendar"
 ---
