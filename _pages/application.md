@@ -7,7 +7,7 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 ## Application guidelines
-Applications can be submitted from March 24 to May 18 using [ConfTool](https://www.conftool.org/esudh2025/). When applying, a curriculum vitae and a letter of motivation (500-700 words) is to be uploaded as one PDF-file. In their motivation letter applicants should a) indicate their research interests, b) specify the workshop(s) of their choice c) justify their choice by explaining their hopes and expectations. If you decide to apply for the DARIAH scholarship, please explain why in a specific letter. Applicants also need to declare that an allocated place will be taken up.
+Applications can be submitted from March 24 to May 18, extended to May 23, using [ConfTool](https://www.conftool.org/esudh2025/). When applying, a curriculum vitae and a letter of motivation (500-700 words) is to be uploaded as one PDF-file. In their motivation letter applicants should a) indicate their research interests, b) specify the workshop(s) of their choice c) justify their choice by explaining their hopes and expectations. If you decide to apply for the DARIAH scholarship, please explain why in a specific letter. Applicants also need to declare that an allocated place will be taken up.
 
 As the selection of participants is made by the Scientific Committee together with the experts who lead the workshops, the CV and the letter of motivation are to be presented in English. As the Summer University is supposed to be multilingual the curriculum needs to contain information about the knowledge of languages.
 
