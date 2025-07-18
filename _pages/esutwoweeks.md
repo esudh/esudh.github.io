@@ -62,5 +62,5 @@ Both publicaitons are freely available online. Students are encouraged to browse
 Monday 28 July, 4.30 pm - 6.30 pm
 Sara Mansutti (University of Cork / ReadCoop)
 
-Two hours of talks and Q&A on the various possible uses of Transkribus.
+Two hours of talks and Q&As on the various possible uses of Transkribus.
 
