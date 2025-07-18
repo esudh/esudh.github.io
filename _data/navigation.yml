@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "The ESU in Besançon"
     url: /esubesancon/
+  - title: "What will happen during these two weeks?"
+    url: /esutwoweeks/
   - title: "Workshops and Lectures"
     url: /WorkshopsandLectures/ 
   - title: "Instructors"
