@@ -8,9 +8,13 @@ toc_icon: "calendar"
 ---
 
 ## Programme
-The ESU DH 2025 in Besançon will be composed of workshops, teaser sessions, presentations of posters and projects, conferences as well as cultural events. 
-Please find here the updated programme.
-The first meeting will be from 5 to 7 pm at the university...
+The ESU DH 2025 in Besançon will be composed of workshops, teaser sessions, presentations of posters, projects and workshops results, conferences as well as cultural events. 
+Please find [here](https://drive.google.com/file/d/1R4fMybn4SiSZkYCmLLDNmiaKQwr8kDtz/view?usp=sharing) the updated programme.
+
+## Venues
+The ESU DH 2025 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand, except Saturday 26 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand.
+The cultural events will take place throughout the city.
+
 
 ## Conferences
 
@@ -58,5 +62,5 @@ Both publicaitons are freely available online. Students are encouraged to browse
 Monday 28 July, 4.30 pm - 6.30 pm
 Sara Mansutti (University of Cork / ReadCoop)
 
-Two hours of talk and discussion on the various possible uses of Transkribus.
+Two hours of talks and Q&A on the various possible uses of Transkribus.
 
