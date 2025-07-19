@@ -4,7 +4,7 @@ title: "Welcome"
 permalink: /
 ---
 
-The European Summer University in Digital Humanities "Culture and Technology" will take place at the Université Marie et Louis Pasteur in Besançon, France from 21 July to 2 August 2025. Please find [here](https://drive.google.com/file/d/1bb0-IFkI7N0Gsr2VYM3Mc7JkcOb8qNn5/view?usp=drive_link) a provisionnal programme.
+The European Summer University in Digital Humanities "Culture and Technology" will take place at the Université Marie et Louis Pasteur in Besançon, France from 21 July to 2 August 2025. 
 
 Learn more about the ESU [here](https://esudh.github.io/about/){:target="_blank"} and about the ESU in Besançon [here](https://esudh.github.io/esubesancon/). The ESU in Besançon is sponsored by [DARIAH](https://esudh.github.io/application/#dariah-scholarships) and [CLARIN](https://www.clarin.eu/). [Transkribus](https://www.transkribus.org/scholarship) will also offer 10 scholarships of 3000 credits each.
 
