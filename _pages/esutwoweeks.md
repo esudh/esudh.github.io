@@ -9,7 +9,7 @@ toc_icon: "calendar"
 
 ## Programme
 The ESU DH 2025 in Besançon will be composed of workshops, teaser sessions, presentations of posters, projects and workshops results, conferences as well as cultural events. 
-Please find [here](https://drive.google.com/file/d/1R4fMybn4SiSZkYCmLLDNmiaKQwr8kDtz/view?usp=sharing) the updated programme.
+Please find [here](https://drive.google.com/file/d/1GwQVLiqLhyU3r2hP0wPERxubX6OLZc7y/view?usp=drive_link) the updated programme.
 
 ## Venues
 The ESU DH 2025 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand, except Saturday 26 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand. Rooms will be indicated at the beginning of the ESU.<br>
@@ -48,7 +48,7 @@ Prof. Magally Alegre-Henderson, Pontifical Catholic University of Peru<br>
 Starting at the production of nearly 150 thousand images in a digitization project funded by the Endangered Archives Programme, the Historical Archive Riva-Agüero, the most important private repository in Peru after the National Archives, has incorporated a Digital Humanities approach for increasing archival consultancy under the principles of FAIR: Findability, Accessibility, Interoperability, and Reusability. From digitization initiatives, to training in Handwritten Text Recognition, from text extraction, to visualization and data/text mining, Digital Humanities tools represent a transformative opportunity for accessing Peruvian documentary heritage. 
 
 ### Rewiring the Canon: Feminist and Social Justice Frameworks in Digital Humanities
-Tuesday 29 July 4.30 pm - 6.30 pm
+Tuesday 29 July 4 pm - 6 pm
 
 Susan Schreibman<br>
 Professor of Digital Arts and Culture, Maastricht University<br>
@@ -59,9 +59,12 @@ The first publication is a #dariahTeach course called Social Justice in the Digi
 The second publication is an edited collection entitled Feminst DH (which has been published open access and can be downloaded here). The thread that runs through this collection is a theorisation of feminist DH practice as sites of possibility for exploring, exposing, and revaluing marginalized forms of knowledge production through new modes and processes of meaning making. Each chapter also reflects on what it means to be a feminist and a technologist. 
 Both publicaitons are freely available online. Students are encouraged to browse these publications in advance of the lecture. 
 
+### Conference from Øyvind Eide (University of Cologne / European Association for Digital Humanities )
+Thursday 31 July, 4 pm - 6pm <br>
+More details to come soon.
 
 ## Transkribus workshop 
-Monday 28 July, 4.30 pm - 6.30 pm<br>
+Monday 28 July, 4 pm - 6 pm<br>
 Sara Mansutti (University of Cork / ReadCoop)<br>
 
 Two hours of talks and Q&As on the various possible uses of Transkribus.
