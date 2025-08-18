@@ -15,6 +15,10 @@ Please find [here](https://drive.google.com/file/d/1GwQVLiqLhyU3r2hP0wPERxubX6OL
 The ESU DH 2025 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand, except Saturday 26 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand. Rooms will be indicated at the beginning of the ESU.<br>
 For you to feel some of the atmosphere of Besançon, the various culinary and cultural events will take place throughout the city.
 
+## Where are the participants from? 
+The 2025 edition gathered people from all over the world.
+The following [map](https://umap.openstreetmap.fr/fr/map/esu-2025_1264546#3/) shows where the participants are coming from, have a look!
+
 
 ## Conferences
 
