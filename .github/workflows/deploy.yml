@@ -2,7 +2,7 @@ name: Deploy Jekyll with dynamic baseurl
 
 on:
   push:
-    branches: ["master"] # Or "main" depending on your default branch
+    branches: ["master"] # Ensure this matches your branch name (master or main)
 
 permissions:
   contents: read
@@ -16,12 +16,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2' # Standard version for Jekyll
+          bundler-cache: true # Runs 'bundle install' and caches gems automatically
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Build with Jekyll
         run: |
-          # This command injects the repo name as baseurl dynamically
           repo_name=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           bundle exec jekyll build --baseurl "/$repo_name"
         env:
