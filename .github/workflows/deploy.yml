@@ -29,6 +29,14 @@ jobs:
         run: |
           repo_name=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           bundle exec jekyll build --baseurl "/$repo_name"
+          
+          # Manually copy the static archive into the deployment directory
+          if [ -d "2025" ]; then
+            cp -r 2025 _site/
+            echo "Successfully moved /2025 to _site"
+          else
+            echo "Error: /2025 directory not found"
+          fi
         env:
           JEKYLL_ENV: production
           PAGES_REPO_NWO: ${{ github.repository }}
