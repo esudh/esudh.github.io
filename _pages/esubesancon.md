@@ -7,9 +7,9 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 
-## ESU 2025 in Besançon, France
+## ESU 2026 in Besançon, France
 
-The ESU 2025 will be located within the premises of the [faculty of Humanities](http://slhs.univ-fcomte.fr/) of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/){:target="_blank"} (formerly known as the Université de Franche-Comté, created in 1423) in the heart of Besançon. 
+The ESU 2026 will be located within the premises of the [faculty of Humanities](http://slhs.univ-fcomte.fr/) of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/){:target="_blank"} (formerly known as the Université de Franche-Comté, created in 1423) in the heart of Besançon. 
 The ESU is organized in Besançon with the help of the teams of two masters in Digital Humanities ("mention Humanités Numériques”), the master [Rare Book and Digital Humanities](https://rare-book-and-digital-humanities.ubfc.fr/) and the master [Valorisation Numérique du Patrimoine Culturel Africain de l’Antiquité à nos Jours (VANUPAAJ)](https://formations.auf.org/home/formation/master-m2-humanites-numeriques-specialite-valorisation-numerique-du-patrimoine-africain-de-lantiquite-a-nos-jours-vanupaaj/) with the support of the [Agence Universitaire de la Francophonie](https://www.auf.org/)
 
 ### French for DH
@@ -27,7 +27,7 @@ ssible to reach Besançon by train, by bus, by car and by plane. The closest air
 
 ## Accommodation 
 
-The city of Besançon, ca. 120 000 inhabitants and more than 25 000 students, offers several possibilities of relatively cheap accommodation. For the ESU 2025, several options are available: 
+The city of Besançon, ca. 120 000 inhabitants and more than 25 000 students, offers several possibilities of relatively cheap accommodation. For the ESU 2026, several options are available: 
 
 - 1°) the first one is Bed n’ Crous Besançon (24 Euros / night, breakfast excluded) proposed by our partner the [Crous Bourgogne Franche-Comté](https://www.bedandcrous.com/en/residences/besancon){:target="_blank"}
 
