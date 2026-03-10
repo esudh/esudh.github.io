@@ -7,29 +7,26 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 ---
-This webpage will present the various teams behind this 2025 edition of the European Summer School in Digital Humanities. 
-Besançon and the university Marie and Louis Pasteur have been awarded the organization of the ESU 2025 by the Steering Committee of the ESU created in 2024. 
+This webpage will present the various teams behind this 2026 edition of the European Summer School in Digital Humanities. 
+Besançon and the university Marie and Louis Pasteur have been awarded the organization of the ESU 2026 by the Steering Committee of the ESU created in 2024. 
 A "local team" is dealing with all the organizational aspects of the ESU in Besançon.
 A scientific committee, combining members of the "local team" as well as workshop instructors will be dealing with the evaluation of all received applications. 
 
 ### ESU Steering Committee
 Co-chairs:<br> 
-Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
-Alejandro Bia (Miguel Hernández University, Spain)
+Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br> 
+Jeremi Ochab (Jagiellonian University, Poland)<br>
 
 Other members of the ESU Steering Committee: 
+Alejandro Bia (Miguel Hernández University, Spain)
+Marion Benkaiouche (Student representative)
 Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br> 
-Markus Jochim (Ludwig Maximilian University Munich, Germany)<br>
+Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
 Anna Kryvenko (Institute of Contemporary History, Slovenia)<br>
-Jeremi Ochab (Jagiellonian University, Poland)<br>
-Kristina Pahor De Maiti (Institute of Contemporary History, Slovenia)<br> 
-Voica Pușcașiu (Babeş-Bolyai University, Romania)<br> 
-Simone Rebora (University of Verona, Italy)<br>
-Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br> 
-Ray Siemens (University of Victoria, Canada)<br>
-Lauren Tilton (University of Richmond, USA)<br> 
+Yael Netzer (Hebrew University, Israel)<br> 
 Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)<br>
-David Wrisley (NYU Abu Dhabi, UAE)
+Frédéric Spagnoli (University Marie et Louis Pasteur, France)<br>
+
 
 ### Local organizing team
 Rudy Chaulet<br>
