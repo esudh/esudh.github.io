@@ -21,7 +21,7 @@ Other members of the ESU Steering Committee: <br>
 Alejandro Bia (Miguel Hernández University, Spain)<br> 
 Marion Benkaiouche (Student representative)<br> 
 Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br> 
-Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
+Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>
 Anna Kryvenko (Institute of Contemporary History, Slovenia)<br>
 Yael Netzer (Hebrew University, Israel)<br> 
 Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)<br>
@@ -42,7 +42,7 @@ Alejandro Bia (Miguel Hernández University, Spain)<br>
 Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br>
 Rudy Chaulet (University Marie and Louis Pasteur, France)<br>
 Carol Chiodo (The Claremont Colleges, USA)<br> 
-Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
+Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>
 Yael Netzer (Hebrew University, Israel)<br> 
 Voica Pușcașiu (Babeş-Bolyai University, Romania)<br> 
 Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br>
