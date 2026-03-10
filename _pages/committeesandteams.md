@@ -17,15 +17,15 @@ Co-chairs:<br>
 Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br> 
 Jeremi Ochab (Jagiellonian University, Poland)<br>
 
-Other members of the ESU Steering Committee: 
-Alejandro Bia (Miguel Hernández University, Spain)
-Marion Benkaiouche (Student representative)
+Other members of the ESU Steering Committee: <br> 
+Alejandro Bia (Miguel Hernández University, Spain)<br> 
+Marion Benkaiouche (Student representative)<br> 
 Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br> 
 Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
 Anna Kryvenko (Institute of Contemporary History, Slovenia)<br>
 Yael Netzer (Hebrew University, Israel)<br> 
 Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)<br>
-Frédéric Spagnoli (University Marie et Louis Pasteur, France)<br>
+Frédéric Spagnoli (University Marie et Louis Pasteur, France)
 
 
 ### Local organizing team
