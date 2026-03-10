@@ -40,6 +40,10 @@ include:
 # to override the default setting.
 exclude:
   - 2025
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - .github
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
