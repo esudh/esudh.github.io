@@ -8,6 +8,7 @@
 
 - name: "Bia, Alejandro"
   affiliation: "Miguel Hernández University, Spain"
+  steering: true
   bio: |
     Alejandro Bia is a lecturer at the Department of Statistics, Mathematics and Computer Science and a researcher at the Institute for Mathematics, Data Science and Artificial Intelligence, both at the Miguel Hernández University (Elche, Spain). He was Vice Dean of Business Statistics at UMH (2019-2023).
     He holds a PhD in Computer Science from the University of Alicante, a MSc and a BS in Computer Science from ORT University, a Diploma in Computing and Information Systems from Oxford University, and a diploma of Expert in Technological Innovation in Education from the Miguel Hernández University.
@@ -38,6 +39,7 @@
 
 - name: "Netzer, Yael"
   affiliation: "Hebrew University, Israel"
+  steering: true
   bio: |
     Yael Netzer is the lead scientist of the DH@Huji lab. She has a PhD in Computer Science and MA studies in Hebrew Literature at Ben Gurion University. Her dissertation combined computational linguistics, natural language generation and augmentative and alternative communication. In recent years she teaches Digital Humanities in Haifa, Tel Aviv and Ben Gurion Universities and in Digital Humanities related institutions such as the European Summer University of Leipzig, and the winter school in HUJI, for students and scholars from the Humanities, Computer Science, and Archiving studies. She works at Dicta, the Israeli Center for Text Analysis and is also a partner in the Digital Humanities lab in Haifa University. In recent years, Netzer develops and implements methods for digital personal archives, and is most interested in knowledge representation for archives, libraries and for the humanities.
   url: ""
@@ -50,6 +52,7 @@
 
 - name: "Šeļa, Artjoms"
   hidden: true
+  steering: true
   affiliation: "Czech Academy of Sciences, Czech Republic"
   bio: |
     Artjoms Šeļa is an Assistant Professor at the Department of Methodology at IJP PAN and member of the Computational Stylistics Group. He works in computational literary studies, with a primary focus on history and morphology of European verse; his interests include study of historical change in culture, statistical modeling and digital-born manuscripts. Currently involved in the CLS INFRA project as a researcher. He taught multiple workshops and university courses on computational text analysis and digital humanities.
@@ -63,6 +66,7 @@
   url: "https://laurentilton.com/"
 
 - name: "Vitali, Giovanni Pietro"
+  steering: true
   affiliation: "University of Versailles Saint-Quentin-en-Yvelines, France"
   bio: |
     Giovanni Pietro Vitali is Associate Professor in Cultural History and Digital Humanities at Versailles Saint-Quentin-en-Yvelines University – Paris-Saclay University. Previously he was Marie Curie Research Fellow at University College Cork in collaboration with the University of Reading and New York University. His MSCA project, Last Letters from the World Wars: Forming Italian Language, Identity and Memory in Texts of Conflict, dealt with a linguistic and thematic analysis of the last letters of people sentenced to death during the First and the Second World Wars. From 2014 to 2018, he worked in France as a lecturer of Italian Studies at the University of Lorraine and the University of Poitiers. In 2018 he became an associate researcher at University of Oxford where he is the Digital Humanities advisor of the Prismatic Translation project.
@@ -82,6 +86,7 @@
   url: ""
 
 - name: "Kryvenko, Anna"
+  steering: true
   affiliation: "Institute of Contemporary History, Slovenia"
   bio: |
     Anna Kryvenko is Research Associate at the Digital Humanities Group, Institute of Contemporary History (Ljubljana, Slovenia). She holds a PhD in linguistics and has over 15 years of experience teaching corpus analysis, discourse studies and lexical semantics at the university level. Her research interests include comparative modern diachronic corpus-assisted discourse studies with a focus on metadata-enriched transcripts applied to parliamentary discourse in times of crisis, wartime oral history, national identity and group belonging in the context of Europeanisation, master narratives, competing frames and multimodal metaphor in political discourse. Currently she is a researcher for the projects OSCARS Open Science cascading grant project Comparing agenda settings across parliaments via the ParlaMint dataset (ParlaCAP) (Horizon Europe) and Parliament in the Age of Europeanisation: the Czech Republic and Slovenia (ParlAgE) (ARIS, J6-60112) as well as the programme Digital Humanities: resources, tools and methods (ARIS, P6-0436). 
@@ -118,6 +123,7 @@
   url: ""
 
 - name: "Ochab, Jeremi"
+  steering: true
   affiliation: "Jagiellonian University, Poland"
   bio: |
     Jeremi Ochab is an assistant professor at the Institute of Physics, Jagiellonian University, Cracow, Poland, a member of the Computational Stylistics Group, and recently was a researcher at the language infrastructure program CLARIN-PL. He serves on the Scientific Board of Jagiellonian Centre for Digital Humanities. He graduated in theoretical physics and in English studies (specialized in translation). Focusing on interdisciplinary applications of mathematical tools (analysis of complex networks, analysis of time series, random matrix theory) and machine learning, he conducts research on methods of data analysis, neuroscience, as well as stylometry, and quantitative linguistics. He has lectured on Stylometry, Natural Language Processing, Deep Learning, and Data Analysis, among others, and in the meantime, he has translated several popular-science books into Polish.
@@ -129,3 +135,26 @@
   bio: |
     Ben Nagy holds a BA in Classics/Linguistics with a minor in Pure Mathematics, a Master of Classical Studies and a joint PhD from UAntwerp (Digital Humanities) and the Institute of Polish Language, Polish Academy of Sciences (IJP PAN) (Linguistics). He has published three articles on problems of disputed authorship in Classical Latin verse, as well as several methodological papers and collaborations. His work balances data-science and statistical analysis with traditional literary criticism and philology.
   url: ""
+  
+- name: "Elisabeth Burr"
+  hidden: true
+  steering: true
+  affiliation: "Em. prof. University of Leipzig, founder of the ESU"
+  bio: |
+  url: ""
+
+- name: "Alexandra Cotoc"
+  hidden: true
+  steering: true
+  affiliation: "Babeş-Bolyai University, Romania"
+  bio: |
+  url: ""
+
+- name: "Frédéric Spagnoli"
+  hidden: true
+  steering: true
+  affiliation: "University Marie et Louis Pasteur, France"
+  bio: |
+  url: ""
+
+

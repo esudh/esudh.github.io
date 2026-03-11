@@ -13,20 +13,12 @@ A "local team" is dealing with all the organizational aspects of the ESU in Besa
 A scientific committee, combining members of the "local team" as well as workshop instructors will be dealing with the evaluation of all received applications. 
 
 ### ESU Steering Committee
-Co-chairs:<br> 
-Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br> 
-Jeremi Ochab (Jagiellonian University, Poland)<br>
+{% assign sorted_instructors = site.data.instructors | sort: "name" %}
 
-Other members of the ESU Steering Committee: <br> 
-Alejandro Bia (Miguel Hernández University, Spain)<br> 
-Marion Benkaiouche (Student representative)<br> 
-Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br> 
-Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>
-Anna Kryvenko (Institute of Contemporary History, Slovenia)<br>
-Yael Netzer (Hebrew University, Israel)<br> 
-Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)<br>
-Frédéric Spagnoli (University Marie et Louis Pasteur, France)
-
+{% for person in sorted_instructors %}
+{% if person.steering %}
+{{ person.name }} ({{ person.affiliation }})
+{% endif %}
 
 ### Local organizing team
 Rudy Chaulet<br>
