@@ -15,7 +15,7 @@ toc_icon: "calendar"
 
 {{ person.bio }}
 
-{% if person.url != "" %}{{person.url}}{% endif %}
+{% if person.url != "" %}More info: [{{person.url}}]({{person.url}}){% endif %}
 
-	[Top]({{ page.url | relative_url }})
+[Top]({{ page.url | relative_url }})
 {% endfor %}
