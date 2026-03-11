@@ -17,8 +17,7 @@ A scientific committee, combining members of the "local team" as well as worksho
 {% assign committee_members = site.data.instructors | where: "steering", true | sort: "name" %}
 {%- for member in committee_members -%}
 {{ member.name }} ({{ member.affiliation }})<br>
-{%- endfor -%}
-<br>
+{%- endfor %}
 
 ### Local organizing team
 Rudy Chaulet<br>
