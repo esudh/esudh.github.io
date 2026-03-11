@@ -87,28 +87,26 @@ She is a contributing partner for the ParlaMint-UA dataset under the ParlaMint p
 
 [Top](https://esudh.github.io/instructors/)
 
-### Foremniak, Katarzyna
+### Foremniak, Katarzyna (Roche, Poland)
 Katarzyna Foremniak, PhD, is a computational linguist and phonetician with over fifteen years of experience as a researcher and academic teacher at the Department of Italian Studies, University of Warsaw. Her work bridges linguistics, phonetics, and natural language processing, with a particular focus on speech technologies and language data in cultural and applied contexts.
 She currently works as Content Designer and AI Readiness Specialist at Roche (Poland), where she supports the responsible integration of AI systems in business environments. She previously gained industry experience in the automotive sector, developing, implementing, and maintaining automatic speech recognition models and NLU systems. She has experience in designing and refining prompts for different large language models.
 She is the author of the five-volume grammar series Włoski w tłumaczeniach (“Italian in Translation,” A1–C1), later adapted for the German and Swiss markets as Satz für Satz. Italienisch, as well as over twenty scientific publications. She has extensive experience teaching linguistics and digital methods to interdisciplinary audiences.
 
 [Top](https://esudh.github.io/instructors/)
 
-### Sozański, Mariusz
-Mariusz Sozański is a DevOps expert with a background in computational physics. He currently works as Platform Architect and System Engineer at Verisign (Switzerland), where he designs and oversees scalable, containerized infrastructures for complex distributed systems.
-With over twenty years of professional experience, he specializes in DevOps practices, Kubernetes-based architectures, and reproducible, cloud-native environments. He has worked in multidisciplinary, geographically distributed teams across Europe and the United States, contributing as an IT consultant, architect, and technical trainer.
-His expertise includes designing resilient infrastructures, implementing CI/CD pipelines, and ensuring operational reliability and scalability in high-demand environments. He regularly collaborates with international stakeholders and clients in English, Italian, Russian, and Polish.
+### Sozański, Mariusz (Polish Air Navigation Services Agency, Poland)
+Mariusz Sozański is a DevOps expert with a background in computational physics. He currently works as Lead DevOps Architect at the Polish Air Navigation Services Agency, where he designs and oversees scalable, containerized infrastructures for complex distributed systems. With over twenty years of professional experience, he specializes in DevOps practices, Kubernetes-based architectures, and reproducible, cloud-native environments. He has worked in multidisciplinary, geographically distributed teams across Europe and the United States, contributing as an IT consultant, architect, and technical trainer. His expertise includes designing resilient infrastructures, implementing CI/CD pipelines, and ensuring operational reliability and scalability in high-demand environments. He regularly collaborates with international stakeholders and clients in English, Italian, Russian, and Polish.
 
 [Top](https://esudh.github.io/instructors/)
 
-### Casey, Christian
+### Casey, Christian (Freie Universität Berlin, Germany)
 Christian Casey is a postdoctoral researcher at the Freie Universität Berlin specializing in ancient Egyptian language, manuscript traditions, and the quantitative study of script. His work focuses on the formalization of philological reasoning: how writing systems change over time, how scribal habits can be measured, and how linguistic evidence can be modeled.
 He has published on Egyptian phonology, hieratic palaeography, and digital sustainability in the humanities. His research includes computational analysis of Coptic grapheme–phoneme correspondences, dimensionality reduction for the study of hieratic sign variation, and the development of open-source tools for collaborative manuscript annotation. This work has appeared in venues ranging from traditional Egyptological volumes to computer science workshops.
 Casey is Principal Investigator of the VolkswagenStiftung-funded project The Principles of Handwritten Script Evolution (2026–2028). He has taught graduate- and advanced undergraduate-level courses on manuscripts, digital humanities, and data sustainability, working with students from both technical and non-technical backgrounds. His teaching emphasizes structured experimentation, transparent methods, hands-on real-world practices, and the integration of computational tools into established philological and linguistic methodologies.
 
 [Top](https://esudh.github.io/instructors/)
 
-### Lang, Anouk
+### Lang, Anouk (University of Edinburgh, UK)
 Anouk Lang is Senior Lecturer in Digital Humanities in the Department of English and Scottish Literature at the University of Edinburgh, where she is also an affiliate of the Edinburgh Futures Institute. She is the co-editor of Digital Futures of Graduate Study in the Humanities in the Debates in the Digital Humanities series (with Gabriel Hankins and Simon Appleford, 2024), Patrick White Beyond the Grave: New Critical Perspectives (with Ian Henderson, 2015), and the editor of From Codex to Hypertext: Reading at the Turn of the Twenty-First Century (2012). Her research and teaching range over twentieth and twenty-first century literature, modernism, postcolonialism, reception studies and computational approaches to the study of literature and culture. She holds a BMus and a BA from the University of Sydney, a graduate certificate in Digital Humanities from the University of Victoria and a PhD from the University of Cambridge. She is a Fellow of the UK Higher Education Academy and a Fellow of the English Association in the UK.
 
 [Top](https://esudh.github.io/instructors/)
