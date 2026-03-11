@@ -14,7 +14,7 @@ A scientific committee, combining members of the "local team" as well as worksho
 
 ### ESU Steering Committee
 
-{% assign committee_members = site.data.instructors | where: "steering", true | sort: "name" %}
+{% assign committee_members = site.data.instructors | where: "steering", true | sort: "surname" %}
 {%- for member in committee_members -%}
 {{ member.name }} ({{ member.affiliation }})<br>
 {%- endfor %}
@@ -29,7 +29,7 @@ Frédéric Spagnoli
 
 ### Scientific Committee
 
-{% assign sorted_instructors = site.data.instructors | sort: "name" %}
+{% assign sorted_instructors = site.data.instructors | sort: "surname" %}
 {%- for person in sorted_instructors -%}
 {%- if person.hidden -%} {%- continue -%} {%- endif -%}
 {{ person.name }} ({{ person.affiliation }})<br>

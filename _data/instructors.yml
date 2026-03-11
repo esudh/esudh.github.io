@@ -1,4 +1,5 @@
-- name: "Anuradha, Isuri"
+- name: "Isuri Anuradha"
+  surname: "Anuradha"
   hidden: true
   affiliation: "Lancaster University, UK/ Clarin Trainers' Network"
   bio: |
@@ -6,7 +7,8 @@
     In 2024, Isuri also joined the CLARIN Trainers’ Network. She collaborated with EHRI and CLARIN to co-organise the ‘ Holocaust Testimonies as Language Resource’ workshop at LREC-COLING 2024. 
   url: "https://www.clarin.eu/trainers-network/isuri-anuradha"
 
-- name: "Bia, Alejandro"
+- name: "Alejandro Bia"
+  surname: "Bia"
   affiliation: "Miguel Hernández University, Spain"
   steering: true
   bio: |
@@ -21,7 +23,8 @@
     He is a long-time member of the DH community (since 1999) and has been elected member of the TEI Council for three periods (2002-2004, 2004-2006 and 2017-2018) and of the Executive Committee of the former Association for Literary and Linguistic Computing, now EADH, for two periods (2004-2008 and 2008-2011). Until recently (2015-2019), he has been the secretary of the HDH association (Hispanic Digital Humanities) and is currently a member of the Internet Society (Spanish chapter).
   url: ""
 
-- name: "Chaulet, Rudy"
+- name: "Rudy Chaulet"
+  surname: "Chaulet"
   hidden: true
   affiliation: "University Marie and Louis Pasteur, France"
   bio: |
@@ -29,7 +32,8 @@
     Humanities, Vice-rector for International Relations between 2008 and 2012.
   url: "https://cv.hal.science/rudy-chaulet"
 
-- name: "Chiodo, Carol"
+- name: "Carol Chiodo"
+  surname: "Chiodo"
   affiliation: "The Claremont Colleges, USA"
   bio: |
     Before joining Claremont, she was the Librarian for Collections and Digital Scholarship in the Americas, Europe and Oceania Division at Harvard University Library. She has taught courses and workshops on cultural heritage and emerging technologies at a number of universities in the U.S. and abroad, including Yale, Princeton, University of Franche-Comté, University of Leipzig, NYU Abu Dhabi, Jagiellonian University, and Babeş-Bolyai University.
@@ -37,20 +41,23 @@
     She received her Ph.D. from Yale University with a dissertation on the poetic use of the mechanical arts in Dante Alighieri’s medieval poem, the Divine Comedy.
   url: "https://carolchiodo.com/"
 
-- name: "Netzer, Yael"
+- name: "Yael Netzer"
+  surname: "Netzer"
   affiliation: "Hebrew University, Israel"
   steering: true
   bio: |
     Yael Netzer is the lead scientist of the DH@Huji lab. She has a PhD in Computer Science and MA studies in Hebrew Literature at Ben Gurion University. Her dissertation combined computational linguistics, natural language generation and augmentative and alternative communication. In recent years she teaches Digital Humanities in Haifa, Tel Aviv and Ben Gurion Universities and in Digital Humanities related institutions such as the European Summer University of Leipzig, and the winter school in HUJI, for students and scholars from the Humanities, Computer Science, and Archiving studies. She works at Dicta, the Israeli Center for Text Analysis and is also a partner in the Digital Humanities lab in Haifa University. In recent years, Netzer develops and implements methods for digital personal archives, and is most interested in knowledge representation for archives, libraries and for the humanities.
   url: ""
 
-- name: "Pușcașiu, Voica"
+- name: "Voica Pușcașiu"
+  surname: "Pușcașiu"
   affiliation: "Babeș-Bolyai University Cluj-Napoca, Romania"
   bio: |
     Voica Pușcașiu is a Lecturer in Modern and Contemporary Art History at Babeș-Bolyai University Cluj-Napoca and is determined to broaden the classical curricula towards methods belonging to the Digital Humanities. Her main research interests are sociological approaches to art in public spaces and conceptualizing through data visualization, particularly digital interactive cartography.
   url: ""
 
-- name: "Šeļa, Artjoms"
+- name: "Artjoms Šeļa"
+  surname: "Šeļa"
   hidden: true
   steering: true
   affiliation: "Czech Academy of Sciences, Czech Republic"
@@ -58,34 +65,39 @@
     Artjoms Šeļa is an Assistant Professor at the Department of Methodology at IJP PAN and member of the Computational Stylistics Group. He works in computational literary studies, with a primary focus on history and morphology of European verse; his interests include study of historical change in culture, statistical modeling and digital-born manuscripts. Currently involved in the CLS INFRA project as a researcher. He taught multiple workshops and university courses on computational text analysis and digital humanities.
   url: ""
 
-- name: "Tilton, Lauren"
+- name: "Lauren Tilton"
+  surname: "Tilton"
   hidden: true
   affiliation: "University of Richmond, USA"
   bio: |
     Lauren Tilton is the E. Claiborne Robins Professor of Liberal Arts and Professor of Digital Humanities in the Department of Rhetoric and Communications at the University of Richmond. She also directs the Distant Viewing Lab. Her research focuses on analyzing, developing, and applying digital and computational methods to the study of 20th and 21st century documentary expression and visual culture. Her primary scholarship incorporates theoretical and methodological approaches from American Studies, Media Studies, Public Humanities, and Data Science. Lauren Tilton is committed to interdisciplinary, collaborative, open access scholarship. She earned her PhD in American Studies from Yale University.
   url: "https://laurentilton.com/"
 
-- name: "Vitali, Giovanni Pietro"
+- name: "Giovanni Pietro Vitali"
+  surname: "Vitali"
   steering: true
   affiliation: "University of Versailles Saint-Quentin-en-Yvelines, France"
   bio: |
     Giovanni Pietro Vitali is Associate Professor in Cultural History and Digital Humanities at Versailles Saint-Quentin-en-Yvelines University – Paris-Saclay University. Previously he was Marie Curie Research Fellow at University College Cork in collaboration with the University of Reading and New York University. His MSCA project, Last Letters from the World Wars: Forming Italian Language, Identity and Memory in Texts of Conflict, dealt with a linguistic and thematic analysis of the last letters of people sentenced to death during the First and the Second World Wars. From 2014 to 2018, he worked in France as a lecturer of Italian Studies at the University of Lorraine and the University of Poitiers. In 2018 he became an associate researcher at University of Oxford where he is the Digital Humanities advisor of the Prismatic Translation project.
   url: "https://www.giovannipietrovitali.eu"
 
-- name: "Rebora, Simone"
+- name: "Simone Rebora"
+  surname: "Rebora"
   affiliation: "University of Verona, Italy"
   bio: |
     Simone Rebora is an Associate Professor of Comparative Literature at the University of Verona. He holds a PhD in Foreign Literatures and Literary Studies (University of Verona) and a BSc in Electronic Engineering (Polytechnic University of Torino). As a postdoc, he worked at the Universities of Mainz, Bielefeld, Göttingen, and Basel. Between 2020 and 2022, he was assistant coordinator of the European Network ELIT (Empirical Study of Literature Training Network). In the context of the Alliance of Digital Humanities Organizations (ADHO), he is currently chair of the Special Interest Group “Digital Literary Stylistics” (SIG-DLS). He is also a board member of AIUCD and “Umanistica Digitale” (the Italian digital humanities association and journal, respectively).
     His main research interests are theory and history of literary historiography, reader response studies, and computational literary studies. His essays have appeared in journals such as “PLOS ONE”, “Digital Scholarship in the Humanities”, and “Modern Language Notes”. In Italian, he published the monographs *Claudio Magris* (2015) and *History/Historie and Digital Humanities* (2018).
   url: ""
 
-- name: "Wrisley, David"
+- name: "David Wrisley"
+  surname: "Wrisley"
   affiliation: "New York University Abu Dhabi, UAE"
   bio: |
     David Joseph Wrisley is Professor of Digital Humanities at NYU Abu Dhabi. His research interests include comparative approaches to medieval literature in European languages and Arabic, digital spatial approaches to corpora, neural methods for handwritten text recognition across writing systems and open knowledge community building in the Middle East where he has lived and researched since 2002.
   url: ""
 
-- name: "Kryvenko, Anna"
+- name: "Anna Kryvenko"
+  surname: "Kryvenko"
   steering: true
   affiliation: "Institute of Contemporary History, Slovenia"
   bio: |
@@ -94,7 +106,8 @@
     She is a contributing partner for the ParlaMint-UA dataset under the ParlaMint project, a co-author of the digital textbook From the dispatch box: unlocking the potential of ParlaMint through noSketch Engine and TEITOK and an instructor for several workshops on corpus-assisted studies of parliamentary data delivered at the Digital Humanities Conference 2023, Digital Humanities Conference 2025, the Centre for Digital Humanities at Utrecht University in 2025 and the European Summer University in 2023.
   url: ""
 
-- name: "Foremniak, Katarzyna"
+- name: "Katarzyna Foremniak"
+  surname: "Foremniak"
   affiliation: "Roche, Poland"
   bio: |
     Katarzyna Foremniak, PhD, is a computational linguist and phonetician with over fifteen years of experience as a researcher and academic teacher at the Department of Italian Studies, University of Warsaw. Her work bridges linguistics, phonetics, and natural language processing, with a particular focus on speech technologies and language data in cultural and applied contexts.
@@ -102,13 +115,15 @@
     She is the author of the five-volume grammar series Włoski w tłumaczeniach (“Italian in Translation,” A1–C1), later adapted for the German and Swiss markets as Satz für Satz. Italienisch, as well as over twenty scientific publications. She has extensive experience teaching linguistics and digital methods to interdisciplinary audiences.
   url: ""
 
-- name: "Sozański, Mariusz"
+- name: "Mariusz Sozański"
+  surname: "Sozański"
   affiliation: "Polish Air Navigation Services Agency, Poland"
   bio: |
     Mariusz Sozański is a DevOps expert with a background in computational physics. He currently works as Lead DevOps Architect at the Polish Air Navigation Services Agency, where he designs and oversees scalable, containerized infrastructures for complex distributed systems. With over twenty years of professional experience, he specializes in DevOps practices, Kubernetes-based architectures, and reproducible, cloud-native environments. He has worked in multidisciplinary, geographically distributed teams across Europe and the United States, contributing as an IT consultant, architect, and technical trainer. His expertise includes designing resilient infrastructures, implementing CI/CD pipelines, and ensuring operational reliability and scalability in high-demand environments. He regularly collaborates with international stakeholders and clients in English, Italian, Russian, and Polish.
   url: ""
 
-- name: "Casey, Christian"
+- name: "Christian Casey"
+  surname: "Casey"
   affiliation: "Freie Universität Berlin, Germany"
   bio: |
     Christian Casey is a postdoctoral researcher at the Freie Universität Berlin specializing in ancient Egyptian language, manuscript traditions, and the quantitative study of script. His work focuses on the formalization of philological reasoning: how writing systems change over time, how scribal habits can be measured, and how linguistic evidence can be modeled.
@@ -116,20 +131,23 @@
     Casey is Principal Investigator of the VolkswagenStiftung-funded project The Principles of Handwritten Script Evolution (2026–2028). He has taught graduate- and advanced undergraduate-level courses on manuscripts, digital humanities, and data sustainability, working with students from both technical and non-technical backgrounds. His teaching emphasizes structured experimentation, transparent methods, hands-on real-world practices, and the integration of computational tools into established philological and linguistic methodologies.
   url: ""
 
-- name: "Lang, Anouk"
+- name: "Anouk Lang"
+  surname: "Lang"
   affiliation: "University of Edinburgh, UK"
   bio: |
     Anouk Lang is Senior Lecturer in Digital Humanities in the Department of English and Scottish Literature at the University of Edinburgh, where she is also an affiliate of the Edinburgh Futures Institute. She is the co-editor of Digital Futures of Graduate Study in the Humanities in the Debates in the Digital Humanities series (with Gabriel Hankins and Simon Appleford, 2024), Patrick White Beyond the Grave: New Critical Perspectives (with Ian Henderson, 2015), and the editor of From Codex to Hypertext: Reading at the Turn of the Twenty-First Century (2012). Her research and teaching range over twentieth and twenty-first century literature, modernism, postcolonialism, reception studies and computational approaches to the study of literature and culture. She holds a BMus and a BA from the University of Sydney, a graduate certificate in Digital Humanities from the University of Victoria and a PhD from the University of Cambridge. She is a Fellow of the UK Higher Education Academy and a Fellow of the English Association in the UK.
   url: ""
 
-- name: "Ochab, Jeremi"
+- name: "Jeremi Ochab"
+  surname: "Ochab"
   steering: true
   affiliation: "Jagiellonian University, Poland"
   bio: |
     Jeremi Ochab is an assistant professor at the Institute of Physics, Jagiellonian University, Cracow, Poland, a member of the Computational Stylistics Group, and recently was a researcher at the language infrastructure program CLARIN-PL. He serves on the Scientific Board of Jagiellonian Centre for Digital Humanities. He graduated in theoretical physics and in English studies (specialized in translation). Focusing on interdisciplinary applications of mathematical tools (analysis of complex networks, analysis of time series, random matrix theory) and machine learning, he conducts research on methods of data analysis, neuroscience, as well as stylometry, and quantitative linguistics. He has lectured on Stylometry, Natural Language Processing, Deep Learning, and Data Analysis, among others, and in the meantime, he has translated several popular-science books into Polish.
   url: "https://computationalstylistics.github.io/"
 
-- name: "Nagy, Ben"
+- name: "Ben Nagy"
+  surname: "Nagy"
   hidden: true
   affiliation: ""
   bio: |

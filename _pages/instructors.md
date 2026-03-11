@@ -7,7 +7,7 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 
-{% assign sorted_instructors = site.data.instructors | sort: "name" %}
+{% assign sorted_instructors = site.data.instructors | sort: "surname" %}
 
 {% for person in sorted_instructors %}
 {% if person.hidden %} {% continue %} {% endif %}
