@@ -33,3 +33,4 @@ Frédéric Spagnoli
 {% for person in sorted_instructors %}
 {% if person.hidden %} {% continue %} {% endif %}
 {{ person.name }} ({{ person.affiliation }})
+{% endfor %}
