@@ -13,11 +13,10 @@ A "local team" is dealing with all the organizational aspects of the ESU in Besa
 A scientific committee, combining members of the "local team" as well as workshop instructors will be dealing with the evaluation of all received applications. 
 
 ### ESU Steering Committee
-{% assign committee_members = site.data.instructors | where: "steering", true | sort: "name" %}
-
-{% for member in committee_members %}
+{%- assign committee_members = site.data.instructors | where: "steering", true | sort: "name" -%}
+{%- for member in committee_members -%}
 {{ member.name }} ({{ member.affiliation }})<br>
-{% endfor %}
+{%- endfor -%}
 
 ### Local organizing team
 Rudy Chaulet<br>
@@ -28,9 +27,8 @@ Frédéric Spagnoli
 
 
 ### Scientific Committee
-{% assign sorted_instructors = site.data.instructors | sort: "name" %}
-
-{% for person in sorted_instructors %}
-{% if person.hidden %} {% continue %} {% endif %}
+{%- assign sorted_instructors = site.data.instructors | sort: "name" -%}
+{%- for person in sorted_instructors -%}
+{%- if person.hidden -%} {%- continue -%} {%- endif -%}
 {{ person.name }} ({{ person.affiliation }})
-{% endfor %}
+{%- endfor -%}
