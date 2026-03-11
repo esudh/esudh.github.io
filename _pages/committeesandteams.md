@@ -21,6 +21,7 @@ A scientific committee, combining members of the "local team" as well as worksho
 
 
 ### Local organizing team
+
 Rudy Chaulet<br>
 Benjamin Goldlust<br> 
 Dulce Yocelin Moreno Hernandez<br> 
