@@ -13,7 +13,7 @@ toc_icon: "calendar"
 
 {% for workshop in sorted_workshops %}
 ### {{ workshop.title }} 
-**Instructors: ** {%- for instructor_name in workshop.instructors -%}
+**Instructors:** {% for instructor_name in workshop.instructors -%}
   {%- comment -%} We slugify the name to match the ID on the instructors page {%- endcomment -%}
   <a href="{{ '/instructors/' | relative_url }}#{{ instructor_name | slugify }}">{{ instructor_name }}</a>{%- unless forloop.last -%}, {%- endunless -%}
 {%- endfor -%}<br>
