@@ -30,5 +30,5 @@ Frédéric Spagnoli
 {%- assign sorted_instructors = site.data.instructors | sort: "name" -%}
 {%- for person in sorted_instructors -%}
 {%- if person.hidden -%} {%- continue -%} {%- endif -%}
-{{ person.name }} ({{ person.affiliation }})
+{{ person.name }} ({{ person.affiliation }})<br>
 {%- endfor -%}
