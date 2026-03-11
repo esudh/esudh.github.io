@@ -18,10 +18,9 @@ A scientific committee, combining members of the "local team" as well as worksho
 {%- for member in committee_members -%}
 {{ member.name }} ({{ member.affiliation }})<br>
 {%- endfor -%}
-
+<br>
 
 ### Local organizing team
-
 Rudy Chaulet<br>
 Benjamin Goldlust<br> 
 Dulce Yocelin Moreno Hernandez<br> 
