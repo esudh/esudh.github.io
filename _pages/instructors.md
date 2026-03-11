@@ -11,7 +11,7 @@ toc_icon: "calendar"
 
 {% for person in sorted_instructors %}
 {% if person.hidden %} {% continue %} {% endif %}
-### {{ person.name }} ({{ person.affiliation }})
+### {{ person.name }} ({{ person.affiliation }}) {: #{{ person.name | slugify }} }
 
 {{ person.bio }}
 
