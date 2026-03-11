@@ -3,85 +3,85 @@
     - "Yael Netzer"
   duration: "both weeks"
   descriptions: |
-    The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive. [cite: 2] This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools. [cite: 3] Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools. [cite: 4] No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. [cite: 5]
+    The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
 
-    [cite_start]**First Week – Reading and Working with Data / Collections in OpenRefine** [cite: 6]
-    [cite_start]Digital data in various formats is at the heart of humanities research. [cite: 7] [cite_start]Often, datasets are large, messy, or structured in unfamiliar ways. [cite: 8] [cite_start]This week, students will learn to inspect, clean, and enrich digital catalogues using OpenRefine, as well as how to enhance datasets with Linked Open Data (LOD) from sources such as the Library of Congress, VIAF, and Wikidata. [cite: 9]
-    [cite_start]By the end of this week, students will be proficient in: [cite: 10]
-    * [cite_start]Understanding different file formats (CSV, TSV, Spreadsheets, JSON, XML TEI) [cite: 11]
-    * [cite_start]Using regular expressions for data manipulation (with some skill and aid from chatGPT) [cite: 12]
-    * [cite_start]Writing expressions with GREL (OpenRefine’s scripting language) [cite: 13]
-    * [cite_start]Fetching and reconciling data via REST API (e.g., GeoNames, Wikidata) [cite: 14]
-    * [cite_start]Scraping and structuring data from the web [cite: 15]
-    * [cite_start]Mapping textual data to geographic locations [cite: 16]
+    **First Week – Reading and Working with Data / Collections in OpenRefine** 
+    Digital data in various formats is at the heart of humanities research.  Often, datasets are large, messy, or structured in unfamiliar ways.  This week, students will learn to inspect, clean, and enrich digital catalogues using OpenRefine, as well as how to enhance datasets with Linked Open Data (LOD) from sources such as the Library of Congress, VIAF, and Wikidata. 
+    By the end of this week, students will be proficient in: 
+    * Understanding different file formats (CSV, TSV, Spreadsheets, JSON, XML TEI) 
+    * Using regular expressions for data manipulation (with some skill and aid from chatGPT) 
+    * Writing expressions with GREL (OpenRefine’s scripting language) 
+    * Fetching and reconciling data via REST API (e.g., GeoNames, Wikidata) 
+    * Scraping and structuring data from the web 
+    * Mapping textual data to geographic locations 
 
-    [cite_start]**Schedule:** [cite: 17]
-    * [cite_start]Class 1: Introduction, loading a file, faceting, and exploring data [cite: 18]
-    * [cite_start]Class 2: Regular expressions and working with dates [cite: 19]
-    * [cite_start]Class 3: Clustering techniques for data cleaning [cite: 20]
-    * [cite_start]Class 4: Fetching external data using REST APIs (GeoNames example) [cite: 21]
-    * [cite_start]Hands-On Session: Practicing administrative tasks (changing working directory, memory allocation) [cite: 22]
-    * [cite_start]Class 5: Reconciliation and enriching data with Wikidata [cite: 23]
-    * [cite_start]Class 6: Handling JSON and XML file formats [cite: 24]
-    * [cite_start]Class 7: Web scraping techniques and automation [cite: 25]
-    * [cite_start]Class 8: From text to map – Geospatial representations in OpenRefine [cite: 26]
-    * [cite_start]Class 9: Summary and discussion [cite: 27]
+    **Schedule:** 
+    * Class 1: Introduction, loading a file, faceting, and exploring data 
+    * Class 2: Regular expressions and working with dates 
+    * Class 3: Clustering techniques for data cleaning 
+    * Class 4: Fetching external data using REST APIs (GeoNames example) 
+    * Hands-On Session: Practicing administrative tasks (changing working directory, memory allocation) 
+    * Class 5: Reconciliation and enriching data with Wikidata 
+    * Class 6: Handling JSON and XML file formats 
+    * Class 7: Web scraping techniques and automation 
+    * Class 8: From text to map – Geospatial representations in OpenRefine 
+    * Class 9: Summary and discussion 
 
-    [cite_start]**Second Week – Building a Digital Archive: Archives of the Present** [cite: 28]
-    [cite_start]This week focuses on the creation and structuring of small-scale digital archives, but also introduces the concept of archives of the present—a critical reflection on how contemporary events, data, and digital traces shape our archival practices. [cite: 29] [cite_start]Participants will work with their own or provided collections, conceptualizing metadata structures and curatorial strategies. [cite: 30] [cite_start]The workshop covers best practices in digital archive development, including metadata schema selection, linked data integration, and user-friendly design. [cite: 31]
-    [cite_start]The discussion of archives of the present will explore: [cite: 32]
-    * [cite_start]How digital documentation of real-time events (social media, news articles, live-streamed content) can be archived [cite: 33]
-    * [cite_start]The ethical challenges of archiving contemporary materials [cite: 34]
-    * [cite_start]Methods for ensuring accessibility and preservation of ephemeral data [cite: 35]
-    * [cite_start]The evolving nature of authority files and metadata in fast-changing digital environments [cite: 36]
-    [cite_start]By the end of this week, students will be proficient in: [cite: 36]
-    * [cite_start]Theoretical foundations of archival studies [cite: 37]
-    * [cite_start]Metadata structuring and best practices [cite: 38]
-    * [cite_start]Using Omeka-S for archive implementation [cite: 39]
-    * [cite_start]Using Tropy for organizing and annotating images [cite: 40]
-    * [cite_start]Linking archives to external sources and ontologies [cite: 41]
-    * [cite_start]Designing and publishing an accessible, structured digital archive [cite: 42]
-    * [cite_start]Engaging with contemporary data collection and preservation strategies [cite: 43]
+    **Second Week – Building a Digital Archive: Archives of the Present** 
+    This week focuses on the creation and structuring of small-scale digital archives, but also introduces the concept of archives of the present—a critical reflection on how contemporary events, data, and digital traces shape our archival practices.  Participants will work with their own or provided collections, conceptualizing metadata structures and curatorial strategies.  The workshop covers best practices in digital archive development, including metadata schema selection, linked data integration, and user-friendly design. 
+    The discussion of archives of the present will explore: 
+    * How digital documentation of real-time events (social media, news articles, live-streamed content) can be archived 
+    * The ethical challenges of archiving contemporary materials 
+    * Methods for ensuring accessibility and preservation of ephemeral data 
+    * The evolving nature of authority files and metadata in fast-changing digital environments 
+    By the end of this week, students will be proficient in: 
+    * Theoretical foundations of archival studies 
+    * Metadata structuring and best practices 
+    * Using Omeka-S for archive implementation 
+    * Using Tropy for organizing and annotating images 
+    * Linking archives to external sources and ontologies 
+    * Designing and publishing an accessible, structured digital archive 
+    * Engaging with contemporary data collection and preservation strategies 
 
-    [cite_start]**Schedule:** [cite: 44]
-    * [cite_start]Class 1: Theory of archives – an introduction [cite: 45]
-    * [cite_start]Class 2: Digital archives – examples and reviewing participant collections [cite: 46]
-    * [cite_start]Class 3: Modeling the domain [cite: 47]
-    * [cite_start]Class 4: Metadata – methods of description, challenges, and dilemmas [cite: 48]
-    * [cite_start]Class 5: Introduction to Omeka-S – setting up and structuring an archive [cite: 49]
-    * [cite_start]Class 6: Using Tropy – basic features and integration with Omeka [cite: 50]
-    * [cite_start]Hands-On Session: Working on participant collections [cite: 51]
-    * [cite_start]Class 7: Archives of the present – Capturing and preserving digital traces [cite: 52]
-    * [cite_start]Class 8: Linking and integrating with external resources and authority files [cite: 53]
-    * [cite_start]Class 9: Publishing – designing Omeka pages for public access [cite: 54]
-    * [cite_start]Class 10: Summary and reflections [cite: 55]
+    **Schedule:** 
+    * Class 1: Theory of archives – an introduction 
+    * Class 2: Digital archives – examples and reviewing participant collections 
+    * Class 3: Modeling the domain 
+    * Class 4: Metadata – methods of description, challenges, and dilemmas 
+    * Class 5: Introduction to Omeka-S – setting up and structuring an archive 
+    * Class 6: Using Tropy – basic features and integration with Omeka 
+    * Hands-On Session: Working on participant collections 
+    * Class 7: Archives of the present – Capturing and preserving digital traces 
+    * Class 8: Linking and integrating with external resources and authority files 
+    * Class 9: Publishing – designing Omeka pages for public access 
+    * Class 10: Summary and reflections 
 
-    [cite_start]To enrich the learning experience, this workshop will aim to incorporate: [cite: 56]
-    * [cite_start]Case studies of successful digital archive projects [cite: 57]
-    * [cite_start]Collaborative group work, where teams handle different types of archival materials [cite: 58]
-    * [cite_start]Expanded toolset beyond OpenRefine and Omeka, including basic Python for data manipulation and SPARQL for querying LOD sources [cite: 59]
-    * [cite_start]Introduction to IIIF (International Image Interoperability Framework) for handling digital images in archives [cite: 60]
-    * [cite_start]Machine learning-assisted metadata extraction, including OCR (Transkribus), Google Vision API, and Named Entity Recognition (NER) [cite: 61]
-    * [cite_start]Sustainability and long-term digital archive maintenance strategies [cite: 62]
+    To enrich the learning experience, this workshop will aim to incorporate: 
+    * Case studies of successful digital archive projects 
+    * Collaborative group work, where teams handle different types of archival materials 
+    * Expanded toolset beyond OpenRefine and Omeka, including basic Python for data manipulation and SPARQL for querying LOD sources 
+    * Introduction to IIIF (International Image Interoperability Framework) for handling digital images in archives 
+    * Machine learning-assisted metadata extraction, including OCR (Transkribus), Google Vision API, and Named Entity Recognition (NER) 
+    * Sustainability and long-term digital archive maintenance strategies 
 
 - title: "Digital Curation and Cultural Heritage"
   instructors: 
     - "Carol Chiodo"
   duration: "first week"
   descriptions: |
-    The workshop will last one week, from July 22 to July 26 (week 1). [cite: 71]
-    The large-scale digitization of cultural heritage, emerging forms of born-digital collections and archives, and the new ways in which researchers across disciplines engage with these materials are challenging traditional theories and practices in cultural heritage. [cite: 72] They also present new opportunities for practitioners and researchers working with digitized collections and archival materials by expanding the means of discovery, engagement, and stewardship. [cite: 73] These opportunities include the application of computational tools and methods, integrating computational analysis with traditional cultural heritage curation methods. [cite: 74]
-    This workshop will introduce digital curation as it pertains to the cultural heritage sector, understood as the selection, acquisition, preservation, maintenance, and delivery of digital data derived from objects held by libraries and museums. [cite: 75] We will examine the intersection of emerging computational and analytical methods and technologies with museum collections, rare books and archival holdings while weighing the advantages and disadvantages for historical, social, scientific, and cultural research engagement with these materials. [cite: 76]
-    The course will provide an overview of best practices for the management and stewardship of these born-digital and digitized holdings in libraries and museums and we will also explore recent applications of digital curation to cultural heritage, including generative AI, geospatial analysis, audiovisual curation, collections as data, and more. [cite: 77] The workshop is suitable for those new to the field, such as graduate students and early career scholars, as well as experienced practitioners interested in gaining new perspectives on computational curation in cultural heritage. [cite: 78]
+    The workshop will last one week, from July 22 to July 26 (week 1). 
+    The large-scale digitization of cultural heritage, emerging forms of born-digital collections and archives, and the new ways in which researchers across disciplines engage with these materials are challenging traditional theories and practices in cultural heritage.  They also present new opportunities for practitioners and researchers working with digitized collections and archival materials by expanding the means of discovery, engagement, and stewardship.  These opportunities include the application of computational tools and methods, integrating computational analysis with traditional cultural heritage curation methods. 
+    This workshop will introduce digital curation as it pertains to the cultural heritage sector, understood as the selection, acquisition, preservation, maintenance, and delivery of digital data derived from objects held by libraries and museums.  We will examine the intersection of emerging computational and analytical methods and technologies with museum collections, rare books and archival holdings while weighing the advantages and disadvantages for historical, social, scientific, and cultural research engagement with these materials. 
+    The course will provide an overview of best practices for the management and stewardship of these born-digital and digitized holdings in libraries and museums and we will also explore recent applications of digital curation to cultural heritage, including generative AI, geospatial analysis, audiovisual curation, collections as data, and more.  The workshop is suitable for those new to the field, such as graduate students and early career scholars, as well as experienced practitioners interested in gaining new perspectives on computational curation in cultural heritage. 
 
 - title: "Digital XML-TEI Content Creation and Processing Aided by AI Tools"
   instructors: 
     - "Alex Bia"
   duration: "both weeks"
   descriptions: |
-    DESCRIPTION: In this workshop, you’re going to learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub. [cite: 87] Additionally, you will discover how to manage document structure to normalize large collections and how to render and transform documents automatically using technologies such as CSS, XPath, and XSLT. [cite: 88] We will also explore how the most recent AI tools can help us perform some of these tasks. [cite: 89] This workshop comprises two parts: [cite: 90]
-    **Week 1: Introduction to XML-based technologies for text encoding** deals with producing digital text documents using XML vocabularies like TEI and HTML, as well as related technologies (ePub, Markdown, etc.). [cite: 91] This is a hands-on, introductory-level course. We will also introduce AI tools like ChatGPT to be used as an aid in document processing. [cite: 92]
-    **Week 2: XML-TEI document structuring and rendering** deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations. [cite: 93] This is a hands-on, medium-high level course. [cite: 94]
+    DESCRIPTION: In this workshop, you’re going to learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub.  Additionally, you will discover how to manage document structure to normalize large collections and how to render and transform documents automatically using technologies such as CSS, XPath, and XSLT.  We will also explore how the most recent AI tools can help us perform some of these tasks.  This workshop comprises two parts: 
+    **Week 1: Introduction to XML-based technologies for text encoding** deals with producing digital text documents using XML vocabularies like TEI and HTML, as well as related technologies (ePub, Markdown, etc.).  This is a hands-on, introductory-level course. We will also introduce AI tools like ChatGPT to be used as an aid in document processing. 
+    **Week 2: XML-TEI document structuring and rendering** deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations.  This is a hands-on, medium-high level course. 
 
 - title: "Distant Reading in R. Analyse the text & visualize the data"
   instructors: 
@@ -89,9 +89,9 @@
     - "Giovanni Pietro Vitali"
   duration: "both weeks"
   descriptions: |
-    Distant reading is one of the most well-known methodological approaches in digital humanities, formalized by Franco Moretti in the article _Conjectures on World Literature_ (2000). [cite: 112] It benefits greatly from computational tools. For this reason, we are proposing a course based on the use of R, one of the most popular programming languages in the scientific community today. [cite: 113]
-    The philosophy of the course is to analyze text and visualize data, and its structure follows this dichotomy. [cite: 114] The objective is to introduce participants to different methodological perspectives and provide practical tools they can use in their own research. [cite: 115] The course offers a compact introduction to natural language processing, computational text analysis, machine learning, graph theory, and geospatial humanities. [cite: 116] By the end of the two-week course, participants will be able to use R and RStudio to apply textual and spatial analysis. [cite: 117] An important component of the course is data visualization, an area in which R excels, offering a comprehensive framework for creating graphs, maps, and trees. [cite: 118]
-    The final part of the course will focus on open-source programs like Gephi, GIMP, and Inkscape, which allow users to manipulate and rework vector and graphical files. [cite: 119] The course is suitable for beginners who want to start their digital humanities training with a complete overview of the most common tools used for distant reading. [cite: 120]
+    Distant reading is one of the most well-known methodological approaches in digital humanities, formalized by Franco Moretti in the article _Conjectures on World Literature_ (2000).  It benefits greatly from computational tools. For this reason, we are proposing a course based on the use of R, one of the most popular programming languages in the scientific community today. 
+    The philosophy of the course is to analyze text and visualize data, and its structure follows this dichotomy.  The objective is to introduce participants to different methodological perspectives and provide practical tools they can use in their own research.  The course offers a compact introduction to natural language processing, computational text analysis, machine learning, graph theory, and geospatial humanities.  By the end of the two-week course, participants will be able to use R and RStudio to apply textual and spatial analysis.  An important component of the course is data visualization, an area in which R excels, offering a comprehensive framework for creating graphs, maps, and trees. 
+    The final part of the course will focus on open-source programs like Gephi, GIMP, and Inkscape, which allow users to manipulate and rework vector and graphical files.  The course is suitable for beginners who want to start their digital humanities training with a complete overview of the most common tools used for distant reading. 
 
 - title: "Humanities Data and Mapping Environments"
   instructors: 
@@ -99,34 +99,34 @@
     - "Voica Pușcașiu"
   duration: "both weeks"
   descriptions: |
-    This spatial humanities workshop will introduce participants to different ways of thinking about humanities data, their curation within projects, and their use in digital mapping environments. [cite: 138] The workshop will not be a traditional course in Geographic Information Systems (GIS), although we will use open source GIS and web mapping along the way. [cite: 139] The workshop is designed for the total beginner who would like to explore how a spatial dimension can enrich humanities and interdisciplinary research projects and to learn some fundamental skills for collecting and organizing data in order to be able to integrate such methods into their research workflows. [cite: 140, 141, 142]
-    Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. [cite: 143] The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research. [cite: 144] The workshop lasts a total of 36 hours, two weeks of 18 contact hours each. [cite: 145]
+    This spatial humanities workshop will introduce participants to different ways of thinking about humanities data, their curation within projects, and their use in digital mapping environments.  The workshop will not be a traditional course in Geographic Information Systems (GIS), although we will use open source GIS and web mapping along the way.  The workshop is designed for the total beginner who would like to explore how a spatial dimension can enrich humanities and interdisciplinary research projects and to learn some fundamental skills for collecting and organizing data in order to be able to integrate such methods into their research workflows. [cite: 140, 141, 142]
+    Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions.  The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research.  The workshop lasts a total of 36 hours, two weeks of 18 contact hours each. 
     
-    [cite_start]The central goals of the workshop are fourfold: [cite: 146]
-    * [cite_start]to learn where we might obtain spatial data relevant to our research interests, or capture data from analog sources through digitization, [cite: 147]
-    * [cite_start]to explore modeling data for a research project having a spatial dimension, [cite: 148]
-    * [cite_start]to practice different ways that we can tell a story by visualizing spatial data, and [cite: 149]
-    * [cite_start]to learn ways that we can disseminate and share that data. [cite: 150]
+    The central goals of the workshop are fourfold: 
+    * to learn where we might obtain spatial data relevant to our research interests, or capture data from analog sources through digitization, 
+    * to explore modeling data for a research project having a spatial dimension, 
+    * to practice different ways that we can tell a story by visualizing spatial data, and 
+    * to learn ways that we can disseminate and share that data. 
     
-    [cite_start]In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. [cite: 151] [cite_start]We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research. [cite: 152] [cite_start]We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. [cite: 153] [cite_start]Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis. [cite: 154]
+    In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument.  We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research.  We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset.  Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis. 
     
-    [cite_start]In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps. [cite: 155] [cite_start]We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling. [cite: 156] [cite_start]Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps. [cite: 157] [cite_start]Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc. [cite: 158] [cite_start]A Zotero library of supplementary readings will be provided by the instructors. [cite: 159]
+    In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps.  We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling.  Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps.  Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.  A Zotero library of supplementary readings will be provided by the instructors. 
 
 - title: "Big Data in the Chamber: Corpus-Assisted Studies of Parliamentary Discourse Across Time and Space"
   instructors: 
     - "Anna Kryvenko"
   duration: "both weeks"
   descriptions: |
-    Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues. [cite: 167] The debates are commonly recorded as open-access digital proceedings enriched with metadata. [cite: 168] These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. [cite: 169]
-    This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period. [cite: 170] Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. [cite: 171]
-    This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK. [cite: 172] All data and tools are open access and can be used free of charge. [cite: 173] Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration. [cite: 174] Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure. [cite: 175]
+    Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues.  The debates are commonly recorded as open-access digital proceedings enriched with metadata.  These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. 
+    This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period.  Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. 
+    This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK.  All data and tools are open access and can be used free of charge.  Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration.  Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure. 
 
 - title: "Introduction to Stylometry"
   instructors: 
     - "Jeremi Ochab"
   duration: "both weeks"
   descriptions: |
-    Focusing on interdisciplinary applications of mathematical tools (analysis of complex networks, analysis of time series, random matrix theory) and machine learning, he conducts research on methods of data analysis, neuroscience, as well as stylometry, and quantitative linguistics. [cite: 187]
+    Focusing on interdisciplinary applications of mathematical tools (analysis of complex networks, analysis of time series, random matrix theory) and machine learning, he conducts research on methods of data analysis, neuroscience, as well as stylometry, and quantitative linguistics. 
 
 - title: "Voices as Data: Computational Phonetics and Responsible AI for Cultural Soundscapes"
   instructors: 
@@ -134,25 +134,25 @@
     - "Mariusz Sozański"
   duration: "both weeks"
   descriptions: |
-    While Digital Humanities has extensively explored textual and visual sources, the computational analysis of speech and vocal performance remains underrepresented. [cite: 190] This two-week workshop introduces voice as structured cultural data and critically examines how AI technologies mediate access to vocal heritage. [cite: 191]
-    Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation. [cite: 192] Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk. [cite: 193] Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. [cite: 194]
-    Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub. [cite: 195] This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research. [cite: 196] The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications. [cite: 197] No advanced programming skills are required. [cite: 198]
+    While Digital Humanities has extensively explored textual and visual sources, the computational analysis of speech and vocal performance remains underrepresented.  This two-week workshop introduces voice as structured cultural data and critically examines how AI technologies mediate access to vocal heritage. 
+    Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
+    Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub.  This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research.  The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications.  No advanced programming skills are required. 
 
 - title: "Measuring Manuscripts: Quantitative Approaches to Ancient Language and Script"
   instructors: 
     - "Christian Casey"
   duration: "both weeks"
   descriptions: |
-    This two-week workshop introduces participants to computational philology through hands-on work with manuscripts, text corpora, and digital tools. [cite: 215] The course begins with traditional philological methods—textual criticism, paleography, orthography, and phonology—and then shows how these practices can be structured, modeled, and analyzed using accessible computational techniques. [cite: 216]
-    Participants will learn how to build small digital corpora, align textual variants, generate concordances and word lists, and encode script and linguistic data in structured formats. [cite: 217] The workshop introduces basic quantitative approaches such as frequency analysis, diachronic comparison, simple statistical correlation, and exploratory visualization (including clustering and dimensionality reduction). [cite: 218] Students will also explore how sound data, script data, and textual data can be treated as analyzable datasets. [cite: 219]
-    Throughout the course, each participant develops a small individual project based on one method covered in class (e.g., a concordance, variant alignment, paleographic clustering visualization, diachronic frequency comparison, or phonological analysis). [cite: 220] In the final sessions, students publish their project online using lightweight, sustainable infrastructure. [cite: 221] No prior programming experience is required. By the end of the workshop, participants will have designed, implemented, and publicly shared a small born-digital philological project grounded in structured data and computational analysis. [cite: 222]
+    This two-week workshop introduces participants to computational philology through hands-on work with manuscripts, text corpora, and digital tools.  The course begins with traditional philological methods—textual criticism, paleography, orthography, and phonology—and then shows how these practices can be structured, modeled, and analyzed using accessible computational techniques. 
+    Participants will learn how to build small digital corpora, align textual variants, generate concordances and word lists, and encode script and linguistic data in structured formats.  The workshop introduces basic quantitative approaches such as frequency analysis, diachronic comparison, simple statistical correlation, and exploratory visualization (including clustering and dimensionality reduction).  Students will also explore how sound data, script data, and textual data can be treated as analyzable datasets. 
+    Throughout the course, each participant develops a small individual project based on one method covered in class (e.g., a concordance, variant alignment, paleographic clustering visualization, diachronic frequency comparison, or phonological analysis).  In the final sessions, students publish their project online using lightweight, sustainable infrastructure.  No prior programming experience is required. By the end of the workshop, participants will have designed, implemented, and publicly shared a small born-digital philological project grounded in structured data and computational analysis. 
 
 - title: "Critical AI and Large Language Models for Humanists"
   instructors: 
     - "Anouk Lang"
   duration: "both weeks"
   descriptions: |
-    This course is based on the premise that scholarly expertise from the humanities can, and should, be brought to bear on understanding how generative AI and related algorithmic technologies work, their broader effects on the world, and how we might more thoughtfully and responsibly engage with them. [cite: 233] The course seeks to give enough technical background—from the probabilistic underpinnings of large language models to considerations of training corpora and interface design—for participants to be able to take an informed stance on the pressing social, ethical and environmental concerns emerging around generative AI, and to better understand the potential impact of these technologies on institutions important to the continued functioning of democracy such as the media and education. [cite: 234] It incorporates hands-on activities which offer participants the chance to explore features of the technologies for themselves and follow their own interests. [cite: 235]
+    This course is based on the premise that scholarly expertise from the humanities can, and should, be brought to bear on understanding how generative AI and related algorithmic technologies work, their broader effects on the world, and how we might more thoughtfully and responsibly engage with them.  The course seeks to give enough technical background—from the probabilistic underpinnings of large language models to considerations of training corpora and interface design—for participants to be able to take an informed stance on the pressing social, ethical and environmental concerns emerging around generative AI, and to better understand the potential impact of these technologies on institutions important to the continued functioning of democracy such as the media and education.  It incorporates hands-on activities which offer participants the chance to explore features of the technologies for themselves and follow their own interests. 
     In bringing together developments from one set of disciplinary orientations—the fields of science and technology studies (STS) and critical AI—together with theoretical and methodological approaches from humanities subjects—such as historical perspectives on text generation technologies and insights from literary theory with established explanatory power for grasping the workings of narrative, genre and style—it seeks to model for participants a reflexively critical orientation to ‘AI’ not as the singular, stable entity which is so often the referent of technocapitalist hype, but as a collection of imbricating technologies emerging from specific historical and cultural contexts whose putative dominance we have the ability to critique and to contest. [cite: 236, 237]
 
 - title: "Introduction to Statistics and Modelling for the Humanities"
@@ -160,4 +160,4 @@
     - "Ben Nagy"
   duration: "both weeks"
   descriptions: |
-    This course introduces students with no mathematical background to basic descriptive statistics and modelling. [cite: 245] Over 5 sessions (15hrs instruction, 15hrs practice) it progresses from statistical distributions, univariate description and testing, to basic frequentist modelling and interpretation (regression, etc) and finishes with an introduction to Bayesian inference. [cite: 246] Students need only a very basic familiarity with the Python programming language (this is not a programming course, but the activities are carried out using Python tools). [cite: 247]
+    This course introduces students with no mathematical background to basic descriptive statistics and modelling.  Over 5 sessions (15hrs instruction, 15hrs practice) it progresses from statistical distributions, univariate description and testing, to basic frequentist modelling and interpretation (regression, etc) and finishes with an introduction to Bayesian inference.  Students need only a very basic familiarity with the Python programming language (this is not a programming course, but the activities are carried out using Python tools). 
