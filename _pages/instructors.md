@@ -10,11 +10,12 @@ toc_icon: "calendar"
 {% assign sorted_instructors = site.data.instructors | sort: "name" %}
 
 {% for person in sorted_instructors %}
-### {{ person.name }} ({{ person.affiliation }})
+	{% if person.hidden %} {% continue %} {% endif %}
+	### {{ person.name }} ({{ person.affiliation }})
 
-{{ person.bio }}
+	{{ person.bio }}
 
-{% if person.url != "" %}({{ person.url }}){% endif %}
+	{% if person.url != "" %}More info: [{{person.url}}]({{person.url}}){% endif %}
 
-[Top]({{ page.url | relative_url }})
+	[Top]({{ page.url | relative_url }})
 {% endfor %}

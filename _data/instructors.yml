@@ -1,4 +1,5 @@
 - name: "Anuradha, Isuri"
+  hidden: true
   affiliation: "Lancaster University, UK/ Clarin Trainers' Network"
   bio: |
     Isuri is a final year PhD candidate with expertise in Natural Language Processing and Deep Learning at Lancaster University, where she is affiliated with the UCREL research group, School of Computing and Communications.  She mainly focuses on Holocaust Testimony data and tries to provide digital infrastructure with cutting-edge technologies such as deep learning and large language models. She has been nominated for the Conny Kristel Fellowship for 2024 at the US Holocaust Memorial Museum. 
@@ -20,6 +21,7 @@
   url: ""
 
 - name: "Chaulet, Rudy"
+  hidden: true
   affiliation: "University Marie and Louis Pasteur, France"
   bio: |
     Emeritus professor of Spanish history, founder of the Master Rare Book and Digital
@@ -47,12 +49,14 @@
   url: ""
 
 - name: "Šeļa, Artjoms"
+  hidden: true
   affiliation: "Czech Academy of Sciences, Czech Republic"
   bio: |
     Artjoms Šeļa is an Assistant Professor at the Department of Methodology at IJP PAN and member of the Computational Stylistics Group. He works in computational literary studies, with a primary focus on history and morphology of European verse; his interests include study of historical change in culture, statistical modeling and digital-born manuscripts. Currently involved in the CLS INFRA project as a researcher. He taught multiple workshops and university courses on computational text analysis and digital humanities.
   url: ""
 
 - name: "Tilton, Lauren"
+  hidden: true
   affiliation: "University of Richmond, USA"
   bio: |
     Lauren Tilton is the E. Claiborne Robins Professor of Liberal Arts and Professor of Digital Humanities in the Department of Rhetoric and Communications at the University of Richmond. She also directs the Distant Viewing Lab. Her research focuses on analyzing, developing, and applying digital and computational methods to the study of 20th and 21st century documentary expression and visual culture. Her primary scholarship incorporates theoretical and methodological approaches from American Studies, Media Studies, Public Humanities, and Data Science. Lauren Tilton is committed to interdisciplinary, collaborative, open access scholarship. She earned her PhD in American Studies from Yale University.
@@ -120,6 +124,7 @@
   url: "https://computationalstylistics.github.io/"
 
 - name: "Nagy, Ben"
+  hidden: true
   affiliation: ""
   bio: |
     Ben Nagy holds a BA in Classics/Linguistics with a minor in Pure Mathematics, a Master of Classical Studies and a joint PhD from UAntwerp (Digital Humanities) and the Institute of Polish Language, Polish Academy of Sciences (IJP PAN) (Linguistics). He has published three articles on problems of disputed authorship in Classical Latin verse, as well as several methodological papers and collaborations. His work balances data-science and statistical analysis with traditional literary criticism and philology.
