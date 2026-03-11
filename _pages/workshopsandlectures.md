@@ -9,11 +9,11 @@ toc_icon: "calendar"
 
 ## Workshops
 
-{% assign sorted_workshops = site.data.workshops | sort: "title" -%}
+{% assign sorted_workshops = site.data.workshops | sort: "title" %}
 
-{%- for workshop in sorted_workshops -%}
+{% for workshop in sorted_workshops %}
 ### {{ workshop.title }} 
-**Instructors:** {%- for instructor_name in workshop.instructors -%}
+**Instructors: ** {%- for instructor_name in workshop.instructors -%}
   {%- comment -%} We slugify the name to match the ID on the instructors page {%- endcomment -%}
   <a href="{{ '/instructors/#' | relative_url }}{{ instructor_name | slugify }}">{{ instructor_name }}</a>{%- unless forloop.last -%}, {%- endunless -%}
 {%- endfor -%}<br>
@@ -23,7 +23,7 @@ toc_icon: "calendar"
 
 [Top]({{ page.url | relative_url }})
 
-{%- endfor %}
+{% endfor %}
 
 ## Lectures
 
