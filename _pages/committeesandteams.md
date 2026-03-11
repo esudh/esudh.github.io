@@ -19,6 +19,7 @@ A scientific committee, combining members of the "local team" as well as worksho
 {{ member.name }} ({{ member.affiliation }})<br>
 {%- endfor -%}
 
+
 ### Local organizing team
 Rudy Chaulet<br>
 Benjamin Goldlust<br> 
