@@ -16,9 +16,9 @@ toc_icon: "calendar"
 {%- comment -%} Find the one workshop taught by this person {%- endcomment -%}
 {% assign workshop = site.data.workshops | where_exp: "item", "item.instructors contains person.name" | first %}
 
-{%- if workshop -%}
+{% if workshop %}
 **Workshop:** <a href="{{ '/WorkshopsandLectures/#' | relative_url }}#{{ workshop.title | slugify }}">{{ workshop.title }}</a></p>
-{%- endif -%}
+{% endif %}
 {{ person.bio }}
 
 {% if person.url != "" %}More info: [{{person.url}}]({{person.url}}){% endif %}
