@@ -116,6 +116,8 @@ Anouk Lang is Senior Lecturer in Digital Humanities in the Department of English
 ### Ochab, Jeremi (Jagiellonian University, Poland)
 Jeremi Ochab is an assistant professor at the Institute of Physics, Jagiellonian University, Cracow, Poland, a member of the Computational Stylistics Group (https://computationalstylistics.github.io/), and recently was a researcher at the language infrastructure program CLARIN-PL. He serves on the Scientific Board of Jagiellonian Centre for Digital Humanities. He graduated in theoretical physics and in English studies (specialized in translation). Focusing on interdisciplinary applications of mathematical tools (analysis of complex networks, analysis of time series, random matrix theory) and machine learning, he conducts research on methods of data analysis, neuroscience, as well as stylometry, and quantitative linguistics. He has lectured on Stylometry, Natural Language Processing, Deep Learning, and Data Analysis, among others, and in the meantime, he has translated several popular-science books into Polish.
 
+[Top](https://esudh.github.io/instructors/)
+
 <!--
 ### Nagy, Ben
 Ben Nagy holds a BA in Classics/Linguistics with a minor in Pure Mathematics, a Master of Classical Studies and a joint PhD from UAntwerp (Digital Humanities) and the Institute of Polish Language, Polish Academy of Sciences (IJP PAN) (Linguistics). He has published three articles on problems of disputed authorship in Classical Latin verse, as well as several methodological papers and collaborations. His work balances data-science and statistical analysis with traditional literary criticism and philology.
