@@ -5,7 +5,7 @@
   descriptions: |
     The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
 
-    #### First Week – Reading and Working with Data / Collections in OpenRefine
+    **Week 1 – Reading and Working with Data / Collections in OpenRefine**
     
     Digital data in various formats is at the heart of humanities research.  Often, datasets are large, messy, or structured in unfamiliar ways.  This week, students will learn to inspect, clean, and enrich digital catalogues using OpenRefine, as well as how to enhance datasets with Linked Open Data (LOD) from sources such as the Library of Congress, VIAF, and Wikidata. 
     By the end of this week, students will be proficient in: 
@@ -28,7 +28,7 @@
     * Class 8: From text to map – Geospatial representations in OpenRefine 
     * Class 9: Summary and discussion 
 
-    #### Second Week – Building a Digital Archive: Archives of the Present
+    **Week 2 – Building a Digital Archive: Archives of the Present**
     This week focuses on the creation and structuring of small-scale digital archives, but also introduces the concept of archives of the present—a critical reflection on how contemporary events, data, and digital traces shape our archival practices.  Participants will work with their own or provided collections, conceptualizing metadata structures and curatorial strategies.  The workshop covers best practices in digital archive development, including metadata schema selection, linked data integration, and user-friendly design. 
     The discussion of archives of the present will explore: 
     * How digital documentation of real-time events (social media, news articles, live-streamed content) can be archived 
@@ -82,10 +82,10 @@
   descriptions: |
     DESCRIPTION: In this workshop, you’re going to learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub.  Additionally, you will discover how to manage document structure to normalize large collections and how to render and transform documents automatically using technologies such as CSS, XPath, and XSLT.  We will also explore how the most recent AI tools can help us perform some of these tasks.  This workshop comprises two parts: 
     
-    #### Week 1
+    **Week 1**
     Introduction to XML-based technologies for text encoding** deals with producing digital text documents using XML vocabularies like TEI and HTML, as well as related technologies (ePub, Markdown, etc.).  This is a hands-on, introductory-level course. We will also introduce AI tools like ChatGPT to be used as an aid in document processing. 
     
-    #### Week 2
+    **Week 2**
     XML-TEI document structuring and rendering** deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations.  This is a hands-on, medium-high level course. 
 
 - title: "Distant Reading in R. Analyse the text & visualize the data"
@@ -113,10 +113,10 @@
     * to practice different ways that we can tell a story by visualizing spatial data, and 
     * to learn ways that we can disseminate and share that data. 
     
-    #### Week 1
+    **Week 1**
     In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument.  We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research.  We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset.  Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis. 
     
-    #### Week 2
+    **Week 2**
     In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps.  We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling.  Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps.  Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.  A Zotero library of supplementary readings will be provided by the instructors. 
 
 - title: "Big Data in the Chamber: Corpus-Assisted Studies of Parliamentary Discourse Across Time and Space"
