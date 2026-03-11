@@ -124,9 +124,19 @@
 - title: "Introduction to Stylometry"
   instructors: 
     - "Jeremi Ochab"
-  duration: "both weeks"
+  duration: "one week"
   descriptions: |
-    Focusing on interdisciplinary applications of mathematical tools (analysis of complex networks, analysis of time series, random matrix theory) and machine learning, he conducts research on methods of data analysis, neuroscience, as well as stylometry, and quantitative linguistics. 
+    You may have heard that computational text analysis for digital humanities and cultural analytics is fun. We assure you it’s not: it’s a grim endeavour that can easily go wrong really quickly and requires patience, expertise and making responsible choices. In this two-week course, we offer a comprehensive survival guide to multivariate text analysis with R, where we start with the basics of counting words and spend a lot of time on fundamentals: text representation, calculation of differences and similarities, vector manipulations, unsupervised and supervised methods of text classification. We will guide you through the user-friendly interface of `stylo` software to introduce important concepts and operations. Then, we will show you how to expand on that: understand the workflow, design your own research, discuss real-world studies and run simple replication experiments. By the end of the course, you will be able to pursue research questions like:
+    * Which textual features can betray an author’s or translator’s identity?
+    * What unconscious elements of language reflect the author’s education, gender, religious background, and social or historical conditions?
+    * What elements of style are affected by literary period, genre, and topic?
+    * What are the textual relationships between books or authors? 
+    Week 1: Fundamentals
+    * Day 1. Sorrows of software set-up and introduction to crimes of literary computation
+    * Day 2. Torture of text representations and multidimensional misery
+    * Day 3. Unsupervised and network analysis abyss
+    * Day 4. Classification carnage
+    * Day 5. Agony of application: authorship, genre, gender, poetic meters
 
 - title: "Voices as Data: Computational Phonetics and Responsible AI for Cultural Soundscapes"
   instructors: 
