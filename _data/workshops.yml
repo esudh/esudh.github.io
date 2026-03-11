@@ -173,6 +173,7 @@
     In bringing together developments from one set of disciplinary orientations—the fields of science and technology studies (STS) and critical AI—together with theoretical and methodological approaches from humanities subjects—such as historical perspectives on text generation technologies and insights from literary theory with established explanatory power for grasping the workings of narrative, genre and style—it seeks to model for participants a reflexively critical orientation to ‘AI’ not as the singular, stable entity which is so often the referent of technocapitalist hype, but as a collection of imbricating technologies emerging from specific historical and cultural contexts whose putative dominance we have the ability to critique and to contest.
 
 - title: "Introduction to Statistics and Modelling for the Humanities"
+  hidden: true
   instructors: 
     - "Ben Nagy"
   duration: "both weeks"

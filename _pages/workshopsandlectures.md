@@ -12,6 +12,7 @@ toc_icon: "calendar"
 {% assign sorted_workshops = site.data.workshops | sort: "title" %}
 
 {% for workshop in sorted_workshops %}
+{% if workshop.hidden %} {% continue %} {% endif %}
 ### {{ workshop.title }} 
 **Instructors:** {% for instructor_name in workshop.instructors -%}
   {%- comment -%} We slugify the name to match the ID on the instructors page {%- endcomment -%}
