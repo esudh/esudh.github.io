@@ -19,7 +19,8 @@ toc_icon: "calendar"
   <a href="{{ '/instructors/' | relative_url }}#{{ instructor_name | slugify }}">{{ instructor_name }}</a>{%- unless forloop.last -%}, {%- endunless -%}
 {%- endfor -%}<br>
 **Duration:** {{ workshop.duration }}
-
+**Abstract:**
+<a href="{{ '/workshops/' | append: workshop.id | relative_url }}">View details</a>
 {{ workshop.abstract | markdownify }}
 
 [Top]({{ page.url | relative_url }})
