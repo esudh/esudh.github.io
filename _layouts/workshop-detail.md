@@ -12,3 +12,5 @@ layout: single
 **Duration:** {{ workshop.duration }}
 
 {{ workshop.syllabus | markdownify }}
+
+<a href="{{ '/WorkshopsandLectures/' | relative_url }}">Back to all workshops</a>
