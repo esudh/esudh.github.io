@@ -1,4 +1,4 @@
-- id: digital_archives
+- id: digital-archives
   title: "Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives"
   instructors: 
     - "Yael Netzer"
@@ -68,7 +68,7 @@
     * Machine learning-assisted metadata extraction, including OCR (Transkribus), Google Vision API, and Named Entity Recognition (NER) 
     * Sustainability and long-term digital archive maintenance strategies 
 
-- id: digital_curation
+- id: digital-curation
   title: "Digital Curation and Cultural Heritage"
   instructors: 
     - "Carol Chiodo"
@@ -91,10 +91,10 @@
     In this workshop, you’re going to learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub.  Additionally, you will discover how to manage document structure to normalize large collections and how to render and transform documents automatically using technologies such as CSS, XPath, and XSLT.  We will also explore how the most recent AI tools can help us perform some of these tasks.  
   syllabus: |
     In this workshop, you’re going to learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub.  Additionally, you will discover how to manage document structure to normalize large collections and how to render and transform documents automatically using technologies such as CSS, XPath, and XSLT.  We will also explore how the most recent AI tools can help us perform some of these tasks.  This workshop comprises two parts: 
-    **Week 1**: Introduction to XML-based technologies for text encoding** deals with producing digital text documents using XML vocabularies like TEI and HTML, as well as related technologies (ePub, Markdown, etc.).  This is a hands-on, introductory-level course. We will also introduce AI tools like ChatGPT to be used as an aid in document processing. 
-    **Week 2**: XML-TEI document structuring and rendering** deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations.  This is a hands-on, medium-high level course. 
+    **Week 1: Introduction to XML-based technologies for text encoding** deals with producing digital text documents using XML vocabularies like TEI and HTML, as well as related technologies (ePub, Markdown, etc.).  This is a hands-on, introductory-level course. We will also introduce AI tools like ChatGPT to be used as an aid in document processing. 
+    **Week 2: XML-TEI document structuring and rendering** deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations.  This is a hands-on, medium-high level course. 
 
-- id: distant_reading
+- id: distant-reading
   title: "Distant Reading in R. Analyse the text & visualize the data"
   instructors: 
     - "Simone Rebora"
@@ -109,7 +109,7 @@
     The philosophy of the course is to analyze text and visualize data, and its structure follows this dichotomy.  The objective is to introduce participants to different methodological perspectives and provide practical tools they can use in their own research.  The course offers a compact introduction to natural language processing, computational text analysis, machine learning, graph theory, and geospatial humanities.  By the end of the two-week course, participants will be able to use R and RStudio to apply textual and spatial analysis.  An important component of the course is data visualization, an area in which R excels, offering a comprehensive framework for creating graphs, maps, and trees. 
     The final part of the course will focus on open-source programs like Gephi, GIMP, and Inkscape, which allow users to manipulate and rework vector and graphical files.  The course is suitable for beginners who want to start their digital humanities training with a complete overview of the most common tools used for distant reading. 
 
-- id: humanities_data_mapping
+- id: humanities-data-mapping
   title: "Humanities Data and Mapping Environments"
   instructors: 
     - "David Wrisley"
@@ -134,7 +134,7 @@
     **Week 2**
     In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps.  We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling.  Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps.  Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.  A Zotero library of supplementary readings will be provided by the instructors. 
 
-- id: parliamentary_discourse
+- id: parliamentary-discourse
   title: "Big Data in the Chamber: Corpus-Assisted Studies of Parliamentary Discourse Across Time and Space"
   instructors: 
     - "Anna Kryvenko"
@@ -168,7 +168,7 @@
     * Day 4. Classification carnage
     * Day 5. Agony of application: authorship, genre, gender, poetic meters
 
-- id: voies_as_data
+- id: voices-as-data
   title: "Voices as Data: Computational Phonetics and Responsible AI for Cultural Soundscapes"
   instructors: 
     - "Katarzyna Foremniak"
@@ -183,7 +183,7 @@
     Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
     Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub.  This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research.  The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications.  No advanced programming skills are required. 
 
-- id: measuring_manuscripts
+- id: measuring-manuscripts
   title: "Measuring Manuscripts: Quantitative Approaches to Ancient Language and Script"
   instructors: 
     - "Christian Casey"
@@ -198,7 +198,7 @@
     Participants will learn how to build small digital corpora, align textual variants, generate concordances and word lists, and encode script and linguistic data in structured formats.  The workshop introduces basic quantitative approaches such as frequency analysis, diachronic comparison, simple statistical correlation, and exploratory visualization (including clustering and dimensionality reduction).  Students will also explore how sound data, script data, and textual data can be treated as analyzable datasets. 
     Throughout the course, each participant develops a small individual project based on one method covered in class (e.g., a concordance, variant alignment, paleographic clustering visualization, diachronic frequency comparison, or phonological analysis).  In the final sessions, students publish their project online using lightweight, sustainable infrastructure.  No prior programming experience is required. By the end of the workshop, participants will have designed, implemented, and publicly shared a small born-digital philological project grounded in structured data and computational analysis. 
 
-- id: critical_ai
+- id: critical-ai
   title: "Critical AI and Large Language Models for Humanists"
   instructors: 
     - "Anouk Lang"

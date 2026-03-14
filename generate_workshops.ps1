@@ -48,6 +48,7 @@ foreach ($block in $blocks) {
 layout: workshop-detail
 workshop_id: $id
 title: "$title"
+permalink: "/workshops/$id/"
 published: $publishedValue
 ---
 "@
