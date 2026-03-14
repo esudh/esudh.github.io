@@ -26,6 +26,12 @@ foreach ($block in $blocks) {
         $id = $matches[1].Trim()
         $foundIds += $id
         $filePath = Join-Path $workshopDir "$id.md"
+
+		# Extract the Title (handling potential quotes)
+        $title = "Workshop"
+        if ($block -match 'title:\s*["]?(.+?)["]?\s*(\r?\n|$)') {
+            $title = $matches[1].Trim()
+        }
         
         # DEFAULT: Public (published: true)
         # ONLY if 'hidden: true' is found, we set it to false.
@@ -41,6 +47,7 @@ foreach ($block in $blocks) {
 ---
 layout: workshop-detail
 workshop_id: $id
+title: "$title"
 published: $publishedValue
 ---
 "@
