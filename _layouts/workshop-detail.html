@@ -3,8 +3,6 @@ layout: single
 ---
 
 {% assign workshop = site.data.workshops | where: "id", page.workshop_id | first %}
-
-{% if workshop %}
   <h1>{{ workshop.title }}</h1>
   
   <p>
