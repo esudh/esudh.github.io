@@ -7,10 +7,9 @@ layout: single
     <strong>Instructors:</strong> 
     {% for instructor_name in workshop.instructors -%}
       <a href="{{ '/instructors/' | relative_url }}#{{ instructor_name | slugify }}">{{ instructor_name }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-    {%- endfor -%}
-  </p>
+    {%- endfor %}
 
-  <p><strong>Duration:</strong> {{ workshop.duration }}</p>
+<strong>Duration:</strong> {{ workshop.duration }}</p>
 
   <hr>
 
