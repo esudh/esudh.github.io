@@ -5,7 +5,6 @@
   duration: "both weeks"
   abstract: |
     The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
-
   syllabus: |
     The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
 
@@ -83,8 +82,8 @@
     This workshop will introduce digital curation as it pertains to the cultural heritage sector, understood as the selection, acquisition, preservation, maintenance, and delivery of digital data derived from objects held by libraries and museums.  We will examine the intersection of emerging computational and analytical methods and technologies with museum collections, rare books and archival holdings while weighing the advantages and disadvantages for historical, social, scientific, and cultural research engagement with these materials. 
     The course will provide an overview of best practices for the management and stewardship of these born-digital and digitized holdings in libraries and museums and we will also explore recent applications of digital curation to cultural heritage, including generative AI, geospatial analysis, audiovisual curation, collections as data, and more.  The workshop is suitable for those new to the field, such as graduate students and early career scholars, as well as experienced practitioners interested in gaining new perspectives on computational curation in cultural heritage. 
 
-- id: XML
-  title: "Digital XML-TEI Content Creation and Processing Aided by AI Tools"-TEI
+- id: xml-tei
+  title: "Digital XML-TEI Content Creation and Processing Aided by AI Tools"
   instructors: 
     - "Alejandro Bia"
   duration: "both weeks"

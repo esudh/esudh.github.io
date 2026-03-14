@@ -1,5 +1,5 @@
 ---
 layout: workshop-detail
-workshop_id: XML
+workshop_id: xml-tei
 published: true
 ---
