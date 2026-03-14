@@ -35,6 +35,11 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
+collections:
+  workshops:
+    output: true
+    permalink: /workshops/:name/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -117,6 +122,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _workshops
+  - scope:
+      path: ""
+      type: workshops
+    values:
+      layout: workshop-detail
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
