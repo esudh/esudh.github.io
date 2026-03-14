@@ -8,6 +8,7 @@ layout: single
     {% for instructor_name in workshop.instructors -%}
       <a href="{{ '/instructors/' | relative_url }}#{{ instructor_name | slugify }}">{{ instructor_name }}</a>{%- unless forloop.last -%}, {%- endunless -%}
     {%- endfor %}
+	<br>
 
 <strong>Duration:</strong> {{ workshop.duration }}</p>
 
