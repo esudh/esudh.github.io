@@ -20,7 +20,7 @@ toc_icon: "calendar"
 {%- endfor -%}<br>
 **Duration:** {{ workshop.duration }}
 
-{{ workshop.descriptions | markdownify }}
+{{ workshop.abstract | markdownify }}
 
 [Top]({{ page.url | relative_url }})
 
