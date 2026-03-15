@@ -18,9 +18,10 @@ toc_icon: "calendar"
   {%- comment -%} We slugify the name to match the ID on the instructors page {%- endcomment -%}
   <a href="{{ '/instructors/' | relative_url }}#{{ instructor_name | slugify }}">{{ instructor_name }}</a>{%- unless forloop.last -%}, {%- endunless -%}
 {%- endfor -%}<br>
-**Duration:** {{ workshop.duration }}
-
-{{ workshop.descriptions | markdownify }}
+**Duration:** {{ workshop.duration }}<br>
+**Syllabus:** [View details]({{ '/workshops/' | append: workshop.id | relative_url }})<br>
+**Abstract:**
+{{ workshop.abstract | markdownify }}
 
 [Top]({{ page.url | relative_url }})
 
