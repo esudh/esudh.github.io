@@ -294,55 +294,69 @@
     **Concepts** 
     Oral history, spoken-text corpora, metadata needs, consent  and privacy. 
     
-    **Hands-on **
+    **Hands-on**
     Inventory a sample dataset, define corpus schema (files,  speakers, metadata fields).
     * Class 2: Audio Preprocessing  and Segmentation
     
     **Concepts** 
     File formats, chunking, time-coded segments. 
     
-    **Hands-on **
+    **Hands-on**
     Split long recordings into interview segments and index  them with timestamps.
     * Class 3: Automatic Speech  Recognition and Alignment
+    
     **Concepts** 
     ASR, confidence scores, error patterns. 
-    **Hands-on **
+    
+    **Hands-on**
     Run open-source ASR on sample data, generate aligned  transcripts, inspect errors. AI-enhanced versions of  historical audio of poor quality.
     * Class 4: Linguistic Enrichment  and Prosody
+    
     **Concepts** 
     POS, named entities, basic prosody (pauses, stress,  turn-taking). 
-    **Hands-on **
+    
+    **Hands-on**
     Enrich transcriptions with linguistic tags and simple  prosodic markers.
     * Class 5: Structuring,  
     Versioning, and the Researcher’s  Toolbox
+    
     **Concepts** 
     Version control, open source, cloud native and portability  approach. 
-    **Hands-on **
+    
+    **Hands-on**
     Create code and data repositories with git, using containers  for portable workloads.
 
     ### Week II: LLMs and Cultural Analytics
     * Class 6: Introduction to  
     LLM-Assisted Analysis
+
     **Concepts** 
     Prompt design, hallucination, bias, interpretability. 
-    **Hands-on **
+
+    **Hands-on**
     Safe prompt patterns for summarization and topic  extraction.
     * Class 7: AI-ready content 
+
     **Concepts** 
     Standards for AI-friendly textual and non-textual content. 
-    **Hands-on **
+
+    **Hands-on**
     Adapt content samples to AI models’ needs.
     * Class 8: Critical AI and Ethics 
+
     **Concepts** 
     Ethical audits: Bias in training data, models-choice  implications, speaker identity, privacy and licensing. 
-    **Hands-on **
+
+    **Hands-on**
     Walkthrough of a critical-AI checklist for an audio-LLM  pipeline.
     * Class 9: Linking  
     Audio-Text-Themes into  
     Dashboards
+
     **Concepts** 
     Time and speaker-aligned views, simple data-charting.
-    **Hands-on **
+
+    **Hands-on**
     Use open-source modules and notebooks to load labeled  segments and generate charts.
     * Class 10: Collaborative Output  and Documentation
     Participants finalize mini-projects, contribute to the shared  GitHub repository, and complete a responsible-AI  assessment. Final presentations and collective reflection.
