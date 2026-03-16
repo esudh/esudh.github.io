@@ -274,14 +274,14 @@
     ## Datasets and Materials 
     The workshop uses exclusively open or research-friendly resources, including: 
 
-    1) Mozilla Common Voice (CC0): multilingual speech recordings with demographic  metadata, used for phonetic analysis and AI evaluation. 
-    2) Selected open oral history recordings from national or institutional collections, used to  explore historical and degraded audio. 
-    3) Pre-curated dataset subsets prepared in advance to ensure feasibility within workshop time.
+    1. Mozilla Common Voice (CC0): multilingual speech recordings with demographic  metadata, used for phonetic analysis and AI evaluation. 
+    2. Selected open oral history recordings from national or institutional collections, used to  explore historical and degraded audio. 
+    3. Pre-curated dataset subsets prepared in advance to ensure feasibility within workshop time.
 
     Materials provided include: 
 
-    1) A public GitHub repository containing notebooks, scripts, documentation, and templates.
-    2) Structured templates for metadata, evaluation reports, and responsible-AI documentation. 
+    1. A public GitHub repository containing notebooks, scripts, documentation, and templates.
+    2. Structured templates for metadata, evaluation reports, and responsible-AI documentation. 
 
     ## Technical Requirements
     Participants will need a personal laptop (Windows, macOS, or Linux) and basic familiarity with  file systems. No advanced programming skills are required.
@@ -290,13 +290,17 @@
     ## Schedule
     ### Week I: Speech as Cultural Data
     * Class 1: Introduction and Audio  Corpus Design
+    
     **Concepts** 
     Oral history, spoken-text corpora, metadata needs, consent  and privacy. 
+    
     **Hands-on **
     Inventory a sample dataset, define corpus schema (files,  speakers, metadata fields).
     * Class 2: Audio Preprocessing  and Segmentation
+    
     **Concepts** 
     File formats, chunking, time-coded segments. 
+    
     **Hands-on **
     Split long recordings into interview segments and index  them with timestamps.
     * Class 3: Automatic Speech  Recognition and Alignment
