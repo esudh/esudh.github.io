@@ -4,11 +4,13 @@
     - "Yael Netzer"
   duration: "both weeks"
   abstract: |
-    The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
+    This two-week intensive workshop provides participants with the practical and critical skills necessary to navigate the lifecycle of digital knowledge representation. The first week focuses on "reading" and manipulating data, utilizing OpenRefine to clean, enrich, and reconcile messy datasets with Linked Open Data (LOD) sources like Wikidata and GeoNames. In the second week, the focus shifts to the creation of "Archives of the Present," where participants move from theory to implementation. Using tools such as Omeka-S, students will conceptualize metadata structures and build small-scale digital archives while grappling with the ethical and technical challenges of preserving contemporary, ephemeral digital traces. By blending hands-on technical training—including web scraping, API integration, and machine learning-assisted metadata extraction—with archival theory, this workshop empowers researchers to transform raw data into structured, sustainable, and accessible digital resources. No prior technical knowledge is required. 
   syllabus: |
-    The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
+    ## Abstract
+    
+    This two-week intensive workshop provides participants with the practical and critical skills necessary to navigate the lifecycle of digital knowledge representation. The first week focuses on "reading" and manipulating data, utilizing OpenRefine to clean, enrich, and reconcile messy datasets with Linked Open Data (LOD) sources like Wikidata and GeoNames. In the second week, the focus shifts to the creation of "Archives of the Present," where participants move from theory to implementation. Using tools such as Omeka-S, students will conceptualize metadata structures and build small-scale digital archives while grappling with the ethical and technical challenges of preserving contemporary, ephemeral digital traces. By blending hands-on technical training—including web scraping, API integration, and machine learning-assisted metadata extraction—with archival theory, this workshop empowers researchers to transform raw data into structured, sustainable, and accessible digital resources. No prior technical knowledge is required. 
 
-    **Week 1 – Reading and Working with Data / Collections in OpenRefine**
+    ### Week 1 – Reading and Working with Data / Collections in OpenRefine
     
     Digital data in various formats is at the heart of humanities research.  Often, datasets are large, messy, or structured in unfamiliar ways.  This week, students will learn to inspect, clean, and enrich digital catalogues using OpenRefine, as well as how to enhance datasets with Linked Open Data (LOD) from sources such as the Library of Congress, VIAF, and Wikidata. 
     By the end of this week, students will be proficient in: 
@@ -31,7 +33,7 @@
     * Class 8: From text to map – Geospatial representations in OpenRefine 
     * Class 9: Summary and discussion 
 
-    **Week 2 – Building a Digital Archive: Archives of the Present**
+    ### Week 2 – Building a Digital Archive: Archives of the Present
     This week focuses on the creation and structuring of small-scale digital archives, but also introduces the concept of archives of the present—a critical reflection on how contemporary events, data, and digital traces shape our archival practices.  Participants will work with their own or provided collections, conceptualizing metadata structures and curatorial strategies.  The workshop covers best practices in digital archive development, including metadata schema selection, linked data integration, and user-friendly design. 
     The discussion of archives of the present will explore: 
     * How digital documentation of real-time events (social media, news articles, live-streamed content) can be archived 
