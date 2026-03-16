@@ -4,11 +4,13 @@
     - "Yael Netzer"
   duration: "both weeks"
   abstract: |
-    The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
+    This two-week intensive workshop provides participants with the practical and critical skills necessary to navigate the lifecycle of digital knowledge representation. The first week focuses on "reading" and manipulating data, utilizing OpenRefine to clean, enrich, and reconcile messy datasets with Linked Open Data (LOD) sources like Wikidata and GeoNames. In the second week, the focus shifts to the creation of "Archives of the Present," where participants move from theory to implementation. Using tools such as Omeka-S, students will conceptualize metadata structures and build small-scale digital archives while grappling with the ethical and technical challenges of preserving contemporary, ephemeral digital traces. By blending hands-on technical training—including web scraping, API integration, and machine learning-assisted metadata extraction—with archival theory, this workshop empowers researchers to transform raw data into structured, sustainable, and accessible digital resources. No prior technical knowledge is required. 
   syllabus: |
-    The purpose of this two-week workshop is to develop practical and critical skills toward the representation of knowledge in digital archives and to build a small-scale digital archive.  This workshop blends theory and hands-on activities, enabling participants to engage with digital catalogues, metadata structures, and archival curation tools.  Additional Open Lab Session: An optional free exploration day will be available for participants to receive one-on-one guidance on their projects and tools.  No prior knowledge is required for this workshop. Participants are encouraged to bring their own datasets but will be provided with starter collections if needed. 
+    ## Abstract
+    
+    This two-week intensive workshop provides participants with the practical and critical skills necessary to navigate the lifecycle of digital knowledge representation. The first week focuses on "reading" and manipulating data, utilizing OpenRefine to clean, enrich, and reconcile messy datasets with Linked Open Data (LOD) sources like Wikidata and GeoNames. In the second week, the focus shifts to the creation of "Archives of the Present," where participants move from theory to implementation. Using tools such as Omeka-S, students will conceptualize metadata structures and build small-scale digital archives while grappling with the ethical and technical challenges of preserving contemporary, ephemeral digital traces. By blending hands-on technical training—including web scraping, API integration, and machine learning-assisted metadata extraction—with archival theory, this workshop empowers researchers to transform raw data into structured, sustainable, and accessible digital resources. No prior technical knowledge is required. 
 
-    **Week 1 – Reading and Working with Data / Collections in OpenRefine**
+    ### Week 1 – Reading and Working with Data / Collections in OpenRefine
     
     Digital data in various formats is at the heart of humanities research.  Often, datasets are large, messy, or structured in unfamiliar ways.  This week, students will learn to inspect, clean, and enrich digital catalogues using OpenRefine, as well as how to enhance datasets with Linked Open Data (LOD) from sources such as the Library of Congress, VIAF, and Wikidata. 
     By the end of this week, students will be proficient in: 
@@ -31,7 +33,7 @@
     * Class 8: From text to map – Geospatial representations in OpenRefine 
     * Class 9: Summary and discussion 
 
-    **Week 2 – Building a Digital Archive: Archives of the Present**
+    ### Week 2 – Building a Digital Archive: Archives of the Present
     This week focuses on the creation and structuring of small-scale digital archives, but also introduces the concept of archives of the present—a critical reflection on how contemporary events, data, and digital traces shape our archival practices.  Participants will work with their own or provided collections, conceptualizing metadata structures and curatorial strategies.  The workshop covers best practices in digital archive development, including metadata schema selection, linked data integration, and user-friendly design. 
     The discussion of archives of the present will explore: 
     * How digital documentation of real-time events (social media, news articles, live-streamed content) can be archived 
@@ -128,10 +130,10 @@
     * to practice different ways that we can tell a story by visualizing spatial data, and 
     * to learn ways that we can disseminate and share that data. 
     
-    **Week 1**
+    ## Week 1
     In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument.  We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research.  We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset.  Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis. 
     
-    **Week 2**
+    ## Week 2
     In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps.  We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling.  Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps.  Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.  A Zotero library of supplementary readings will be provided by the instructors. 
 
 - id: parliamentary-discourse
@@ -144,9 +146,86 @@
     This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period.  Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. 
     This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK.  All data and tools are open access and can be used free of charge.  Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration.  Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure.
   syllabus: |
-    Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues.  The debates are commonly recorded as open-access digital proceedings enriched with metadata.  These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. 
-    This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period.  Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. 
-    This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK.  All data and tools are open access and can be used free of charge.  Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration.  Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure. 
+    # Abstract 
+    Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by  deliberating critical societal issues. The debates are commonly recorded as open-access digital  proceedings enriched with metadata. These records are valuable for researchers exploring  political, societal, historical, cultural or communicational dynamics in fields such as  linguistics, discourse analysis, political science, history, sociology, gender studies as well as  for various teaching contexts.  
+    This workshop takes advantage of the interoperability and comparability of the  ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional  parliaments across Europe at least between 2015 and 2022, although several ParlaMint  corpora include data spanning a much longer period. Available in the original languages and  machine-translated to English, the corpora also feature metadata on speakers, parties and  speeches, including names, gender, age, roles, party affiliation, power positions, political  leanings, speech dates, topics and sentiment. This hands-on project-oriented tutorial will  provide skills and methodological training to explore ParlaMint version 5.0, which can be  obtained by downloading the files or by accessing the preloaded data via online platforms –  primarily noSketch Engine and TEITOK. All data and tools are open access and can be used  free of charge.  
+    Designed for researchers in Social Sciences and Humanities with interest in  parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop  will train participants to leverage extensive content, annotations and metadata via user friendly concordancers, facilitating research on individual national parliaments, enabling  transnational comparisons, and fostering cross-disciplinary collaboration. Participants with  also discover CLARIN – Common Language Resources and Technology Infrastructure.  
+    # Learning outcomes  
+    Participants will discover CLARIN’s language resources and gain skills for querying  ParlaMint corpora, including simple and advanced CQL queries. They will learn to analyse  extracted results alongside speaker and text metadata, including sentiment and topic analysis  under the ParlaCAP project. Additionally, they will learn to frame and interpret the results for  various Digital Humanities and Social Sciences research questions, such as comparing  speeches and attitudes of ruling and opposition parties or exploring parliamentary protocol  variations. The techniques taught are transferable to other corpora and concordancers. The  showcases will use ParlaMint-GB containing proceedings from the UK Parliament, and the  machine-translated version of all other ParlaMint corpora into English (Parlamint\_xx\_en) to  ensure all participants can follow queries and discuss results. However, for the hands-on  activities and project work, the participants will be encouraged to use the ParlaMint corpora in  other languages.  
+    # Datasets  
+    ParlaMint version 5.0 can be downloaded from the CLARIN.SI repository as a TEI-encoded  corpus, a linguistically marked-up corpus in several formats and a version machine-translated  into English, all with added metadata files. For on-line analysis, different versions of the  ParlaMint corpora are preloaded to various tooks, including noSketch Engine (up to v. 5.0)  and TEITOK (v. 4.1).  
+    # Teaching materials 
+    Digital textbook    
+    Pahor de Maiti Tekavčič, K., & Kryvenko, A. (2026). From the dispatch box: Unlocking the  potential of ParlaMint through noSketch Engine and TEITOK (Ed. 1.0) \[E book\].  Inštitut za novejšo zgodovino / Institute of Contemporary History.  
+       
+    Other ParlaMint tutorials including    
+    Parliamentary Speech Analysis with ParlaMint  
+    CLARIN’s tutorials    
+    Introduction to CLARIN    
+    Introduction to Language Data: Standards and Repositories 
+    Further reading (optional): selected chapters / sections from academic publications, including  below, will be provided by the instructor:  
+    Gillings, M., Mautner, G., & Baker, P. (2023). Corpus-Assisted Discourse Studies.  Cambridge: Cambridge University Press.  
+    Korhonen, M., Kotze, H. & Tyrkkö, J. (2023). Exploring Language and Society with Big  Data: Parliamentary discourse across time and space. John Benjamins Publishing  Company.  
+    Brezina, V. (2018). Statistics in Corpus Linguistics: A Practical Guide. Cambridge:  Cambridge University Press.  
+    # Technical requirements  
+    Organisers should provide an LCD projector with a HDMI output, WIFI and some  power extension cords for the participants.  
+    Participants should bring their own laptops. Participants are also advised to create a  free personal account at https://www.clarin.si/skelog prior to the beginning of the workshop.  
+    
+    # Brief course timeline  
+    
+    ## Week 1 (15 hours \+ an open teaser session)  
+    Day 1  
+    * Introduction to CLARIN’s language data tools and resources    
+    * Introduction to the ParlaMint corpora and related projects    
+    * “Adopting” a ParlaMint corpus (corpora) and planning project work  Daily reflection
+    
+    Day 2  
+    * Studying parliamentary discourse via corpora. How verbatim are transcripts?   
+    * Assessing the ParlaMint datasets via user-friendly tools    
+    * Daily reflection  
+    
+    Day 3  
+    * ParlaMint provenance information, structural markup, linguistic annotation and metadata    
+    * Delimiting searches and contextualising results    
+    * Daily reflection 
+    
+    Day 4  
+    * An overview of corpus linguistic techniques for studying parliamentary discourse  Extracting and interpreting frequency    
+    * Daily reflection  
+    
+    Day 5  
+    * Combining distant and close reading for studying parliamentary discourse  
+    * Concordance analysis    
+    * Daily reflection  
+    
+    ## Week 2 (15 hours \+ an open teaser session)  
+    Day 1  
+    * Understanding statistics in ParlaMint    
+    * Collocation analysis    
+    * Daily reflection  
+    
+    Day 2  
+    * Creating and comparing subcorpora    
+    * Keyword analysis    
+    * Daily reflection  
+    
+    Day 3  
+    * Examining sentiment across parliamentary parties over time    
+    * Using different techniques at different stages of analysis (1)    
+    * Daily reflection  
+    
+    Day 4  
+    * Examining the gendered dimension of topic distribution across European parliaments   
+    * Using different techniques at different stages of analysis (2)    
+    * Daily reflection  
+    
+    Day 5  
+    * Individual project presentations    
+    * Critical appreciation of peer projects    
+    * Course feedback  
+    
+    # Acknowledgement    
+    The creation of this course was supported by Horizon Europe via the OSCARS Open Science  cascading grant project Comparing agenda settings across parliaments via the ParlaMint  dataset (ParlaCAP) (2025 – 2026), and the Slovenian Research Agency via the research  programme P6-0436 Digital Humanities: resources, tools and methods (2022-2027) and the  research project J6-60112 Parliament in the Age of Europeanisation: the Czech Republic and  Slovenia (ParlAgE) (2025-2028).  
 
 - id: stylometry
   title: "Introduction to Stylometry"  
@@ -179,9 +258,88 @@
     Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
     Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub.  This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research.  The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications.  No advanced programming skills are required. 
   syllabus: |
+    ## Abstract
     While Digital Humanities has extensively explored textual and visual sources, the computational analysis of speech and vocal performance remains underrepresented.  This two-week workshop introduces voice as structured cultural data and critically examines how AI technologies mediate access to vocal heritage. 
     Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
     Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub.  This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research.  The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications.  No advanced programming skills are required. 
+
+    ## Learning Outcomes 
+    By the end of the workshop, participants will be able to: 
+    * Design, document, and curate a small speech corpus using open data and FAIR principles. 
+    * Extract and interpret acoustic and prosodic features from speech recordings. 
+    * Apply basic statistical methods to analyze phonetic and sociolinguistic variation. 
+    * Evaluate AI-based speech technologies using quantitative and qualitative metrics. 
+    * Identify and document bias, uncertainty, and epistemic risk in speech AI systems. 
+    * Contribute to a reproducible, open research workflow using version control. 
+    * Critically reflect on ethical, legal, and cultural issues surrounding voice as data. 
+
+    ## Datasets and Materials 
+    The workshop uses exclusively open or research-friendly resources, including: 
+
+    1. Mozilla Common Voice (CC0): multilingual speech recordings with demographic  metadata, used for phonetic analysis and AI evaluation. 
+    2. Selected open oral history recordings from national or institutional collections, used to  explore historical and degraded audio. 
+    3. Pre-curated dataset subsets prepared in advance to ensure feasibility within workshop time.
+
+    Materials provided include: 
+
+    1. A public GitHub repository containing notebooks, scripts, documentation, and templates.
+    2. Structured templates for metadata, evaluation reports, and responsible-AI documentation. 
+
+    ## Technical Requirements
+    Participants will need a personal laptop (Windows, macOS, or Linux) and basic familiarity with  file systems. No advanced programming skills are required.
+
+
+    ## Schedule
+    ### Week I: Speech as Cultural Data
+    * Class 1: Introduction and Audio  Corpus Design
+    
+        **Concepts** Oral history, spoken-text corpora, metadata needs, consent  and privacy. 
+        
+        **Hands-on** Inventory a sample dataset, define corpus schema (files,  speakers, metadata fields).
+    * Class 2: Audio Preprocessing  and Segmentation
+    
+        **Concepts** File formats, chunking, time-coded segments. 
+        
+        **Hands-on** Split long recordings into interview segments and index  them with timestamps.
+    * Class 3: Automatic Speech  Recognition and Alignment
+    
+        **Concepts** ASR, confidence scores, error patterns. 
+        
+        **Hands-on** Run open-source ASR on sample data, generate aligned  transcripts, inspect errors. AI-enhanced versions of  historical audio of poor quality.
+    * Class 4: Linguistic Enrichment  and Prosody
+    
+        **Concepts** POS, named entities, basic prosody (pauses, stress,  turn-taking). 
+        
+        **Hands-on** Enrich transcriptions with linguistic tags and simple  prosodic markers.
+    * Class 5: Structuring, Versioning, and the Researcher’s  Toolbox
+    
+        **Concepts** Version control, open source, cloud native and portability  approach. 
+        
+        **Hands-on** Create code and data repositories with git, using containers  for portable workloads.
+
+    ### Week II: LLMs and Cultural Analytics
+    * Class 6: Introduction to LLM-Assisted Analysis
+
+        **Concepts** Prompt design, hallucination, bias, interpretability. 
+
+        **Hands-on** Safe prompt patterns for summarization and topic  extraction.
+    * Class 7: AI-ready content 
+
+        **Concepts** Standards for AI-friendly textual and non-textual content. 
+
+        **Hands-on** Adapt content samples to AI models’ needs.
+    * Class 8: Critical AI and Ethics 
+
+        **Concepts** Ethical audits: Bias in training data, models-choice  implications, speaker identity, privacy and licensing. 
+
+        **Hands-on** Walkthrough of a critical-AI checklist for an audio-LLM  pipeline.
+    * Class 9: Linking Audio-Text-Themes into  Dashboards
+
+        **Concepts** Time and speaker-aligned views, simple data-charting.
+
+        **Hands-on** Use open-source modules and notebooks to load labeled  segments and generate charts.
+    * Class 10: Collaborative Output  and Documentation
+        Participants finalize mini-projects, contribute to the shared  GitHub repository, and complete a responsible-AI  assessment. Final presentations and collective reflection.
 
 - id: measuring-manuscripts
   title: "Measuring Manuscripts: Quantitative Approaches to Ancient Language and Script"
@@ -194,9 +352,120 @@
     Throughout the course, each participant develops a small individual project based on one method covered in class (e.g., a concordance, variant alignment, paleographic clustering visualization, diachronic frequency comparison, or phonological analysis).  In the final sessions, students publish their project online using lightweight, sustainable infrastructure.  No prior programming experience is required. By the end of the workshop, participants will have designed, implemented, and publicly shared a small born-digital philological project grounded in structured data and computational analysis. 
 
   syllabus: |
-    This two-week workshop introduces participants to computational philology through hands-on work with manuscripts, text corpora, and digital tools.  The course begins with traditional philological methods—textual criticism, paleography, orthography, and phonology—and then shows how these practices can be structured, modeled, and analyzed using accessible computational techniques. 
-    Participants will learn how to build small digital corpora, align textual variants, generate concordances and word lists, and encode script and linguistic data in structured formats.  The workshop introduces basic quantitative approaches such as frequency analysis, diachronic comparison, simple statistical correlation, and exploratory visualization (including clustering and dimensionality reduction).  Students will also explore how sound data, script data, and textual data can be treated as analyzable datasets. 
-    Throughout the course, each participant develops a small individual project based on one method covered in class (e.g., a concordance, variant alignment, paleographic clustering visualization, diachronic frequency comparison, or phonological analysis).  In the final sessions, students publish their project online using lightweight, sustainable infrastructure.  No prior programming experience is required. By the end of the workshop, participants will have designed, implemented, and publicly shared a small born-digital philological project grounded in structured data and computational analysis. 
+    ## Overview
+    ### Summary
+    This course introduces participants to computational philology through the study of manuscripts, text corpora, online databases, available tools, and custom-built software. It begins with traditional philological methods and gradually introduces workflows, quantitative analysis, and online publication of digital research.
+    ### Intended Outcomes
+    Upon completion of the course, participants will be able to…
+    * articulate traditional philological methods and explain how digital approaches extend and formalize them
+    * structure manuscript and linguistic data in digital form
+    * build small digital corpora and generate concordances, word lists, and aligned variant texts
+    * perform basic quantitative analyses of language and script (frequency distributions, correlation, diachronic comparison, simple
+    information-theoretic measures)
+    * apply exploratory visualization techniques (e.g., clustering, dimensionality reduction) to textual and paleographic data
+    * formulate computationally tractable research questions and design small experiments to test philological hypotheses
+    * critically interpret computational results and understand the limits of quantitative methods in historical research
+    * design and publish a small born-digital philological project online using sustainable, lightweight infrastructure
+
+    ### Prerequisites
+    This course will teach all required digital techniques, including hands-on introduction to widely used digital tools and basic programming concepts. No prior programming experience is required. All programming activities will be based on structured templates and guided examples.
+    When appropriate, we will also critically discuss and demonstrate the use of AI-assisted coding tools. Rather than treating them as black boxes, students will learn how such tools can support structured experimentation while retaining full intellectual control over methods and results.
+    Students who arrive with programming experience will be offered additional or augmented in-class activities.
+
+    ### Datasets and Materials
+    All datasets used in this project are publicly available online or will be provided to the students by the instructor.
+
+    ### Technical Requirements
+    Students must come equipped with a laptop for writing code. Tablets with physical keyboards may be used if it is possible to write code efficiently with them, but laptops should be preferred.
+
+    ### Final Project
+    Students will produce one final project throughout their time in the course, which they will publish online at the end of the two-week classwork period. Some possible projects include (but are not limited to):
+    * Concordance
+    * Variant alignment
+    * Morphological tagging demonstration
+    * Paleographic clustering visualization
+    * Diachronic frequency comparison
+
+    ## Course Schedule
+
+    ### Week 1: Philological Foundations
+    Day 1: Traditional Philology as Method
+    * What is philology and how do (did) we do it?
+    * Textual criticism and the material transmission of texts
+    * Textual analysis at the level of words, variants, and meaning
+    * Palaeography and scribal practice
+    * Orthography and variation
+    * Phonology as reconstruction and interpretation
+    * The birth of linguistics and The Schism
+    * Project check-in: identifying possible areas for final project focus
+    
+    Day 2: Textual Criticism
+    * Philosophical underpinnings of textual reconstruction
+    * Alternative views (e.g. synoptic text editions and non-stemmatic models) * Variant alignment as structured comparison
+    * Bioinformatics approaches to textual transmission
+    * Visualizing cladograms and transmission trees
+    * Hands-on exploration of a small aligned text dataset
+    * Project check-in: how variant alignment could become a small digital project
+    
+    Day 3: Text as Data
+    * What is a word?
+    * Lemmatizers and parsers (conceptual overview and demonstration) * Generating concordances and word lists automatically
+    * Linking lexical data across corpora
+    * Building small digital corpora from structured text
+    * Hands-on creation of a miniature text-analysis pipeline
+    * Project check-in: drafting the data component of each student’s final project
+    
+    Day 4: Script as Data
+    * Graph vs. grapheme
+    * Digitizing manuscripts and defining annotation units
+    * Sign segmentation and overlap problems
+    * Solutions to common digitization challenges
+    * HTR overview: what exists and what remains difficult
+    * Demonstration of paleographic clustering and sign comparison * Project check-in: identifying possible script-based project directions
+    
+    Day 5: Sound as Data
+    * Phone vs. phoneme
+    * Working with audio data and phonetic features
+    * Working with online phonetic resources and structured datasets * Analyzing phonetic features computationally
+    * Connecting modern phonetic data to ancient languages
+    * Discussion: how sound can be modeled and measured historically * Project check-in: short informal proposal discussion
+    
+    ### Week 2: Modeling, Analyzing, Publishing
+    Day 6: Measuring Script and Language
+    * Information theory foundations in accessible form
+    * Frequency distributions and statistical analysis
+    * Measuring complexity and variation
+    * Finding meaningful relationships vs. spurious patterns
+    * Guided exercise applying basic quantitative analysis
+    * Project check-in: refining chosen method and dataset
+    
+    Day 7: Visualization
+    * Making philological analysis legible and interpretable
+    * Dimensionality reduction (conceptual overview)
+    * Choosing the right approach for different questions
+    * Using visualization tools
+    * Interpreting clusters and outliers critically
+    * Project check-in: designing visual component of final project
+    
+    Day 8: Research Questions
+    * Asking tractable questions in computational philology
+    * Formulating reasonable, testable hypotheses
+    * Designing experiments to test philological questions
+    * Understanding limitations and methodological risks
+    * Structuring a clear research narrative for a digital project
+    * Project check-in: outline and technical checklist
+    
+    Day 9: Sustainability, Accessibility, Infrastructure
+    * Designing born-digital publications for philological work * Making materials accessible online (format, structure, documentation) * Why digital projects die and how to avoid it
+    * Sustainability in digital publishing (lightweight infrastructure, versioning, archiving)
+    * Introduction to GitHub Pages template for final project * Project check-in: building and preparing for publication
+    
+    Day 10: Project Workshop & Publication
+    * Finalize final project
+    * Publish online using GitHub Pages
+    * Present results to the class
+    * Analyze and critique together
+    * Discussion of next steps: expanding toy models into research projects 
 
 - id: critical-ai
   title: "Critical AI and Large Language Models for Humanists"
@@ -207,9 +476,20 @@
     This course is based on the premise that scholarly expertise from the humanities can, and should, be brought to bear on understanding how generative AI and related algorithmic technologies work, their broader effects on the world, and how we might more thoughtfully and responsibly engage with them.  The course seeks to give enough technical background—from the probabilistic underpinnings of large language models to considerations of training corpora and interface design—for participants to be able to take an informed stance on the pressing social, ethical and environmental concerns emerging around generative AI, and to better understand the potential impact of these technologies on institutions important to the continued functioning of democracy such as the media and education.  It incorporates hands-on activities which offer participants the chance to explore features of the technologies for themselves and follow their own interests. 
     In bringing together developments from one set of disciplinary orientations—the fields of science and technology studies (STS) and critical AI—together with theoretical and methodological approaches from humanities subjects—such as historical perspectives on text generation technologies and insights from literary theory with established explanatory power for grasping the workings of narrative, genre and style—it seeks to model for participants a reflexively critical orientation to ‘AI’ not as the singular, stable entity which is so often the referent of technocapitalist hype, but as a collection of imbricating technologies emerging from specific historical and cultural contexts whose putative dominance we have the ability to critique and to contest.
   syllabus: |
-    This course is based on the premise that scholarly expertise from the humanities can, and should, be brought to bear on understanding how generative AI and related algorithmic technologies work, their broader effects on the world, and how we might more thoughtfully and responsibly engage with them.  The course seeks to give enough technical background—from the probabilistic underpinnings of large language models to considerations of training corpora and interface design—for participants to be able to take an informed stance on the pressing social, ethical and environmental concerns emerging around generative AI, and to better understand the potential impact of these technologies on institutions important to the continued functioning of democracy such as the media and education.  It incorporates hands-on activities which offer participants the chance to explore features of the technologies for themselves and follow their own interests. 
-    In bringing together developments from one set of disciplinary orientations—the fields of science and technology studies (STS) and critical AI—together with theoretical and methodological approaches from humanities subjects—such as historical perspectives on text generation technologies and insights from literary theory with established explanatory power for grasping the workings of narrative, genre and style—it seeks to model for participants a reflexively critical orientation to ‘AI’ not as the singular, stable entity which is so often the referent of technocapitalist hype, but as a collection of imbricating technologies emerging from specific historical and cultural contexts whose putative dominance we have the ability to critique and to contest.
-
+    The formal part of the course begins on Monday with a historical perspective on text  generation technologies (eg. ELIZA, Markov chains), leading to GPT-2 and GPT-3 experiments and what they can tell us about genre. We then move to considering training corpora and  what goes into building them, and how the idiosyncrasies of training data shape machine  learning outputs.  
+    On Tuesday, participants will be introduced to word embeddings and the notion of  multidimensional vector space as a way of capturing the diversity of contexts in which a  word or token appears. We will look at examples of digital humanities research that uses word embeddings to probe the relationship between concepts and the discursive  environments in which they circulate, and participants will be able to try vector algebra for  themselves using pre-trained models of historical texts. 
+    On Wednesday, we turn to the question of ‘bias’ in LLMs, beginning with a critique of the  notion of debiasing, and using AI-generated poetry and pseudo-criticism to think about what  happens when statistical data about the proximity of tokens in an LLM evacuates the  historical significance of words and phrases. We spend some time considering how these  and other problems relate to interface design and how AI companies attempt to mitigate  them, testing different chatbots against a model’s ‘soul document’.  
+    Thursday’s sessions are themed around pedagogy and education. Participants will be  presented with suggestions for ways that generative AI may be potentially helpful in the  classroom, followed by hands-on work with a tool designed to help communities of  practice—such as secondary school teachers and university tutors—establish norms for  acceptable AI use among themselves. We will think about the post-generative AI classroom  in terms of designing for critical AI literacy, and look at examples of learning and assessment  tasks which build in AI literacy without compromising the core content of the course. 
+    On Friday, we will think about changes to information ecologies and the authentication of  knowledge from a range of disciplinary perspectives, including law, information science and  literary theory. From here we will move to a critical interrogation of AI hype as articulated by  tech companies, including its roots in science fiction, and will discuss insights from key  thinkers from feminist STS such as Lucy Suchman and Donna Haraway on the necessity of  understanding AI as something other than a singular, reified entities. 
+    While the morning sessions will be made up of a combination of lecturing, hands-on  exploration and group discussion, the afternoon sessions across the week will have a slightly  different rhythm, as they will consist for the most part of readings and discussions about the 
+    challenges and harms of AI. Participants will be asked, each day, to read a small number of  short, accessible sources setting out the consequences – social, cognitive, psychological,  democratic, economic, environmental and more – of AI and other algorithmically driven  technologies whose emergent effects are gradually coming to light, and this will feed into  group discussion. Sources will be gathered in an online group library which will act as a  resource to which participants will continue to have access after the course is over, and to  which they can add further sources if required. Where time allows there may also be hands on activities, eg. exploring data visualizations designed to surface bias in an LLM, and the  opportunity to “make your own deepfake”. The course will conclude with an audit of where  machine learning is incorporated into participants’ lives and how its effects might be  mitigated.
+    
+    | Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+    | :--- | :--- | :--- | :--- | :--- | :--- |
+    | **1st session** | History of text generation technologies; GPT-2/GPT-3 progenitors | Understanding multidimensional vector space; introduction to word embeddings | Unpacking ‘bias’: perspectives from the humanities | Pedagogical implications: assessing the Quality of AI in teaching; a tool for thinking through new norms | Critical frameworks from literary theory; professional implications for other text based fields; authenticating information |
+    | **2nd session** | What’s in a training corpus? COHA and Google Books | Exploring a word embedding model with Tensorflow | Ethical considerations: inside an AI chatbot’s ‘soul document’, and the role of interface design | AI in the classroom: designing ways to incorporate AI literacy | Rhetoric and hype; insights from STS |
+    | **3rd session** | Challenges and harms 1: attention, affective attachments and cognitive deskilling | Challenges and harms 2: misinformation, bias and media ecologies | Challenges and harms 3: surveillance, technocapitalism and power | Challenges and harms 4: privacy, deepfakes and control | Challenges and harms 5: labour, environmental costs and regulation; AI audit |
+    
 - id: statistics
   title: "Introduction to Statistics and Modelling for the Humanities"
   hidden: true
@@ -218,4 +498,70 @@
   duration: "both weeks"
   abstract: |
   syllabus: |
-    This course introduces students with no mathematical background to basic descriptive statistics and modelling.  Over 5 sessions (15hrs instruction, 15hrs practice) it progresses from statistical distributions, univariate description and testing, to basic frequentist modelling and interpretation (regression, etc) and finishes with an introduction to Bayesian inference.  Students need only a very basic familiarity with the Python programming language (this is not a programming course, but the activities are carried out using Python tools). 
+    This course introduces students with no mathematical background to basic descriptive statistics and modelling.  Over 5 sessions (15hrs instruction, 15hrs practice) it progresses from statistical distributions, univariate description and testing, to basic frequentist modelling and interpretation (regression, etc) and finishes with an introduction to Bayesian inference.  Students need only a very basic familiarity with the Python programming language (this is not a programming course, but the activities are carried out using Python tools). - id: distant-reading2024
+
+- id: distant-reading2024
+  title: "Distant Reading in R. Analyse the text & visualize the data"
+  hidden: true
+  instructors: 
+    - "Simone Rebora"
+    - "Giovanni Pietro Vitali"
+  duration: "both weeks"
+  abstract: |
+    Distant reading is one of the most well-known methodological approaches in digital humanities, formalized by Franco Moretti in the article _Conjectures on World Literature_ (2000).  It benefits greatly from computational tools. For this reason, we are proposing a course based on the use of R, one of the most popular programming languages in the scientific community today. 
+    The philosophy of the course is to analyze text and visualize data, and its structure follows this dichotomy.  The objective is to introduce participants to different methodological perspectives and provide practical tools they can use in their own research.  The course offers a compact introduction to natural language processing, computational text analysis, machine learning, graph theory, and geospatial humanities.  By the end of the two-week course, participants will be able to use R and RStudio to apply textual and spatial analysis.  An important component of the course is data visualization, an area in which R excels, offering a comprehensive framework for creating graphs, maps, and trees. 
+    The final part of the course will focus on open-source programs like Gephi, GIMP, and Inkscape, which allow users to manipulate and rework vector and graphical files.  The course is suitable for beginners who want to start their digital humanities training with a complete overview of the most common tools used for distant reading. 
+  syllabus: |
+    # The Workshop
+
+    Distant reading is one of the most famous methodological approaches that has been constantly taking place in digital humanities, since its formalisation by Franco Moretti in the article *Conjectures on World Literature* (2000). Distant reading benefits greatly from the use of computational tools. For this reason, we are proposing a course based on the use of R, one of the most popular programming languages used today by the scientific community.
+
+    The course is suitable for beginners who want to start digital humanities training with a complete overview of the most common tools used for distant reading.
+
+    The philosophy of the course is to analyse the text & visualize the data and the course is structured on this dichotomy.
+
+    The objective of the course is to provide the participants with methodological and practical tools that they can utilise for their own research. At the end of the two weeks, they will be able to use R and RStudio in order to apply textual and spatial analysis. R analysis displays results that can be easily presented by graphical representations such as graphs, trees, or maps. As a result, part of the course will be dedicated to open source programs like Gephi, Gimp and Inkscape, specific to the reworking of vectorial and graphical files.
+
+    # Schedule
+
+    The course takes place over two weeks in order to allow the participants to choose to attend one or both parts. However, participation to the entire course is strongly advised.
+
+    The first week is dedicated to the basics of R and natural language processing, three of the most common methods used for distant reading (sentiment analysis, topic modeling, and stylometry) and a brief introduction to machine learning. The objective of this first week is to provide a basic theoretical / methodological understanding of distant reading techniques, together with the practical tools to analyse texts in an R environment.
+
+    The second week is dedicated to data visualization. In this module the participants will focus on mapping, network analysis and graphics. The objective of this week is to give participants the tools to organise the visualisation of data graphically, chronologically, and spatially. If a participant is interested in the second week only, we will assume that s/he has a more than basic knowledge of R programming language.
+
+    At the beginning of the course, the workshop leaders will divide the class in two groups according to their research interests. Each group will carry out some research to be presented on the last day of the workshop, using one of the methodologies introduced during the week.
+
+    ### Week 1: Analyse the text
+    
+    | Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+    | :--- | :--- | :--- | :--- | :--- | :--- |
+    | **1st hour** | Intro to course | Natural Language Processing | Sentiment Analysis | Machine Learning | Topic Modeling |
+    | **2nd hour** | Intro to R/RStudio | Natural Language Processing | Sentiment Analysis | Machine Learning | Topic Modeling |
+    | **3rd hour** | Intro to R/RStudio | Natural Language Processing | Sentiment Analysis | Stylometry | Hands-on |
+    | **4th hour** | Intro to R/RStudio | Natural Language Processing | Sentiment Analysis | Stylometry | Hands-on |
+
+    ### Week 2: Visualize the data
+    
+    | Time | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
+    | :--- | :--- | :--- | :--- | :--- | :--- |
+    | **1st hour** | Network (Gephi) | Network Analysis | Named-Entity Recognition | Mapping | Mapping |
+    | **2nd hour** | Network (Gephi) | Network Analysis | Named-Entity Recognition | Mapping | Mapping |
+    | **3rd hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
+    | **4th hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
+
+    # Technical Requirements
+
+    1. Participants should have their own computer with at least 5-10GB of available space.
+    2. Operating System: Windows (preferably 7+), Linux or Mac OSX.
+    3. Java 8 for the operating system. You may need to create an Oracle account to download Java 8.
+    4. Zip/unzip programs (these are programs that you normally have by default in your computer, like 7-Zip or WinZip for Windows, to manage compressed folders).
+    5. Browser: Mozilla Firefox and Google Chrome.
+    6. Simple text reading program (for txt and csv) like Sublime Text Editor 3 for Windows, Linux and Mac.
+    7. Google account
+    8. R
+    9. RStudio and Xquartz (the latter for Mac)
+    10. Openoffice
+    11. Gephi
+    12. Inkscape
+    13. Gimp
