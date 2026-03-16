@@ -105,9 +105,57 @@
     The philosophy of the course is to analyze text and visualize data, and its structure follows this dichotomy.  The objective is to introduce participants to different methodological perspectives and provide practical tools they can use in their own research.  The course offers a compact introduction to natural language processing, computational text analysis, machine learning, graph theory, and geospatial humanities.  By the end of the two-week course, participants will be able to use R and RStudio to apply textual and spatial analysis.  An important component of the course is data visualization, an area in which R excels, offering a comprehensive framework for creating graphs, maps, and trees. 
     The final part of the course will focus on open-source programs like Gephi, GIMP, and Inkscape, which allow users to manipulate and rework vector and graphical files.  The course is suitable for beginners who want to start their digital humanities training with a complete overview of the most common tools used for distant reading. 
   syllabus: |
-    Distant reading is one of the most well-known methodological approaches in digital humanities, formalized by Franco Moretti in the article _Conjectures on World Literature_ (2000).  It benefits greatly from computational tools. For this reason, we are proposing a course based on the use of R, one of the most popular programming languages in the scientific community today. 
-    The philosophy of the course is to analyze text and visualize data, and its structure follows this dichotomy.  The objective is to introduce participants to different methodological perspectives and provide practical tools they can use in their own research.  The course offers a compact introduction to natural language processing, computational text analysis, machine learning, graph theory, and geospatial humanities.  By the end of the two-week course, participants will be able to use R and RStudio to apply textual and spatial analysis.  An important component of the course is data visualization, an area in which R excels, offering a comprehensive framework for creating graphs, maps, and trees. 
-    The final part of the course will focus on open-source programs like Gephi, GIMP, and Inkscape, which allow users to manipulate and rework vector and graphical files.  The course is suitable for beginners who want to start their digital humanities training with a complete overview of the most common tools used for distant reading. 
+    # The Workshop
+
+    Distant reading is one of the most famous methodological approaches that has been constantly taking place in digital humanities, since its formalisation by Franco Moretti in the article *Conjectures on World Literature* (2000). Distant reading benefits greatly from the use of computational tools. For this reason, we are proposing a course based on the use of R, one of the most popular programming languages used today by the scientific community.
+
+    The course is suitable for beginners who want to start digital humanities training with a complete overview of the most common tools used for distant reading.
+
+    The philosophy of the course is to analyse the text & visualize the data and the course is structured on this dichotomy.
+
+    The objective of the course is to provide the participants with methodological and practical tools that they can utilise for their own research. At the end of the two weeks, they will be able to use R and RStudio in order to apply textual and spatial analysis. R analysis displays results that can be easily presented by graphical representations such as graphs, trees, or maps. As a result, part of the course will be dedicated to open source programs like Gephi, Gimp and Inkscape, specific to the reworking of vectorial and graphical files.
+
+    # Schedule
+
+    The course takes place over two weeks in order to allow the participants to choose to attend one or both parts. However, participation to the entire course is strongly advised.
+
+    The first week is dedicated to the basics of R and natural language processing, three of the most common methods used for distant reading (sentiment analysis, topic modeling, and stylometry) and a brief introduction to machine learning. The objective of this first week is to provide a basic theoretical / methodological understanding of distant reading techniques, together with the practical tools to analyse texts in an R environment.
+
+    The second week is dedicated to data visualization. In this module the participants will focus on mapping, network analysis and graphics. The objective of this week is to give participants the tools to organise the visualisation of data graphically, chronologically, and spatially. If a participant is interested in the second week only, we will assume that s/he has a more than basic knowledge of R programming language.
+
+    At the beginning of the course, the workshop leaders will divide the class in two groups according to their research interests. Each group will carry out some research to be presented on the last day of the workshop, using one of the methodologies introduced during the week.
+
+    ### Week 1: Analyse the text
+    | Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+    | :--- | :--- | :--- | :--- | :--- | :--- |
+    | **1st hour** | Intro to course | NLP | Sentiment Analysis | Machine Learning | Topic Modeling |
+    | **2nd hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Machine Learning | Topic Modeling |
+    | **3rd hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Stylometry | Hands-on |
+    | **4th hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Stylometry | Hands-on |
+
+    ### Week 2: Visualize the data
+    | Time | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
+    | :--- | :--- | :--- | :--- | :--- | :--- |
+    | **1st hour** | Network (Gephi) | Network Analysis | NER | Mapping | Mapping |
+    | **2nd hour** | Network (Gephi) | Network Analysis | NER | Mapping | Mapping |
+    | **3rd hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
+    | **4th hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
+
+    # Technical Requirements
+
+    1. Participants should have their own computer with at least 5-10GB of available space.
+    2. Operating System: Windows (preferably 7+), Linux or Mac OSX.
+    3. Java 8 for the operating system. You may need to create an Oracle account to download Java 8.
+    4. Zip/unzip programs (these are programs that you normally have by default in your computer, like 7-Zip or WinZip for Windows, to manage compressed folders).
+    5. Browser: Mozilla Firefox and Google Chrome.
+    6. Simple text reading program (for txt and csv) like Sublime Text Editor 3 for Windows, Linux and Mac.
+    7. Google account
+    8. R
+    9. RStudio and Xquartz (the latter for Mac)
+    10. Openoffice
+    11. Gephi
+    12. Inkscape
+    13. Gimp
 
 - id: humanities-data-mapping
   title: "Humanities Data and Mapping Environments"
@@ -128,10 +176,10 @@
     * to practice different ways that we can tell a story by visualizing spatial data, and 
     * to learn ways that we can disseminate and share that data. 
     
-    **Week 1**
+    ## Week 1
     In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument.  We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research.  We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset.  Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis. 
     
-    **Week 2**
+    ## Week 2
     In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps.  We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling.  Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps.  Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.  A Zotero library of supplementary readings will be provided by the instructors. 
 
 - id: parliamentary-discourse
@@ -168,7 +216,9 @@
     # Technical requirements  
     Organisers should provide an LCD projector with a HDMI output, WIFI and some  power extension cords for the participants.  
     Participants should bring their own laptops. Participants are also advised to create a  free personal account at https://www.clarin.si/skelog prior to the beginning of the workshop.  
+    
     # Brief course timeline  
+    
     ## Week 1 (15 hours \+ an open teaser session)  
     Day 1  
     * Introduction to CLARIN’s language data tools and resources    
@@ -193,6 +243,7 @@
     * Combining distant and close reading for studying parliamentary discourse  
     * Concordance analysis    
     * Daily reflection  
+    
     ## Week 2 (15 hours \+ an open teaser session)  
     Day 1  
     * Understanding statistics in ParlaMint    
@@ -400,8 +451,13 @@
     This course is based on the premise that scholarly expertise from the humanities can, and should, be brought to bear on understanding how generative AI and related algorithmic technologies work, their broader effects on the world, and how we might more thoughtfully and responsibly engage with them.  The course seeks to give enough technical background—from the probabilistic underpinnings of large language models to considerations of training corpora and interface design—for participants to be able to take an informed stance on the pressing social, ethical and environmental concerns emerging around generative AI, and to better understand the potential impact of these technologies on institutions important to the continued functioning of democracy such as the media and education.  It incorporates hands-on activities which offer participants the chance to explore features of the technologies for themselves and follow their own interests. 
     In bringing together developments from one set of disciplinary orientations—the fields of science and technology studies (STS) and critical AI—together with theoretical and methodological approaches from humanities subjects—such as historical perspectives on text generation technologies and insights from literary theory with established explanatory power for grasping the workings of narrative, genre and style—it seeks to model for participants a reflexively critical orientation to ‘AI’ not as the singular, stable entity which is so often the referent of technocapitalist hype, but as a collection of imbricating technologies emerging from specific historical and cultural contexts whose putative dominance we have the ability to critique and to contest.
   syllabus: |
-    This course is based on the premise that scholarly expertise from the humanities can, and should, be brought to bear on understanding how generative AI and related algorithmic technologies work, their broader effects on the world, and how we might more thoughtfully and responsibly engage with them.  The course seeks to give enough technical background—from the probabilistic underpinnings of large language models to considerations of training corpora and interface design—for participants to be able to take an informed stance on the pressing social, ethical and environmental concerns emerging around generative AI, and to better understand the potential impact of these technologies on institutions important to the continued functioning of democracy such as the media and education.  It incorporates hands-on activities which offer participants the chance to explore features of the technologies for themselves and follow their own interests. 
-    In bringing together developments from one set of disciplinary orientations—the fields of science and technology studies (STS) and critical AI—together with theoretical and methodological approaches from humanities subjects—such as historical perspectives on text generation technologies and insights from literary theory with established explanatory power for grasping the workings of narrative, genre and style—it seeks to model for participants a reflexively critical orientation to ‘AI’ not as the singular, stable entity which is so often the referent of technocapitalist hype, but as a collection of imbricating technologies emerging from specific historical and cultural contexts whose putative dominance we have the ability to critique and to contest.
+    The formal part of the course begins on Monday with a historical perspective on text  generation technologies (eg. ELIZA, Markov chains), leading to GPT-2 and GPT-3 experiments and what they can tell us about genre. We then move to considering training corpora and  what goes into building them, and how the idiosyncrasies of training data shape machine  learning outputs.  
+    On Tuesday, participants will be introduced to word embeddings and the notion of  multidimensional vector space as a way of capturing the diversity of contexts in which a  word or token appears. We will look at examples of digital humanities research that uses word embeddings to probe the relationship between concepts and the discursive  environments in which they circulate, and participants will be able to try vector algebra for  themselves using pre-trained models of historical texts. 
+    On Wednesday, we turn to the question of ‘bias’ in LLMs, beginning with a critique of the  notion of debiasing, and using AI-generated poetry and pseudo-criticism to think about what  happens when statistical data about the proximity of tokens in an LLM evacuates the  historical significance of words and phrases. We spend some time considering how these  and other problems relate to interface design and how AI companies attempt to mitigate  them, testing different chatbots against a model’s ‘soul document’.  
+    Thursday’s sessions are themed around pedagogy and education. Participants will be  presented with suggestions for ways that generative AI may be potentially helpful in the  classroom, followed by hands-on work with a tool designed to help communities of  practice—such as secondary school teachers and university tutors—establish norms for  acceptable AI use among themselves. We will think about the post-generative AI classroom  in terms of designing for critical AI literacy, and look at examples of learning and assessment  tasks which build in AI literacy without compromising the core content of the course. 
+    On Friday, we will think about changes to information ecologies and the authentication of  knowledge from a range of disciplinary perspectives, including law, information science and  literary theory. From here we will move to a critical interrogation of AI hype as articulated by  tech companies, including its roots in science fiction, and will discuss insights from key  thinkers from feminist STS such as Lucy Suchman and Donna Haraway on the necessity of  understanding AI as something other than a singular, reified entities. 
+    While the morning sessions will be made up of a combination of lecturing, hands-on  exploration and group discussion, the afternoon sessions across the week will have a slightly  different rhythm, as they will consist for the most part of readings and discussions about the 
+    challenges and harms of AI. Participants will be asked, each day, to read a small number of  short, accessible sources setting out the consequences – social, cognitive, psychological,  democratic, economic, environmental and more – of AI and other algorithmically driven  technologies whose emergent effects are gradually coming to light, and this will feed into  group discussion. Sources will be gathered in an online group library which will act as a  resource to which participants will continue to have access after the course is over, and to  which they can add further sources if required. Where time allows there may also be hands on activities, eg. exploring data visualizations designed to surface bias in an LLM, and the  opportunity to “make your own deepfake”. The course will conclude with an audit of where  machine learning is incorporated into participants’ lives and how its effects might be  mitigated.
 
 - id: statistics
   title: "Introduction to Statistics and Modelling for the Humanities"
