@@ -129,17 +129,17 @@
     
     | Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
     | :--- | :--- | :--- | :--- | :--- | :--- |
-    | **1st hour** | Intro to course | NLP | Sentiment Analysis | Machine Learning | Topic Modeling |
-    | **2nd hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Machine Learning | Topic Modeling |
-    | **3rd hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Stylometry | Hands-on |
-    | **4th hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Stylometry | Hands-on |
+    | **1st hour** | Intro to course | Natural Language Processing | Sentiment Analysis | Machine Learning | Topic Modeling |
+    | **2nd hour** | Intro to R/RStudio | Natural Language Processing | Sentiment Analysis | Machine Learning | Topic Modeling |
+    | **3rd hour** | Intro to R/RStudio | Natural Language Processing | Sentiment Analysis | Stylometry | Hands-on |
+    | **4th hour** | Intro to R/RStudio | Natural Language Processing | Sentiment Analysis | Stylometry | Hands-on |
 
     ### Week 2: Visualize the data
     
     | Time | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
     | :--- | :--- | :--- | :--- | :--- | :--- |
-    | **1st hour** | Network (Gephi) | Network Analysis | NER | Mapping | Mapping |
-    | **2nd hour** | Network (Gephi) | Network Analysis | NER | Mapping | Mapping |
+    | **1st hour** | Network (Gephi) | Network Analysis | Named-Entity Recognition | Mapping | Mapping |
+    | **2nd hour** | Network (Gephi) | Network Analysis | Named-Entity Recognition | Mapping | Mapping |
     | **3rd hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
     | **4th hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
 
