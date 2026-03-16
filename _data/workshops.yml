@@ -144,9 +144,74 @@
     This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period.  Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. 
     This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK.  All data and tools are open access and can be used free of charge.  Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration.  Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure.
   syllabus: |
-    Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues.  The debates are commonly recorded as open-access digital proceedings enriched with metadata.  These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. 
-    This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period.  Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. 
-    This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK.  All data and tools are open access and can be used free of charge.  Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration.  Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure. 
+    # Abstract 
+    Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by  deliberating critical societal issues. The debates are commonly recorded as open-access digital  proceedings enriched with metadata. These records are valuable for researchers exploring  political, societal, historical, cultural or communicational dynamics in fields such as  linguistics, discourse analysis, political science, history, sociology, gender studies as well as  for various teaching contexts.  
+    This workshop takes advantage of the interoperability and comparability of the  ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional  parliaments across Europe at least between 2015 and 2022, although several ParlaMint  corpora include data spanning a much longer period. Available in the original languages and  machine-translated to English, the corpora also feature metadata on speakers, parties and  speeches, including names, gender, age, roles, party affiliation, power positions, political  leanings, speech dates, topics and sentiment. This hands-on project-oriented tutorial will  provide skills and methodological training to explore ParlaMint version 5.0, which can be  obtained by downloading the files or by accessing the preloaded data via online platforms –  primarily noSketch Engine and TEITOK. All data and tools are open access and can be used  free of charge.  
+    Designed for researchers in Social Sciences and Humanities with interest in  parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop  will train participants to leverage extensive content, annotations and metadata via user friendly concordancers, facilitating research on individual national parliaments, enabling  transnational comparisons, and fostering cross-disciplinary collaboration. Participants with  also discover CLARIN – Common Language Resources and Technology Infrastructure.  
+    # Learning outcomes  
+    Participants will discover CLARIN’s language resources and gain skills for querying  ParlaMint corpora, including simple and advanced CQL queries. They will learn to analyse  extracted results alongside speaker and text metadata, including sentiment and topic analysis  under the ParlaCAP project. Additionally, they will learn to frame and interpret the results for  various Digital Humanities and Social Sciences research questions, such as comparing  speeches and attitudes of ruling and opposition parties or exploring parliamentary protocol  variations. The techniques taught are transferable to other corpora and concordancers. The  showcases will use ParlaMint-GB containing proceedings from the UK Parliament, and the  machine-translated version of all other ParlaMint corpora into English (Parlamint\_xx\_en) to  ensure all participants can follow queries and discuss results. However, for the hands-on  activities and project work, the participants will be encouraged to use the ParlaMint corpora in  other languages.  
+    # Datasets  
+    ParlaMint version 5.0 can be downloaded from the CLARIN.SI repository as a TEI-encoded  corpus, a linguistically marked-up corpus in several formats and a version machine-translated  into English, all with added metadata files. For on-line analysis, different versions of the  ParlaMint corpora are preloaded to various tooks, including noSketch Engine (up to v. 5.0)  and TEITOK (v. 4.1).  
+    # Teaching materials 
+    Digital textbook    
+    Pahor de Maiti Tekavčič, K., & Kryvenko, A. (2026). From the dispatch box: Unlocking the  potential of ParlaMint through noSketch Engine and TEITOK (Ed. 1.0) \[E book\].  Inštitut za novejšo zgodovino / Institute of Contemporary History.  
+       
+    Other ParlaMint tutorials including    
+    Parliamentary Speech Analysis with ParlaMint  
+    CLARIN’s tutorials    
+    Introduction to CLARIN    
+    Introduction to Language Data: Standards and Repositories 
+    Further reading (optional): selected chapters / sections from academic publications, including  below, will be provided by the instructor:  
+    Gillings, M., Mautner, G., & Baker, P. (2023). Corpus-Assisted Discourse Studies.  Cambridge: Cambridge University Press.  
+    Korhonen, M., Kotze, H. & Tyrkkö, J. (2023). Exploring Language and Society with Big  Data: Parliamentary discourse across time and space. John Benjamins Publishing  Company.  
+    Brezina, V. (2018). Statistics in Corpus Linguistics: A Practical Guide. Cambridge:  Cambridge University Press.  
+    # Technical requirements  
+    Organisers should provide an LCD projector with a HDMI output, WIFI and some  power extension cords for the participants.  
+    Participants should bring their own laptops. Participants are also advised to create a  free personal account at https://www.clarin.si/skelog prior to the beginning of the workshop.  
+    # Brief course timeline  
+    ## Week 1 (15 hours \+ an open teaser session)  
+    Day 1  
+    * Introduction to CLARIN’s language data tools and resources    
+    * Introduction to the ParlaMint corpora and related projects    
+    * “Adopting” a ParlaMint corpus (corpora) and planning project work  Daily reflection  
+    Day 2  
+    * Studying parliamentary discourse via corpora. How verbatim are transcripts?   
+    * Assessing the ParlaMint datasets via user-friendly tools    
+    * Daily reflection  
+    Day 3  
+    * ParlaMint provenance information, structural markup, linguistic annotation and metadata    
+    * Delimiting searches and contextualising results    
+    * Daily reflection 
+    Day 4  
+    * An overview of corpus linguistic techniques for studying parliamentary discourse  Extracting and interpreting frequency    
+    * Daily reflection  
+    Day 5  
+    * Combining distant and close reading for studying parliamentary discourse  
+    * Concordance analysis    
+    * Daily reflection  
+    ## Week 2 (15 hours \+ an open teaser session)  
+    Day 1  
+    * Understanding statistics in ParlaMint    
+    * Collocation analysis    
+    * Daily reflection  
+    Day 2  
+    * Creating and comparing subcorpora    
+    * Keyword analysis    
+    * Daily reflection  
+    Day 3  
+    * Examining sentiment across parliamentary parties over time    
+    * Using different techniques at different stages of analysis (1)    
+    * Daily reflection  
+    Day 4  
+    * Examining the gendered dimension of topic distribution across European parliaments   
+    * Using different techniques at different stages of analysis (2)    
+    * Daily reflection  
+    Day 5  
+    * Individual project presentations    
+    * Critical appreciation of peer projects    
+    * Course feedback  
+    # Acknowledgement    
+    The creation of this course was supported by Horizon Europe via the OSCARS Open Science  cascading grant project Comparing agenda settings across parliaments via the ParlaMint  dataset (ParlaCAP) (2025 – 2026), and the Slovenian Research Agency via the research  programme P6-0436 Digital Humanities: resources, tools and methods (2022-2027) and the  research project J6-60112 Parliament in the Age of Europeanisation: the Czech Republic and  Slovenia (ParlAgE) (2025-2028).  
 
 - id: stylometry
   title: "Introduction to Stylometry"  
