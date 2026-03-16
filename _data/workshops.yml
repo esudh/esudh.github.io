@@ -256,9 +256,92 @@
     Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
     Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub.  This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research.  The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications.  No advanced programming skills are required. 
   syllabus: |
+    ## Abstract
     While Digital Humanities has extensively explored textual and visual sources, the computational analysis of speech and vocal performance remains underrepresented.  This two-week workshop introduces voice as structured cultural data and critically examines how AI technologies mediate access to vocal heritage. 
     Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
     Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub.  This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research.  The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications.  No advanced programming skills are required. 
+
+    ## Learning Outcomes 
+    By the end of the workshop, participants will be able to: 
+    * Design, document, and curate a small speech corpus using open data and FAIR principles. 
+    * Extract and interpret acoustic and prosodic features from speech recordings. 
+    * Apply basic statistical methods to analyze phonetic and sociolinguistic variation. 
+    * Evaluate AI-based speech technologies using quantitative and qualitative metrics. 
+    * Identify and document bias, uncertainty, and epistemic risk in speech AI systems. 
+    * Contribute to a reproducible, open research workflow using version control. 
+    * Critically reflect on ethical, legal, and cultural issues surrounding voice as data. 
+
+    ## Datasets and Materials 
+    The workshop uses exclusively open or research-friendly resources, including: 
+
+    1) Mozilla Common Voice (CC0): multilingual speech recordings with demographic  metadata, used for phonetic analysis and AI evaluation. 
+    2) Selected open oral history recordings from national or institutional collections, used to  explore historical and degraded audio. 
+    3) Pre-curated dataset subsets prepared in advance to ensure feasibility within workshop time.
+
+    Materials provided include: 
+
+    1) A public GitHub repository containing notebooks, scripts, documentation, and templates.
+    2) Structured templates for metadata, evaluation reports, and responsible-AI documentation. 
+
+    ## Technical Requirements
+    Participants will need a personal laptop (Windows, macOS, or Linux) and basic familiarity with  file systems. No advanced programming skills are required.
+
+
+    ## Schedule
+    ### Week I: Speech as Cultural Data
+    * Class 1: Introduction and Audio  Corpus Design
+    **Concepts** 
+    Oral history, spoken-text corpora, metadata needs, consent  and privacy. 
+    **Hands-on **
+    Inventory a sample dataset, define corpus schema (files,  speakers, metadata fields).
+    * Class 2: Audio Preprocessing  and Segmentation
+    **Concepts** 
+    File formats, chunking, time-coded segments. 
+    **Hands-on **
+    Split long recordings into interview segments and index  them with timestamps.
+    * Class 3: Automatic Speech  Recognition and Alignment
+    **Concepts** 
+    ASR, confidence scores, error patterns. 
+    **Hands-on **
+    Run open-source ASR on sample data, generate aligned  transcripts, inspect errors. AI-enhanced versions of  historical audio of poor quality.
+    * Class 4: Linguistic Enrichment  and Prosody
+    **Concepts** 
+    POS, named entities, basic prosody (pauses, stress,  turn-taking). 
+    **Hands-on **
+    Enrich transcriptions with linguistic tags and simple  prosodic markers.
+    * Class 5: Structuring,  
+    Versioning, and the Researcher’s  Toolbox
+    **Concepts** 
+    Version control, open source, cloud native and portability  approach. 
+    **Hands-on **
+    Create code and data repositories with git, using containers  for portable workloads.
+
+    ### Week II: LLMs and Cultural Analytics
+    * Class 6: Introduction to  
+    LLM-Assisted Analysis
+    **Concepts** 
+    Prompt design, hallucination, bias, interpretability. 
+    **Hands-on **
+    Safe prompt patterns for summarization and topic  extraction.
+    * Class 7: AI-ready content 
+    **Concepts** 
+    Standards for AI-friendly textual and non-textual content. 
+    **Hands-on **
+    Adapt content samples to AI models’ needs.
+    * Class 8: Critical AI and Ethics 
+    **Concepts** 
+    Ethical audits: Bias in training data, models-choice  implications, speaker identity, privacy and licensing. 
+    **Hands-on **
+    Walkthrough of a critical-AI checklist for an audio-LLM  pipeline.
+    * Class 9: Linking  
+    Audio-Text-Themes into  
+    Dashboards
+    **Concepts** 
+    Time and speaker-aligned views, simple data-charting.
+    **Hands-on **
+    Use open-source modules and notebooks to load labeled  segments and generate charts.
+    * Class 10: Collaborative Output  and Documentation
+    Participants finalize mini-projects, contribute to the shared  GitHub repository, and complete a responsible-AI  assessment. Final presentations and collective reflection.
 
 - id: measuring-manuscripts
   title: "Measuring Manuscripts: Quantitative Approaches to Ancient Language and Script"
@@ -414,9 +497,9 @@
     | Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
     | :--- | :--- | :--- | :--- | :--- | :--- |
     | **1st session** | History of text generation technologies; GPT-2/GPT-3 progenitors | Understanding multidimensional vector space; introduction to word embeddings | Unpacking ‘bias’: perspectives from the humanities | Pedagogical implications: assessing the Quality of AI in teaching; a tool for thinking through new norms | Critical frameworks from literary theory; professional implications for other text based fields; authenticating information |
-    | **2nd session** | What’s in a  training  corpus? COHA and Google  Books | Exploring a word embedding  model with  Tensorflow | Ethical  considerations: inside an AI  chatbot’s ‘soul document’, and the role of  interface design | AI in the  classroom:  designing ways to incorporate AI literacy | Rhetoric and  hype; insights from STS |
-    | **3rd session** | Challenges and harms 1:  attention,  affective  attachments  and cognitive deskilling | Challenges and harms 2:  misinformation, bias and media ecologies | Challenges and harms 3:  surveillance,  technocapitalism and power | Challenges and harms 4:  privacy,  deepfakes and control | Challenges and harms 5:  labour,  environmental costs and  regulation; AI audit |
-
+    | **2nd session** | What’s in a training corpus? COHA and Google Books | Exploring a word embedding model with Tensorflow | Ethical considerations: inside an AI chatbot’s ‘soul document’, and the role of interface design | AI in the classroom: designing ways to incorporate AI literacy | Rhetoric and hype; insights from STS |
+    | **3rd session** | Challenges and harms 1: attention, affective attachments and cognitive deskilling | Challenges and harms 2: misinformation, bias and media ecologies | Challenges and harms 3: surveillance, technocapitalism and power | Challenges and harms 4: privacy, deepfakes and control | Challenges and harms 5: labour, environmental costs and regulation; AI audit |
+    
 - id: statistics
   title: "Introduction to Statistics and Modelling for the Humanities"
   hidden: true
