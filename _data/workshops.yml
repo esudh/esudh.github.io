@@ -350,10 +350,10 @@
     Throughout the course, each participant develops a small individual project based on one method covered in class (e.g., a concordance, variant alignment, paleographic clustering visualization, diachronic frequency comparison, or phonological analysis).  In the final sessions, students publish their project online using lightweight, sustainable infrastructure.  No prior programming experience is required. By the end of the workshop, participants will have designed, implemented, and publicly shared a small born-digital philological project grounded in structured data and computational analysis. 
 
   syllabus: |
-    # Overview
-    ## Summary
+    ## Overview
+    ### Summary
     This course introduces participants to computational philology through the study of manuscripts, text corpora, online databases, available tools, and custom-built software. It begins with traditional philological methods and gradually introduces workflows, quantitative analysis, and online publication of digital research.
-    ## Intended Outcomes
+    ### Intended Outcomes
     Upon completion of the course, participants will be able to…
     * articulate traditional philological methods and explain how digital approaches extend and formalize them
     * structure manuscript and linguistic data in digital form
@@ -365,18 +365,18 @@
     * critically interpret computational results and understand the limits of quantitative methods in historical research
     * design and publish a small born-digital philological project online using sustainable, lightweight infrastructure
 
-    ## Prerequisites
+    ### Prerequisites
     This course will teach all required digital techniques, including hands-on introduction to widely used digital tools and basic programming concepts. No prior programming experience is required. All programming activities will be based on structured templates and guided examples.
     When appropriate, we will also critically discuss and demonstrate the use of AI-assisted coding tools. Rather than treating them as black boxes, students will learn how such tools can support structured experimentation while retaining full intellectual control over methods and results.
     Students who arrive with programming experience will be offered additional or augmented in-class activities.
 
-    ## Datasets and Materials
+    ### Datasets and Materials
     All datasets used in this project are publicly available online or will be provided to the students by the instructor.
 
-    ## Technical Requirements
+    ### Technical Requirements
     Students must come equipped with a laptop for writing code. Tablets with physical keyboards may be used if it is possible to write code efficiently with them, but laptops should be preferred.
 
-    ## Final Project
+    ### Final Project
     Students will produce one final project throughout their time in the course, which they will publish online at the end of the two-week classwork period. Some possible projects include (but are not limited to):
     * Concordance
     * Variant alignment
@@ -384,17 +384,9 @@
     * Paleographic clustering visualization
     * Diachronic frequency comparison
 
-    # Course Schedule
+    ## Course Schedule
 
-    ## Bonus Teaser Session
-    What is computational philology?
-    * What exactly is philology?
-    * How can we do it with computers?
-    * What can computers do that traditional methods cannot?
-    * Demonstration of a small computational philology project (the kind students will build)
-    * Introduction of the final project: choosing one technique to develop and publish
-
-    ## Week 1: Philological Foundations
+    ### Week 1: Philological Foundations
     Day 1: Traditional Philology as Method
     * What is philology and how do (did) we do it?
     * Textual criticism and the material transmission of texts
@@ -436,7 +428,7 @@
     * Connecting modern phonetic data to ancient languages
     * Discussion: how sound can be modeled and measured historically * Project check-in: short informal proposal discussion
     
-    ## Week 2: Modeling, Analyzing, Publishing
+    ### Week 2: Modeling, Analyzing, Publishing
     Day 6: Measuring Script and Language
     * Information theory foundations in accessible form
     * Frequency distributions and statistical analysis
