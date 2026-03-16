@@ -125,21 +125,12 @@
 
     At the beginning of the course, the workshop leaders will divide the class in two groups according to their research interests. Each group will carry out some research to be presented on the last day of the workshop, using one of the methodologies introduced during the week.
 
-    ### Week 1: Analyse the text
-    | Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-    | :--- | :--- | :--- | :--- | :--- | :--- |
-    | **1st hour** | Intro to course | NLP | Sentiment Analysis | Machine Learning | Topic Modeling |
-    | **2nd hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Machine Learning | Topic Modeling |
-    | **3rd hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Stylometry | Hands-on |
-    | **4th hour** | Intro to R/RStudio | NLP | Sentiment Analysis | Stylometry | Hands-on |
-
     ### Week 2: Visualize the data
-    | Time | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
-    | :--- | :--- | :--- | :--- | :--- | :--- |
-    | **1st hour** | Network (Gephi) | Network Analysis | NER | Mapping | Mapping |
-    | **2nd hour** | Network (Gephi) | Network Analysis | NER | Mapping | Mapping |
-    | **3rd hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
-    | **4th hour** | Network (Gephi) | Inkscape & Gimp | Mapping (Coords) | Mapping | Mapping |
+
+    | Time | Day 6 |
+    | :--- | :--- |
+    | **1st hour** | Network (Gephi) |
+
 
     # Technical Requirements
 
