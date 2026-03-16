@@ -291,11 +291,11 @@
     ### Week I: Speech as Cultural Data
     * Class 1: Introduction and Audio  Corpus Design
     
-    **Concepts** 
-    Oral history, spoken-text corpora, metadata needs, consent  and privacy. 
-    
-    **Hands-on**
-    Inventory a sample dataset, define corpus schema (files,  speakers, metadata fields).
+    > **Concepts** 
+    > Oral history, spoken-text corpora, metadata needs, consent  and privacy. 
+    > 
+    > **Hands-on**
+    > Inventory a sample dataset, define corpus schema (files,  speakers, metadata fields).
     * Class 2: Audio Preprocessing  and Segmentation
     
     **Concepts** 
