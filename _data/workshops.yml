@@ -489,8 +489,6 @@
     ## Prerequisites
     Familiarity with the command line/bash shell: participants without this can get up to speed with the Shut Up and Shell tutorial at [https://cglab.ca/~morin/teaching/1405/clcc/book/cli-crash-courseli3.html](https://cglab.ca/~morin/teaching/1405/clcc/book/cli-crash-courseli3.html). Basic familiarity with Python would be useful, but is not essential.
     
-
-    
 - id: statistics
   title: "Introduction to Statistics and Modelling for the Humanities"
   hidden: true
