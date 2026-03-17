@@ -19,11 +19,11 @@ Applicants who would like to present a project during one of the project present
 
 [Top](https://esudh.github.io/application/)
 
-`` ## DARIAH scholarships
-`` For this 2025 edition of the European Summer University in Digital Humanities, we are pleased to announce that we have established a partnership with  [DARIAH](https://www.dariah.eu/), the pan-European Digital Research Infrastructure for the Arts and Humanities. DARIAH will offer 12 scholarships of 450 Euros each to cover the costs of applicants coming to Besançon. 
-`` To apply to the scholarship, applicants will be asked to specify in a specific letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. 
+## DARIAH scholarships
+For this 2025 edition of the European Summer University in Digital Humanities, we are pleased to announce that we have established a partnership with  [DARIAH](https://www.dariah.eu/), the pan-European Digital Research Infrastructure for the Arts and Humanities. DARIAH will offer 12 scholarships of 450 Euros each to cover the costs of applicants coming to Besançon. 
+To apply to the scholarship, applicants will be asked to specify in a specific letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. 
 
-`` [Top](https://esudh.github.io/application/)
+[Top](https://esudh.github.io/application/)
 
 ## Important dates
 Selected applicants will receive a confirmation by the end of May.
