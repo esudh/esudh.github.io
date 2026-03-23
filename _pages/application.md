@@ -17,7 +17,7 @@ Students and scholars of Engineering and Computer Sciences are expected to descr
 
 Applicants who would like to present a project during one of the project presentation sessions or during the poster session should upload a seperate file with the description of the project (500-700 words) in English when they apply for a place at the Summer University via ConfTool. The presentation of a project is not a prerequisite for a successful application.
 
-[Top](https://esudh.github.io/application/)
+[Top]({{ '/application/' | relative_url }})
 
 ## Important dates
 Selected applicants will receive a confirmation by the end of May.
@@ -38,4 +38,4 @@ The fees vary according to the different status of the participants:
 
 *For example, students pursuing a doctoral or postdoctoral degree who are hired on non-tenure-track positions or receive scholarships to found their research.	
 
-[Top](https://esudh.github.io/application/)
+[Top]({{ '/application/' | relative_url }})
