@@ -7,29 +7,17 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 ---
-This webpage will present the various teams behind this 2025 edition of the European Summer School in Digital Humanities. 
-Besançon and the university Marie and Louis Pasteur have been awarded the organization of the ESU 2025 by the Steering Committee of the ESU created in 2024. 
+This webpage will present the various teams behind this 2026 edition of the European Summer School in Digital Humanities. 
+Besançon and the university Marie and Louis Pasteur have been awarded the organization of the ESU 2026 by the Steering Committee of the ESU created in 2024. 
 A "local team" is dealing with all the organizational aspects of the ESU in Besançon.
 A scientific committee, combining members of the "local team" as well as workshop instructors will be dealing with the evaluation of all received applications. 
 
 ### ESU Steering Committee
-Co-chairs:<br> 
-Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
-Alejandro Bia (Miguel Hernández University, Spain)
 
-Other members of the ESU Steering Committee: 
-Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br> 
-Markus Jochim (Ludwig Maximilian University Munich, Germany)<br>
-Anna Kryvenko (Institute of Contemporary History, Slovenia)<br>
-Jeremi Ochab (Jagiellonian University, Poland)<br>
-Kristina Pahor De Maiti (Institute of Contemporary History, Slovenia)<br> 
-Voica Pușcașiu (Babeş-Bolyai University, Romania)<br> 
-Simone Rebora (University of Verona, Italy)<br>
-Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br> 
-Ray Siemens (University of Victoria, Canada)<br>
-Lauren Tilton (University of Richmond, USA)<br> 
-Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)<br>
-David Wrisley (NYU Abu Dhabi, UAE)
+{% assign committee_members = site.data.instructors | where: "steering", true | sort: "surname" %}
+{%- for member in committee_members -%}
+{{ member.name }} ({{ member.affiliation }})<br>
+{%- endfor %}
 
 ### Local organizing team
 Rudy Chaulet<br>
@@ -40,20 +28,9 @@ Frédéric Spagnoli
 
 
 ### Scientific Committee
-Isuri Anuradha (Lancaster University/CLARIN Trainer's network)
-Alejandro Bia (Miguel Hernández University, Spain)<br>
-Elisabeth Burr (Em. prof. University of Leipzig, founder of the ESU)<br>
-Rudy Chaulet (University Marie and Louis Pasteur, France)<br>
-Carol Chiodo (The Claremont Colleges, USA)<br> 
-Alexandra Cotoc (Babeş-Bolyai University, Romania)<br>  
-Yael Netzer (Hebrew University, Israel)<br> 
-Voica Pușcașiu (Babeş-Bolyai University, Romania)<br> 
-Artjoms Šeļa (Czech Academy of Sciences, Czech Republic)<br>
-Frédéric Spagnoli (University Marie and Louis Pasteur, France) 
-Lauren Tilton (University of Richmond, USA)<br> 
-Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines, France)<br>
-David Wrisley (NYU Abu Dhabi, UAE)
 
-
-
-
+{% assign sorted_instructors = site.data.instructors | sort: "surname" %}
+{%- for person in sorted_instructors -%}
+{%- if person.hidden -%} {%- continue -%} {%- endif -%}
+{{ person.name }} ({{ person.affiliation }})<br>
+{%- endfor -%}
