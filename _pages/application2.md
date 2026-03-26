@@ -29,6 +29,10 @@ The fees include tuition (workshops and lectures), teaching material, delegate b
 Fees do not cover travel, accommodation and other subsistence costs.
 
 The fees vary according to the different status of the participants:
+<<<<<<< HEAD
+
+=======
+>>>>>>> 3f46e6923a29bc2d3e2c6efba65ed42090905c5b
 - Master and PhD students with no employment & no scholarship, from Université Marie et Louis Pasteur and official partner universities (Stars EU Alliance, Erasmus and Inter-University Agreements)	460 €
 - Young scholars from Université Marie et Louis Pasteur and official partner universities*	575 €
 - Faculty / staff from Université Marie et Louis Pasteur and official partner universities	800 €
@@ -38,4 +42,8 @@ The fees vary according to the different status of the participants:
 - Staff of a commercial organisation / institutions	1800 €
 
 *For example, students pursuing a doctoral or postdoctoral degree who are hired on non-tenure-track positions or receive scholarships to found their research.	
+<<<<<<< HEAD
 [Top](https://esudh.github.io/application/)
+=======
+
+[
