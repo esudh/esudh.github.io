@@ -2,27 +2,24 @@
 permalink: /esutwoweeks/
 title: "What will happen during these two weeks?"
 toc: true
-toc_label: "Two weeks of ESU DH 25"
+toc_label: "Two weeks of ESU DH 26"
 toc_sticky: true
 toc_icon: "calendar"
 ---
 
 ## Programme
-The ESU DH 2025 in Besançon will be composed of workshops, teaser sessions, presentations of posters, projects and workshops results, conferences as well as cultural events. 
-Please find [here](https://drive.google.com/file/d/1GwQVLiqLhyU3r2hP0wPERxubX6OLZc7y/view?usp=drive_link) the updated programme.
+The ESU DH 2026 in Besançon will be composed of workshops, teaser sessions, presentations of posters, projects and workshops results, conferences as well as cultural events. 
+Have a look at the [programme from 2025](https://drive.google.com/file/d/1GwQVLiqLhyU3r2hP0wPERxubX6OLZc7y/view?usp=drive_link) to get an idea of what awaits you.
+This year's programme will be posted here later.
 
 ## Venues
-The ESU DH 2025 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand, except Saturday 26 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand. Rooms will be indicated at the beginning of the ESU.<br>
+The ESU DH 2026 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand, except Saturday 26 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand. Rooms will be indicated at the beginning of the ESU.<br>
 For you to feel some of the atmosphere of Besançon, the various culinary and cultural events will take place throughout the city.
 
-## Where are the participants from? 
-The 2025 edition gathered people from all over the world.
-The following [map](https://umap.openstreetmap.fr/fr/map/esu-2025_1264546#3/) shows where the participants are coming from, have a look!
-
-
 ## Conferences
+To be announced.
 
-### Bridging Digital Humanities and Cultural Heritage: Key Insights from CLARIN, ATRIUM, and ECHOES 
+<!-- ### Bridging Digital Humanities and Cultural Heritage: Key Insights from CLARIN, ATRIUM, and ECHOES 
 Tuesday 22 July, 4.30 - 6.30 pm
 
 This session provides an overview of three key initiatives relevant to the digital humanities and cultural heritage fields. 
@@ -71,5 +68,9 @@ More details to come soon.
 Monday 28 July, 4 pm - 6 pm<br>
 Sara Mansutti (University of Cork / ReadCoop)<br>
 
-Two hours of talks and Q&As on the various possible uses of Transkribus.
+Two hours of talks and Q&As on the various possible uses of Transkribus. -->
 
+## Where are the participants from? 
+The 2025 edition gathered people from all over the world.
+The following [map](https://umap.openstreetmap.fr/fr/map/esu-2025_1264546#3/) shows where the participants came from last year, have a look!
+How about this year?

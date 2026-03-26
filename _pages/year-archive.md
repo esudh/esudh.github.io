@@ -15,7 +15,7 @@ Our partner DARIAH, the pan-European Digital Research Infrastructure for the Art
 ### EADH scholarships
 The [European Association of Digital Humanities (EADH)](https://eadh.org/) offers five scholarships of €500 each to partially offset registration and accommodation costs in Besançon. These scholarships will prioritize students with no or limited access to institutional funding.
 Applications can be submitted until May 24 using [ConfTool](https://www.conftool.org/esudh2026/). 
-Selected applicants will receive a confirmation by the end of May (together with the confirmation of ESU participation).
+Selected applicants will receive a confirmation by the end of May.
 
 ### Stars EU European University Alliance 
 Applicants coming from universities from Stars EU, the alliance to which the university Marie and Louis Pasteur belongs with, namely, Hanze University of Applied Sciences (Netherlands), the University of La Laguna (Spain), Bragança Polytechnic University (Portugal), Hochschule Bremen University of Applied Sciences (Germany), Silesian University in Opava (Czechia), University West (Sweden), Cracow University of Technology (Poland) and Aleksandër Moisiu University of Durrës (Albania) may most probably get support from their own university. They are strongly advised to enquire about such support.
