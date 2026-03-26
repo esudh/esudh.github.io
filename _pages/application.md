@@ -38,4 +38,4 @@ The fees vary according to the different status of the participants:
 - Staff of a commercial organisation / institutions	1800 €
 
 *For example, students pursuing a doctoral or postdoctoral degree who are hired on non-tenure-track positions or receive scholarships to found their research.	
-[Top](https://esudh.github.io/application/)
+[Top]({{ '/application/' | relative_url }})
