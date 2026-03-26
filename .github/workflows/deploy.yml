@@ -1,4 +1,13 @@
-id-token: write
+name: Deploy Jekyll with dynamic baseurl
+
+on:
+  push:
+    branches: ["master"] # Ensure this matches your branch name (master or main)
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
