@@ -1,4 +1,4 @@
-  id-token: write
+id-token: write
 
 jobs:
   build:
