@@ -31,6 +31,7 @@ Participants comming from EU as well as non-EU partner universities will get a s
 There are also funding possibilities through the various local and national associations involved in DH. 
 
 [Top](https://esudh.github.io/ScholarshipsandFunding/)
+[See also]({{ '/application/' | relative_url }})
 
 <!--
 ### Transkribus scholarships
