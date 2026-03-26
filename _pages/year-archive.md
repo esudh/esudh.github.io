@@ -9,8 +9,13 @@ toc_icon: "calendar"
 There are many possibilities of supporting your participation to the ESU, direct and indirect. In the following lines, we will present you the various funding possibilities that are offered to you. 
 You are also strongly advised to inform yourselves about support for further education, qualification, specialisation, professionalisation available at your own universities or in your country (associations) in general. 
 
-### The DARIAH scholarships
-Our partner DARIAH, the pan-European Digital Research Infrastructure for the Arts and Humanities, will offer 12 scholarships of 450 Euros each to cover the costs of applicants coming to Besançon. To apply to the scholarship, applicants will be asked to specify in a specific letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. You may refer to it also in your application letter. 
+<!-- ### The DARIAH scholarships
+Our partner DARIAH, the pan-European Digital Research Infrastructure for the Arts and Humanities, will offer 12 scholarships of 450 Euros each to cover the costs of applicants coming to Besançon. To apply to the scholarship, applicants will be asked to specify in a specific letter that they apply for the DARIAH scholarship and to explain how the scholarship will help them joining the ESU. You may refer to it also in your application letter. -->
+
+### EADH scholarships
+The [European Association of Digital Humanities (EADH)](https://eadh.org/) offers five scholarships of €500 each to partially offset registration and accommodation costs in Besançon. These scholarships will prioritize students with no or limited access to institutional funding.
+Applications can be submitted until May 24 using [ConfTool](https://www.conftool.org/esudh2026/). 
+Selected applicants will receive a confirmation by the end of May.
 
 ### Stars EU European University Alliance 
 Applicants coming from universities from Stars EU, the alliance to which the university Marie and Louis Pasteur belongs with, namely, Hanze University of Applied Sciences (Netherlands), the University of La Laguna (Spain), Bragança Polytechnic University (Portugal), Hochschule Bremen University of Applied Sciences (Germany), Silesian University in Opava (Czechia), University West (Sweden), Cracow University of Technology (Poland) and Aleksandër Moisiu University of Durrës (Albania) may most probably get support from their own university. They are strongly advised to enquire about such support.
