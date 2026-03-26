@@ -9,6 +9,7 @@ toc_icon: "calendar"
 
 ## ESU 2026 in Besançon, France
 
+The European Summer University in Digital Humanities "Culture and Technology" will take place at the Université Marie et Louis Pasteur in Besançon, France **from 6 to 18 July 2026**. 
 The ESU 2026 will be located within the premises of the [faculty of Humanities](http://slhs.univ-fcomte.fr/) of the [University Marie et Louis Pasteur](https://www.univ-fcomte.fr/){:target="_blank"} (formerly known as the Université de Franche-Comté, created in 1423) in the heart of Besançon. 
 The ESU is organized in Besançon with the help of the teams of two masters in Digital Humanities ("mention Humanités Numériques”), the master [Rare Book and Digital Humanities](https://rare-book-and-digital-humanities.ubfc.fr/) and the master [Valorisation Numérique du Patrimoine Culturel Africain de l’Antiquité à nos Jours (VANUPAAJ)](https://formations.auf.org/home/formation/master-m2-humanites-numeriques-specialite-valorisation-numerique-du-patrimoine-africain-de-lantiquite-a-nos-jours-vanupaaj/) with the support of the [Agence Universitaire de la Francophonie](https://www.auf.org/)
 
