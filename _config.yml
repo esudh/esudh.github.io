@@ -68,7 +68,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ESU DH 2026"
+  name   : "6-18 July 2026"
   avatar : "assets/images/esu2026_217x216.png"
   bio    : "The European Summer University in Digital Humanities 'Culture and Technology'"
   links:
