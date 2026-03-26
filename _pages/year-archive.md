@@ -32,7 +32,8 @@ There are also funding possibilities through the various local and national asso
 
 [Top](https://esudh.github.io/ScholarshipsandFunding/)
 
+<!--
 ### Transkribus scholarships
 Our partner [Transkribus](https://www.transkribus.org/scholarship) will offer 10 scholarships of 3000 credits each. This indirect funding can help you carry out your research. 
 
-[Top](https://esudh.github.io/ScholarshipsandFunding/)
+[Top](https://esudh.github.io/ScholarshipsandFunding/) -->
