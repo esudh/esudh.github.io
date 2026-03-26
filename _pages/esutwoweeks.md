@@ -8,7 +8,7 @@ toc_icon: "calendar"
 ---
 
 ## Programme
-The ESU DH 2026 in Besançon will be composed of workshops, teaser sessions, presentations of posters, projects and workshops results, conferences as well as cultural events. 
+The two weeks of ESU DH 2026 in Besançon, from 6 to 18 July 2026, will be composed of workshops, teaser sessions, presentations of posters, projects and workshops results, conferences as well as cultural events. 
 Have a look at the [programme from 2025](https://drive.google.com/file/d/1GwQVLiqLhyU3r2hP0wPERxubX6OLZc7y/view?usp=drive_link) to get an idea of what awaits you.
 This year's programme will be posted here later.
 
