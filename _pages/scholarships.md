@@ -21,17 +21,22 @@ Selected applicants will receive a confirmation by the end of May.
 Applicants coming from universities from Stars EU, the alliance to which the university Marie and Louis Pasteur belongs with, namely, Hanze University of Applied Sciences (Netherlands), the University of La Laguna (Spain), Bragança Polytechnic University (Portugal), Hochschule Bremen University of Applied Sciences (Germany), Silesian University in Opava (Czechia), University West (Sweden), Cracow University of Technology (Poland) and Aleksandër Moisiu University of Durrës (Albania) may most probably get support from their own university. They are strongly advised to enquire about such support.
 
 [Top](https://esudh.github.io/ScholarshipsandFunding/)
+<span style="margin-right: 3em;"></span>
+[See 'Application']({{ '/application/' | relative_url }})
 
 ### Partners of the university Marie and Louis Pasteur
 Participants comming from EU as well as non-EU partner universities will get a specific rate and are strongly encouraged to ask their International Offices for support. 
 
 [Top](https://esudh.github.io/ScholarshipsandFunding/)
+<span style="margin-right: 3em;"></span>
+[See 'Application']({{ '/application/' | relative_url }})
 
 ### Associations
 There are also funding possibilities through the various local and national associations involved in DH. 
 
 [Top](https://esudh.github.io/ScholarshipsandFunding/)
-[See also]({{ '/application/' | relative_url }})
+<span style="margin-right: 3em;"></span>
+[See 'Application']({{ '/application/' | relative_url }})
 
 <!--
 ### Transkribus scholarships
