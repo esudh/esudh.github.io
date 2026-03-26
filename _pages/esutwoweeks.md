@@ -13,7 +13,9 @@ Have a look at the [programme from 2025](https://drive.google.com/file/d/1GwQVLi
 This year's programme will be posted here later.
 
 ## Venues
-The ESU DH 2026 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand, except Saturday 26 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand. Rooms will be indicated at the beginning of the ESU.<br>
+The ESU DH 2026 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand.
+<!-- except Saturday 26 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand. -->
+Rooms will be indicated at the beginning of the ESU.<br>
 For you to feel some of the atmosphere of Besançon, the various culinary and cultural events will take place throughout the city.
 
 ## Conferences
