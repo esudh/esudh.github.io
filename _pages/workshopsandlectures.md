@@ -30,5 +30,5 @@ toc_icon: "calendar"
 ## Lectures
 
 The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. Representatives from Clarin Trainers' Network as well as from Humanistica have already confirmed their presence.  
-
+ 
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})

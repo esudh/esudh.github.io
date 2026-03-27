@@ -153,23 +153,26 @@
     # Learning outcomes  
     Participants will discover CLARIN’s language resources and gain skills for querying  ParlaMint corpora, including simple and advanced CQL queries. They will learn to analyse  extracted results alongside speaker and text metadata, including sentiment and topic analysis  under the ParlaCAP project. Additionally, they will learn to frame and interpret the results for  various Digital Humanities and Social Sciences research questions, such as comparing  speeches and attitudes of ruling and opposition parties or exploring parliamentary protocol  variations. The techniques taught are transferable to other corpora and concordancers. The  showcases will use ParlaMint-GB containing proceedings from the UK Parliament, and the  machine-translated version of all other ParlaMint corpora into English (Parlamint\_xx\_en) to  ensure all participants can follow queries and discuss results. However, for the hands-on  activities and project work, the participants will be encouraged to use the ParlaMint corpora in  other languages.  
     # Datasets  
-    ParlaMint version 5.0 can be downloaded from the CLARIN.SI repository as a TEI-encoded  corpus, a linguistically marked-up corpus in several formats and a version machine-translated  into English, all with added metadata files. For on-line analysis, different versions of the  ParlaMint corpora are preloaded to various tooks, including noSketch Engine (up to v. 5.0)  and TEITOK (v. 4.1).  
+    ParlaMint version 5.0 can be downloaded from the [CLARIN.SI repository](https://www.clarin.si/repository/xmlui/) as [a TEI-encoded corpus](http://hdl.handle.net/11356/2004), [a linguistically marked-up corpus](http://hdl.handle.net/11356/2005) in several formats and [a version machine-translated into English](http://hdl.handle.net/11356/2006), all with added metadata files. For on-line analysis, different versions of the ParlaMint corpora are preloaded to various tooks, including [noSketch Engine](https://www.clarin.si/ske/#open) (up to v. 5.0) and [TEITOK](https://lindat.mff.cuni.cz/services/teitok/parlamint-41/index.php?action=home) (v. 4.1).  
     # Teaching materials 
-    Digital textbook    
-    Pahor de Maiti Tekavčič, K., & Kryvenko, A. (2026). From the dispatch box: Unlocking the  potential of ParlaMint through noSketch Engine and TEITOK (Ed. 1.0) \[E book\].  Inštitut za novejšo zgodovino / Institute of Contemporary History.  
-       
-    Other ParlaMint tutorials including    
-    Parliamentary Speech Analysis with ParlaMint  
-    CLARIN’s tutorials    
-    Introduction to CLARIN    
-    Introduction to Language Data: Standards and Repositories 
+    Digital textbook
+    * Pahor de Maiti Tekavčič, K., & Kryvenko, A. (2026). [From the dispatch box: Unlocking the potential of ParlaMint through noSketch Engine and TEITOK](https://sidih.github.io/DispatchBox/index.html) (Ed. 1.0) [E book]. Inštitut za novejšo zgodovino / Institute of Contemporary History.
+
+    Other ParlaMint tutorials including
+    * [Parliamentary Speech Analysis with ParlaMint](https://github.com/clarinsi/ParlaCAP-Analysis-Tutorials/tree/main?tab=readme-ov-file)
+
+    CLARIN’s tutorials
+    * [Introduction to CLARIN](https://www.clarin.eu/content/intro-clarin-tutorial)
+    * [Introduction to Language Data:  Standards and Repositories](https://www.clarin.eu/content/introduction-language-data-standards-and-repositories-0)
+    
     Further reading (optional): selected chapters / sections from academic publications, including  below, will be provided by the instructor:  
-    Gillings, M., Mautner, G., & Baker, P. (2023). Corpus-Assisted Discourse Studies.  Cambridge: Cambridge University Press.  
-    Korhonen, M., Kotze, H. & Tyrkkö, J. (2023). Exploring Language and Society with Big  Data: Parliamentary discourse across time and space. John Benjamins Publishing  Company.  
-    Brezina, V. (2018). Statistics in Corpus Linguistics: A Practical Guide. Cambridge:  Cambridge University Press.  
+    * Gillings, M., Mautner, G., & Baker, P. (2023). Corpus-Assisted Discourse Studies.  Cambridge: Cambridge University Press.  
+    * Korhonen, M., Kotze, H. & Tyrkkö, J. (2023). Exploring Language and Society with Big  Data: Parliamentary discourse across time and space. John Benjamins Publishing  Company.  
+    * Brezina, V. (2018). Statistics in Corpus Linguistics: A Practical Guide. Cambridge:  Cambridge University Press.  
+    
     # Technical requirements  
     Organisers should provide an LCD projector with a HDMI output, WIFI and some  power extension cords for the participants.  
-    Participants should bring their own laptops. Participants are also advised to create a  free personal account at https://www.clarin.si/skelog prior to the beginning of the workshop.  
+    Participants should bring their own laptops. Participants are also advised to create a  free personal account at [https://www.clarin.si/skelog](https://www.clarin.si/skelog)  prior to the beginning of the workshop.  
     
     # Brief course timeline  
     
@@ -225,7 +228,7 @@
     * Course feedback  
     
     # Acknowledgement    
-    The creation of this course was supported by Horizon Europe via the OSCARS Open Science  cascading grant project Comparing agenda settings across parliaments via the ParlaMint  dataset (ParlaCAP) (2025 – 2026), and the Slovenian Research Agency via the research  programme P6-0436 Digital Humanities: resources, tools and methods (2022-2027) and the  research project J6-60112 Parliament in the Age of Europeanisation: the Czech Republic and  Slovenia (ParlAgE) (2025-2028).  
+    The creation of this course was supported by Horizon Europe via the OSCARS Open Science cascading grant project [Comparing agenda settings across parliaments via the ParlaMint dataset (ParlaCAP)](https://clarinsi.github.io/parlacap/) (2025 – 2026), and the Slovenian Research Agency via the research programme P6-0436 [Digital Humanities: resources, tools and methods](https://dihur.inz.si/) (2022-2027) and the research project J6-60112[ Parliament in the Age of Europeanisation: the Czech Republic and Slovenia (ParlAgE) ](https://inz.si/en/projekt/parliament-in-the-age-of-europeanisation/)(2025-2028).
 
 - id: stylometry
   title: "Introduction to Stylometry"  
