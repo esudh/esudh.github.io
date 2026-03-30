@@ -90,11 +90,19 @@
     - "Alejandro Bia"
   duration: "both weeks"
   abstract: |
-    In this workshop, you’re going to learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub.  Additionally, you will discover how to manage document structure to normalize large collections and how to render and transform documents automatically using technologies such as CSS, XPath, and XSLT.  We will also explore how the most recent AI tools can help us perform some of these tasks.  
+    In this workshop, you will learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub. You will also explore how to manage document structures to normalize large collections, and how to automatically render and transform documents using technologies such as CSS, XPath, and XSLT.
+    Additionally, we will dive into the latest AI tools (such as ChatGPT, Copilot, and Gemini), and explore how they can assist with various document-related tasks. You will learn the best practices of Prompt Engineering to achieve the best results from generative AI.
+    We will examine the practical applications of AI for tasks like automatic translation, proofreading, summarizing, content creation, automatic markup, and code generation.
+    We will also explore how NotebookLM can enhance your research capabilities and automate repetitive tasks. 
   syllabus: |
-    In this workshop, you’re going to learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub.  Additionally, you will discover how to manage document structure to normalize large collections and how to render and transform documents automatically using technologies such as CSS, XPath, and XSLT.  We will also explore how the most recent AI tools can help us perform some of these tasks.  This workshop comprises two parts: 
-    **Week 1: Introduction to XML-based technologies for text encoding** deals with producing digital text documents using XML vocabularies like TEI and HTML, as well as related technologies (ePub, Markdown, etc.).  This is a hands-on, introductory-level course. We will also introduce AI tools like ChatGPT to be used as an aid in document processing. 
-    **Week 2: XML-TEI document structuring and rendering** deals with designing and validating document structures, as well as producing polished renderings through CSS stylesheets and XSLT transformations.  This is a hands-on, medium-high level course. 
+    In this workshop, you will learn how to create documents using XML-based encoding schemes like TEI, HTML, and ePub. You will also explore how to manage document structures to normalize large collections, and how to automatically render and transform documents using technologies such as CSS, XPath, and XSLT.
+    Additionally, we will dive into the latest AI tools (such as ChatGPT, Copilot, and Gemini), and explore how they can assist with various document-related tasks. You will learn the best practices of Prompt Engineering to achieve the best results from generative AI.
+    We will examine the practical applications of AI for tasks like automatic translation, proofreading, summarizing, content creation, automatic markup, and code generation.
+    We will also explore how NotebookLM can enhance your research capabilities and automate repetitive tasks.   
+    ## Week 1: Introduction to XML-Based Technologies for Text Encoding**
+    In this introductory week, we will explore the creation of digital text documents using XML-based vocabularies such as TEI and HTML, as well as related technologies like ePub and Markdown. These hands-on sessions will provide you with foundational knowledge in text encoding, document creation, and the design and validation of document structures. Additionally, we will introduce AI tools such as ChatGPT, Copilot, and Gemini, and discuss how they can assist in the document creation and processing workflow.
+    ## Week 2: XML-TEI Document Rendering and XML Data Processing**
+    This week focuses on producing polished document renderings using CSS stylesheets and XSLT transformations to other formats. We will also explore the power of advanced AI tools like NotebookLM to enhance your research workflows and demonstrate how XML can serve as a robust open data format for research purposes. These sessions will be hands-on and cater to participants with a medium to high level of expertise. 
 
 - id: distant-reading
   title: "Distant Reading in R. Analyse the text & visualize the data"
