@@ -50,14 +50,14 @@
   url: ""
 
 - name: "Voica Pușcașiu"
-  surname: "Pușcașiu"
+  surname: "Puscasiu"
   affiliation: "Babeș-Bolyai University Cluj-Napoca, Romania"
   bio: |
     Voica Pușcașiu is a Lecturer in Modern and Contemporary Art History at Babeș-Bolyai University Cluj-Napoca and is determined to broaden the classical curricula towards methods belonging to the Digital Humanities. Her main research interests are sociological approaches to art in public spaces and conceptualizing through data visualization, particularly digital interactive cartography.
   url: ""
 
 - name: "Artjoms Šeļa"
-  surname: "Šeļa"
+  surname: "Seļa"
   hidden: true
   steering: true
   affiliation: "Czech Academy of Sciences, Czech Republic"
@@ -115,7 +115,7 @@
   url: ""
 
 - name: "Mariusz Sozański"
-  surname: "Sozański"
+  surname: "Sozanski"
   affiliation: "Polish Air Navigation Services Agency, Poland"
   bio: |
     Mariusz Sozański is a DevOps expert with a background in computational physics. He currently works as Lead DevOps Architect at the Polish Air Navigation Services Agency, where he designs and oversees scalable, containerized infrastructures for complex distributed systems. With over twenty years of professional experience, he specializes in DevOps practices, Kubernetes-based architectures, and reproducible, cloud-native environments. He has worked in multidisciplinary, geographically distributed teams across Europe and the United States, contributing as an IT consultant, architect, and technical trainer. His expertise includes designing resilient infrastructures, implementing CI/CD pipelines, and ensuring operational reliability and scalability in high-demand environments. He regularly collaborates with international stakeholders and clients in English, Italian, Russian, and Polish.
