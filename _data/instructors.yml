@@ -154,13 +154,15 @@
   url: ""
   
 - name: "Elisabeth Burr"
+  surname: "Burr"
   hidden: true
   steering: true
-  affiliation: "Em. prof. University of Leipzig, founder of the ESU"
+  affiliation: "*honorary member*; Em. prof. University of Leipzig, founder of the ESU"
   bio: |
   url: ""
 
 - name: "Alexandra Cotoc"
+  surname: "Cotoc"
   hidden: true
   steering: true
   affiliation: "Babeş-Bolyai University, Romania"
@@ -168,6 +170,7 @@
   url: ""
 
 - name: "Frédéric Spagnoli"
+  surname: "Spagnoli"
   hidden: true
   steering: true
   affiliation: "University Marie et Louis Pasteur, France"
