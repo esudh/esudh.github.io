@@ -74,7 +74,7 @@
   title: "Digital Curation and Cultural Heritage"
   instructors: 
     - "Carol Chiodo"
-  duration: "one week"
+  duration: "1st week"
   abstract: |
     The large-scale digitization of cultural heritage, emerging forms of born-digital collections and archives, and the new ways in which researchers across disciplines engage with these materials are challenging traditional theories and practices in cultural heritage.  They also present new opportunities for practitioners and researchers working with digitized collections and archival materials by expanding the means of discovery, engagement, and stewardship.  These opportunities include the application of computational tools and methods, integrating computational analysis with traditional cultural heritage curation methods. 
     This workshop will introduce digital curation as it pertains to the cultural heritage sector, understood as the selection, acquisition, preservation, maintenance, and delivery of digital data derived from objects held by libraries and museums.  We will examine the intersection of emerging computational and analytical methods and technologies with museum collections, rare books and archival holdings while weighing the advantages and disadvantages for historical, social, scientific, and cultural research engagement with these materials. 
@@ -242,7 +242,7 @@
   title: "Introduction to Stylometry"  
   instructors: 
     - "Jeremi Ochab"
-  duration: "one week"
+  duration: "1st week"
   abstract: |
     You may have heard that computational text analysis for digital humanities and cultural analytics is fun. We assure you it’s not: it’s a grim endeavour that can easily go wrong really quickly and requires patience, expertise and making responsible choices. In this one-week course, we offer a comprehensive survival guide to multivariate text analysis with R, where we start with the basics of counting words and spend a lot of time on fundamentals: text representation, calculation of differences and similarities, vector manipulations, unsupervised and supervised methods of text classification. We will guide you through the user-friendly interface of `stylo` software to introduce important concepts and operations. Then, we will show you how to expand on that: understand the workflow, design your own research, discuss real-world studies and run simple replication experiments.
   syllabus: |
