@@ -9,7 +9,7 @@ toc_icon: "calendar"
 ## Application guidelines
 Applications can be submitted from March 23 to May 24 using [ConfTool](https://www.conftool.org/esudh2026/). When applying, a curriculum vitae and a letter of motivation (500-700 words) is to be uploaded as one PDF-file. In their motivation letter applicants should a) indicate their research interests, b) specify the workshop(s) of their choice (max. three priorities) c) justify their choice by explaining their hopes and expectations. In the Conftool platform, applicants will be asked to indicate a maximum of three workshops of their choices with an order of priority. 
 
-As the selection of participants is made by the Scientific Committee together with the experts who lead the workshops, the CV and the letter of motivation are to be presented in English. As the Summer University is supposed to be multilingual the curriculum needs to contain information about the knowledge of languages.
+As the selection of participants is made by the Scientific Committee, which includes the experts who lead the workshops, and the Steering Commitee, the CV and the letter of motivation are to be presented in English. As the Summer University is supposed to be multilingual the curriculum needs to contain information about the knowledge of languages.
 
 Preference will be given to students and scholars of the Humanities and Social Sciences who are planning, or are already involved with, a technology-based research project  and describe this project in a qualified way in their motivation letter.
 
