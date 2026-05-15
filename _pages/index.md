@@ -24,6 +24,10 @@ Learn more about the ESU [here]({{ '/about/' | relative_url }}){:target="_blank"
 
 The [applications]({{ '/application/' | relative_url }}) are open **from March 23 to May 24**. We will all be very happy to welcome you in Besançon! Check back for more details and do not hesitate to contact us!
 
-We are greatful to our partners and supporters of the school:
+<<<<<<< Updated upstream
+We greatfully acknowledge the financial support of the following institutions:
+=======
+We are grateful to our partners and supporters of the school:
+>>>>>>> Stashed changes
 
 {% include gallery layout="half" %}
