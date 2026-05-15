@@ -177,4 +177,11 @@
   bio: |
   url: ""
 
+- name: "Marion Benkaiouche"
+  surname: "Benkaiouche"
+  hidden: true
+  steering: true
+  affiliation: "*student representative*; Simon Fraser University, Canada"
+  bio: |
+  url: ""
 
