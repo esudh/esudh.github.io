@@ -24,8 +24,7 @@ Learn more about the ESU [here]({{ '/about/' | relative_url }}){:target="_blank"
 
 <<<<<<< HEAD
 The [applications]({{ '/application/' | relative_url }}) are open **from March 23 to May 31**, the deadline has been extended for one week! We will all be very happy to welcome you in Besançon! Check back for more details and do not hesitate to contact us!
-=======
-The [applications]({{ '/application/' | relative_url }}) are open **from March 23 to May 24**. We will all be very happy to welcome you in Besançon! Check back for more details and do not hesitate to contact us!
+
 
 We are grateful to our partners and supporters of the school:
 
