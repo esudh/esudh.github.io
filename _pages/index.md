@@ -15,6 +15,13 @@ gallery:
   - url: https://www.humanisti.ca/
     image_path: /assets/images/humanistica-logo.gif
     alt: "Humanistica, Association francophone des humanités numériques/digitales"
+- url: https://univ-fcomte.fr
+    image_path: /assets/images/logo-ista.png
+    alt: ""
+- url: https://www.umlp.fr/
+    image_path: /assets/images/logo-uni-pasteur.png
+    alt: ""
+	
 ---
 
 The European Summer University in Digital Humanities "Culture and Technology" will take place at the Université Marie et Louis Pasteur in Besançon, France **from 6 to 18 July 2026**. 
@@ -28,4 +35,3 @@ The [applications]({{ '/application/' | relative_url }}) are open **from March 2
 We are grateful to our partners and supporters of the school:
 
 {% include gallery layout="half" %}
->>>>>>> 7e434787428b4f46f390ec68f21d5f8b645c8f15
