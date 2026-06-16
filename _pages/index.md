@@ -17,7 +17,7 @@ gallery:
     alt: "Humanistica, Association francophone des humanités numériques/digitales"
 - url: https://univ-fcomte.fr
     image_path: /assets/images/logo-ista.png
-    alt: ""
+    alt: "Université Marie et Louis Pasteur"
 - url: https://www.umlp.fr/
     image_path: /assets/images/logo-uni-pasteur.png
     alt: "Université Marie et Louis Pasteur"
