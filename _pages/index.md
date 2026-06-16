@@ -21,7 +21,6 @@ gallery:
 - url: https://www.umlp.fr/
     image_path: /assets/images/logo-uni-pasteur.png
     alt: ""
-	
 ---
 
 The European Summer University in Digital Humanities "Culture and Technology" will take place at the Université Marie et Louis Pasteur in Besançon, France **from 6 to 18 July 2026**. 
