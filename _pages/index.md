@@ -15,7 +15,7 @@ gallery:
   - url: https://www.humanisti.ca/
     image_path: /assets/images/humanistica-logo.gif
     alt: "Humanistica, Association francophone des humanités numériques/digitales"
-- url: https://univ-fcomte.fr
+- url: https://ista.fr
     image_path: /assets/images/logo-ista.png
     alt: "Université Marie et Louis Pasteur"
 - url: https://www.umlp.fr/
