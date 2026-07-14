@@ -9,7 +9,7 @@ toc_icon: "calendar"
 
 ## Programme
 The two weeks of ESU DH 2026 in Besançon, from 6 to 18 July 2026, will be composed of workshops, teaser sessions, presentations of posters, projects and workshops results, conferences as well as cultural events. 
-Please find here the [updated programme](https://drive.google.com/file/d/1mTvbe-mLG1H_nBXoOpPv_F1haNm_kTJd/view?usp=drive_link)
+Please find here the [updated programme](https://drive.google.com/file/d/1xGJYIdTUVphAOJyFJceIb1NO0aqRvWz1/view?usp=sharing)
 
 ## Venues
 The ESU DH 2026 will take place at the [UFR SLHS](http://slhs.univ-fcomte.fr/) in the heart of Besançon, at the 32, rue Mégevand, except Saturday 11 July when we will be in the nearby [Espace Grammont](https://www.espacegrammont.fr/) located 20, rue Mégevand. -->
