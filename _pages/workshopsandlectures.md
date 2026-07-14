@@ -31,10 +31,10 @@ toc_icon: "calendar"
 
 The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. Representatives from Clarin Trainers' Network as well as from Humanistica have already confirmed their presence. 
 
-### Wednesday 8 July 
-4.30PM Grand Salon
 
-Studying dynastic and professional networks: Strict and Reliable LLM Workflows with SQL / Rosenn Nicolas (University of Galway)
+
+### Studying dynastic and professional networks: Strict and Reliable LLM Workflows with SQL / Rosenn Nicolas (University of Galway)
+Wednesday 8 July 4.30PM Grand Salon <br>
 
 How can we examine the influence of a group of publishers’ dynastic and professional network on their editorial choices?
 Using the example of the Gabiano-Laporte dynasty of Lyon in the 16th century and their publications, this presentation introduces a technical methodology for the study of the history of the book. Indeed, it enables the analysis of a large corpus, the identification of family and professional relationships, and the quantitative analysis of book production. This involves using digital tools such as databases, SQL, JavaScript and LLMs. In this way, it is possible to answer a historical question using digital tools.<br>
@@ -42,11 +42,13 @@ Rosenn is a PhD student on the REBPAF project, funded by a European Marie Curie 
  
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})
 
-### Friday 10 July 4.30PM Grand Salon<br>
-Voices as Data: AI in Computational Phonetics / Katarzyna Foremniak (Roche, Poland), Mariusz Sozański (Polish Air Navigation Services Agency, Poland)<br>
 
-From Data to Engagement: digital mediation of cultural heritage / Chiara Zuanni (University for Continuing Education Krems / Chair of EADH)<br>
+### Voices as Data: AI in Computational Phonetics / Katarzyna Foremniak (Roche, Poland), Mariusz Sozański (Polish Air Navigation Services Agency, Poland)<br>
+Friday 10 July 4.30PM Grand Salon<br>
+Abstract and bio, see the workshop description<br>
 
+### From Data to Engagement: digital mediation of cultural heritage / Chiara Zuanni (University for Continuing Education Krems / Chair of EADH)<br>
+Friday 10 July 5.15PM Grand Salon<br>
 This conference will focus on digital engagement with cultural heritage. It will discuss how digital methods do not only support research, but also the mediation of heritage collections to audiences on site and online. It will highlight the importance of understanding different users and audiences, offering an overview of engagement approaches (incl. storytelling and gamification) and possible digital methods (e.g. online portals, mobile and web applications, eXtended Reality). The contribution will briefly cover evaluation and digital audience research, as well as ethical questions that emerge in sharing and fostering reuse of digital heritage in the public sphere.<br>
  
 Bio:<br>
@@ -54,14 +56,14 @@ Chiara Zuanni is a full professor of Digital Cultures and Digital Humanities at 
 
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})
 
-### Monday 13 July, 4.30PM Grand Salon 
-ParlaMint / Anna Kryvenko (Institute of Contemporary History, Slovenia/ Clarint)<br>
+### ParlaMint / Anna Kryvenko (Institute of Contemporary History, Slovenia/ Clarint)<br>
+Monday 13 July, 4.30PM Grand Salon<br>
 Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues. The debates are commonly recorded as open-access digital proceedings enriched with metadata. These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period. Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK. All data and tools are open access and can be used free of charge. Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration. Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure.
  
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})
 
-### Wednesday 15 July, 4.30PM Grand Salon
-RayuelaParis: A Literary Journey Through Paris in Hopscotch with Python / Juan Pablo Chaclan<br>
+### RayuelaParis: A Literary Journey Through Paris in Hopscotch with Python / Juan Pablo Chaclan<br>
+Wednesday 15 July, 4.30PM Grand Salon
 
 RayuelaParis is a digital humanities project that investigates how literary space can be extracted, structured, and visualized from narrative texts.
 Focusing on Julio Cortázar’s Hopscotch, this talk outlines a workflow using Python to identify location references, normalize place names, and geocode them into spatial data. Using tools such as Geocoder and Folium, the project creates interactive maps linking textual excerpts to real locations, offering a transferable approach for spatial humanities research.<br>
