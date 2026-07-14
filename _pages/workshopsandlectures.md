@@ -27,11 +27,11 @@ toc_icon: "calendar"
 
 {% endfor %}
 
-### Lectures
+## Lectures
 
 The ESU also represents the opportunity to listen to conferences on various topics of Digital Humanities. Representatives from Clarin Trainers' Network as well as from Humanistica have already confirmed their presence. 
 
-## Wednesday 8 July 
+### Wednesday 8 July 
 4.30PM Grand Salon
 
 Studying dynastic and professional networks: Strict and Reliable LLM Workflows with SQL / Rosenn Nicolas (University of Galway)
@@ -42,7 +42,7 @@ Rosenn is a PhD student on the REBPAF project, funded by a European Marie Curie 
  
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})
 
-## Friday 10 July 4.30PM Grand Salon<br>
+### Friday 10 July 4.30PM Grand Salon<br>
 Voices as Data: AI in Computational Phonetics / Katarzyna Foremniak (Roche, Poland), Mariusz Sozański (Polish Air Navigation Services Agency, Poland)<br>
 
 From Data to Engagement: digital mediation of cultural heritage / Chiara Zuanni (University for Continuing Education Krems / Chair of EADH)<br>
@@ -54,13 +54,13 @@ Chiara Zuanni is a full professor of Digital Cultures and Digital Humanities at 
 
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})
 
-## Monday 13 July, 4.30PM Grand Salon 
+### Monday 13 July, 4.30PM Grand Salon 
 ParlaMint / Anna Kryvenko (Institute of Contemporary History, Slovenia/ Clarint)<br>
 Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues. The debates are commonly recorded as open-access digital proceedings enriched with metadata. These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period. Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK. All data and tools are open access and can be used free of charge. Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration. Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure.
  
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})
 
-## Wednesday 15 July, 4.30PM Grand Salon
+### Wednesday 15 July, 4.30PM Grand Salon
 RayuelaParis: A Literary Journey Through Paris in Hopscotch with Python / Juan Pablo Chaclan<br>
 
 RayuelaParis is a digital humanities project that investigates how literary space can be extracted, structured, and visualized from narrative texts.
@@ -71,7 +71,7 @@ Juan-Pablo Chaclan is a software engineer, IT consultant, and educator passionat
 
 [Top]({{ '/WorkshopsandLectures/' | relative_url }})
 
-## Thursday 16 July 4.30PM Grand Salon<br>
+### Thursday 16 July 4.30PM Grand Salon<br>
 Elisabeth Burr (Emeritus professor University of Leipzig, founder of the ESU), Title and abstract to be announced<br>
 Bio:<br>
 Elisabeth Burr (*1952), emeritus professor of Leipzig university, studied Romance, English and German literature and linguistics at the universities of Tübingen, Leeds and Amiens from 1971 to 1980. After having spent more than 5 years in Naples (Italy) as a lecturer for the German Academic Exchange Service she took up a post in the Italian Department at Duisburg University where she was awarded a PhD in 1991 for her dissertation on Verb and Variety, a study of Italian newspaper language for which she had created a marked-up corpus. In 1997 she concluded her 'Habilitation' (post-doctoral monograph) on Repeated Discourse and idiomatic competence based on her corpus of French, Italian and Spanish newspapers. Temporary professorships of Romance linguistics brought her to the universities of Cologne, Siegen, Bremen and Marburg. In 2005 she was offered the Chair of French, Francophone and Italian linguistics at Leipzig University, which she held until her retirement in 2019.Her research, teaching and main publications, embedded over the years more and more in a Digital Humanities perspective, focus on the history of the description and conceptualisation of Romance languages, corpus linguistics & and linguistics of parole (corpus-design, -theory, -markup and -analysis included), the construction of gender in language science, in grammars and language usage, as well as multilinguality in digital, urban, scientific and scholarly spaces. 
