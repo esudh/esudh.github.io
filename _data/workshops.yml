@@ -148,7 +148,7 @@
   title: "Big Data in the Chamber: Corpus-Assisted Studies of Parliamentary Discourse Across Time and Space"
   instructors: 
     - "Anna Kryvenko"
-  duration: "both weeks"
+  duration: "~~both weeks~~ (Cancelled)"
   abstract: |
     Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues.  The debates are commonly recorded as open-access digital proceedings enriched with metadata.  These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. 
     This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period.  Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. 
@@ -263,7 +263,7 @@
   instructors: 
     - "Katarzyna Foremniak"
     - "Mariusz Sozański"
-  duration: "both weeks"
+  duration: "~~both weeks~~ (Cancelled)"
   abstract: |
     While Digital Humanities has extensively explored textual and visual sources, the computational analysis of speech and vocal performance remains underrepresented.  This two-week workshop introduces voice as structured cultural data and critically examines how AI technologies mediate access to vocal heritage. 
     Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
