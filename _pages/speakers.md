@@ -14,7 +14,7 @@ toc_icon: "calendar"
 ### {{ person.name }}
 ({{ person.affiliation }})
 
-{%- comment -%} Find the one workshop taught by this person {%- endcomment -%}
+{%- comment -%} Find the one lecture taught by this person {%- endcomment -%}
 {% assign lecture = site.data.lectures | where_exp: "item", "item.speakers contains person.name" | first %}
 
 {% if lecture %}
