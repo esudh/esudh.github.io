@@ -42,6 +42,8 @@ The ESU also represents the opportunity to listen to conferences on various topi
 {%- endfor -%}<br>
 **Time:** {{ lecture.when }}<br>
 **Abstract:**
-{{ workshop.abstract | markdownify }}
+{{ lecture.abstract | markdownify }}
 
 [Top]({{ page.url | relative_url }})
+
+{% endfor %}
