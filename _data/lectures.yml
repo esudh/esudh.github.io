@@ -1,0 +1,54 @@
+- id: parliamentary-discourse
+  title: "ParlaMint"
+  speakers: 
+    - "Anna Kryvenko"
+  when: "Monday 13 July, 4.30PM Grand Salon"
+  abstract: |
+    Parliaments are pivotal institutions in democracies, shaping policies that impact citizens by deliberating critical societal issues.  The debates are commonly recorded as open-access digital proceedings enriched with metadata.  These records are valuable for researchers exploring political, societal, historical, cultural or communicational dynamics in fields such as linguistics, discourse analysis, political science, history, sociology, gender studies as well as for various teaching contexts. 
+    This workshop takes advantage of the interoperability and comparability of the ParlaMint corpora containing parliamentary proceedings from 26 national and 3 regional parliaments across Europe at least between 2015 and 2022, although several ParlaMint corpora include data spanning a much longer period.  Available in the original languages and machine-translated to English, the corpora also feature metadata on speakers, parties and speeches, including names, gender, age, roles, party affiliation, power positions, political leanings, speech dates, topics and sentiment. 
+    This hands-on project-oriented tutorial will provide skills and methodological training to explore ParlaMint version 5.0, which can be obtained by downloading the files or by accessing the preloaded data via online platforms – primarily noSketch Engine and TEITOK.  All data and tools are open access and can be used free of charge.  Designed for researchers in Social Sciences and Humanities with interest in parliamentary discourse but no or little familiarity with corpus linguistic tools, this workshop will train participants to leverage extensive content, annotations and metadata via user-friendly concordancers, facilitating research on individual national parliaments, enabling transnational comparisons, and fostering cross-disciplinary collaboration.  Participants with also discover CLARIN – Common Language Resources and Technology Infrastructure.
+
+- id: voices-as-data
+  title: "Voices as Data: Computational Phonetics"
+  speakers: 
+    - "Katarzyna Foremniak"
+    - "Mariusz Sozański"
+  when: "Friday 10 July 4.30PM Grand Salon"
+  abstract: |
+    While Digital Humanities has extensively explored textual and visual sources, the computational analysis of speech and vocal performance remains underrepresented.  This two-week workshop introduces voice as structured cultural data and critically examines how AI technologies mediate access to vocal heritage. 
+    Participants will learn how to design and curate small speech corpora, extract acoustic and prosodic features, and apply basic statistical models to analyze phonetic variation.  Building on these foundations, the workshop integrates AI-based speech technologies, including automatic speech recognition and large language models, with a strong emphasis on evaluation, bias detection, and epistemic risk.  Rather than focusing on tool usage alone, the course foregrounds responsible AI practices, transparency, and reproducibility in the analysis of spoken cultural data. 
+    Through hands-on sessions using open datasets such as Mozilla Common Voice and selected oral history recordings, participants will collaboratively build a reusable, open-source research toolkit hosted on GitHub.  This toolkit will include containerized workflows, analysis notebooks, documentation, and a responsible-AI framework tailored to speech data in humanities research.  The workshop combines computational practice, infrastructural awareness, and critical reflection, empowering participants from diverse disciplinary backgrounds to treat voice as analyzable cultural evidence while remaining attentive to ethical, methodological, and social implications.  No advanced programming skills are required. 
+
+- id: RayuelaParis
+  title: "RayuelaParis: A Literary Journey Through Paris in Hopscotch with Python"
+  speakers: 
+    - "Juan Pablo Chaclan"
+  when: "Wednesday 15 July, 4.30PM Grand Salon"
+  abstract: |
+    RayuelaParis is a digital humanities project that investigates how literary space can be extracted, structured, and visualized from narrative texts. Focusing on Julio Cortázar’s Hopscotch, this talk outlines a workflow using Python to identify location references, normalize place names, and geocode them into spatial data. Using tools such as Geocoder and Folium, the project creates interactive maps linking textual excerpts to real locations, offering a transferable approach for spatial humanities research.
+
+- id: digital-humanist
+  title: "How and why I became a Digital Humanist and founded the European Summer University"
+  speakers: 
+    - "Elisabeth Burr"
+  when: "Thursday 16 July 4.30PM Grand Salon"
+  abstract: |
+    At my age, I am 74 now, one seems to think a lot about why things developed as they did and why certain decisions or better directions were taken, but writing or talking about this is a real endeavour because you tend to end up in a net of innumerable happenings and conditions. I have tried to disentangle this net at least a little bit.
+    In my conference I will try to position the foundation, mission and ‘philosophy’ of the ESU on a map of my own scholarly development. By concentrating on where I come from, what my studies meant for me, the solitary search for doing research as it seemed right to me, the turning point and change in perspective, teaching and responsibility challenges, I hope to give you also some insights into some aspects of the historical development not only of linguistic research but also of our diverse transdisciplinary field.
+    I hope that this can also be an incentive to think about how the disciplines you come from and what you learnt during your studies might very well guide you in moving away from certain approaches and towards an epistemology like Digital Humanities which offer us the possibility to put the change of perspective we feel to be necessary into practice.
+    
+- id: From-Data-to-Engagement
+  title: "From Data to Engagement: digital mediation of cultural heritage"
+  speakers: 
+    - "Chiara Zuanni"
+  when: "Friday 10 July 5.15PM Grand Salon"
+  abstract: |
+    This conference will focus on digital engagement with cultural heritage. It will discuss how digital methods do not only support research, but also the mediation of heritage collections to audiences on site and online. It will highlight the importance of understanding different users and audiences, offering an overview of engagement approaches (incl. storytelling and gamification) and possible digital methods (e.g. online portals, mobile and web applications, eXtended Reality). The contribution will briefly cover evaluation and digital audience research, as well as ethical questions that emerge in sharing and fostering reuse of digital heritage in the public sphere.
+    
+- id: Reliable-LLM-Workflows
+  title: "Studying dynastic and professional networks: Strict and Reliable LLM Workflows with SQL"
+  speakers: 
+    - "Rosenn Nicolas"
+  when: "Wednesday 8 July 4.30PM Grand Salon"
+  abstract: |
+    How can we examine the influence of a group of publishers’ dynastic and professional network on their editorial choices? Using the example of the Gabiano-Laporte dynasty of Lyon in the 16th century and their publications, this presentation introduces a technical methodology for the study of the history of the book. Indeed, it enables the analysis of a large corpus, the identification of family and professional relationships, and the quantitative analysis of book production. This involves using digital tools such as databases, SQL, JavaScript and LLMs. In this way, it is possible to answer a historical question using digital tools.
